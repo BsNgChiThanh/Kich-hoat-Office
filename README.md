@@ -2,6 +2,8 @@
  
 This active can be used for 180 days, then run the activation like the original will use the next 180 days!!!
 
+Chạy kích hoạt này sẽ được 180 ngày sử dụng, gần hết thì các bạn chạy kính hoạt này một lần nữa sẽ được 180 ngày và hãy lập lại như thế sẽ xem như vĩnh viễn
+
 Office | cmd | Notes
 -- | -- | --  
 2016|https://bit.ly/3E6Tnom|
