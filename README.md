@@ -20,7 +20,7 @@ Office 365 Enterprise | |[Tài khoản kích hoạt](https://bsthanh-my.sharepoi
 
 Kích hoạt Office bằng AIO Tools V3.1.3:  https://bit.ly/3O70Xnk 
 
-Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ Office Tool Plus!
+Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ [Office Tool Plus!](https://otp.landian.vip/en-us/)
 ![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
 Chọn Office sau đó intall licenses, bấm Yes
 ![2](https://user-images.githubusercontent.com/82578024/163676923-384d2e00-6f0d-4585-aeec-cdb22e5b08cd.jpg)
