@@ -196,9 +196,10 @@ Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu t�
 
 # Đặc biệt Office 2010 đến 2019 bạn dùng **AIO Tools V3.1.3** kích hoạt rất OK #
 
-Kích hoạt Office bằng AIO Tools V3.1.3 [bấm vào đây để download](https://bit.ly/3O70Xnk)
+**Kích hoạt Office bằng AIO Tools V3.1.3 [bấm vào đây để download](https://bit.ly/3O70Xnk)**
 
-Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ [Office Tool Plus!](https://otp.landian.vip/en-us/)
+**Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ [Office Tool Plus!](https://otp.landian.vip/en-us/)**
+
 ![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
 Chọn Office sau đó intall licenses, bấm Yes
 ![2](https://user-images.githubusercontent.com/82578024/163676923-384d2e00-6f0d-4585-aeec-cdb22e5b08cd.jpg)
@@ -206,6 +207,6 @@ Quá trình Intall sẽ diễn ra, khi xong chúng ta bấm nút active!
 ![3](https://user-images.githubusercontent.com/82578024/163676979-a2c41195-a9ce-4ac9-a309-e38046730837.jpg)
 ![4](https://user-images.githubusercontent.com/82578024/163677053-a066a590-5f64-4890-a236-f0971909cfba.jpg)
 
-Hoàn thành active!
+**Hoàn thành active!**
 
-[Chia sẽ địa điểm trên Google map](https://goo.gl/maps/ZAzVMCgx4S4X4A55A)
+**[Chia sẽ địa điểm trên Google map](https://goo.gl/maps/ZAzVMCgx4S4X4A55A)**
