@@ -129,39 +129,6 @@ Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu t�
 Hoặc:
 
 ```php
-if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16"
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16"
-set "cmd=cscript //nologo ospp.vbs"
-%cmd% /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP >nul 2>&1
- 
-%cmd% /dstatus | findstr "Office19ProPlus2019VL"
- 
-if not %errorlevel% == 0 (for /f %x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do %cmd% /inslic:"..\root\Licenses16\%x")
-%cmd% /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP
- 
-%cmd% /sethst:kms.lotro.cc & %cmd% /act
- 
-cls & %cmd% /dstatus
-echo
-```
-
-Hoặc:
-
-```php
-if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" (cd /d "%ProgramFiles%\Microsoft Office\Office16")
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" (cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")
-set k1=KBQNC-JMVHB-WTMKW-F2G48-4VXG3
-cls
-@echo on&mode con: cols=20 lines=2
-cscript ospp.vbs /inpkey:%k1%
-@mode con: cols=100 lines=30
-cscript ospp.vbs /dinstid>id.txt 
-start id.txt
-```
-
-Hoặc:
-
-```php
 @echo off
 title Bs Nguyen Chi Thanh, Kich hoat Microsoft Office 2019 ALL versions!&cls&echo ==========================Bs Nguyen Chi Thanh======================================&echo # Bs Nguyen Chi Thanh, Khoa CC_HSTC_CD BV Dam Doi Kich hoat Microsoft Office 2019&echo ==========================Bs Nguyen Chi Thanh======================================&echo.&echo #San pham ho tro:&echo - Microsoft Office Standard 2019&echo - Microsoft Office Professional Plus 2019&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ==========================Bs Nguyen Chi Thanh======================================&echo Activating your Office...&cscript //nologo ospp.vbs /unpkey:6MWKP >nul&cscript //nologo ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP >nul&set i=1
 :server
@@ -178,7 +145,6 @@ pause >nul
 ```
 
 # 6. Office 2016 #
-
 
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên kichhoatoffice2016.cmd sau đó run file này bằng quyền administrator là OK.
 
