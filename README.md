@@ -5,7 +5,7 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, 365
  
 ## Chạy kích hoạt này sẽ được 180 ngày sử dụng, gần hết thì các bạn chạy kính hoạt này một lần nữa sẽ được 180 ngày và hãy lập lại như thế sẽ xem như vĩnh viễn ##
 
-## Nếu bạn hay quên, hãy cho file cmd của mình tạo ra khởi động cùng Windows, khi đó mỗi lần khởi động máy thì file cmd này tự động chạy đồng nghĩa với office của mình mới được active lại và thời hạn sử dụng đồng nghĩa với tự động gia hạn, để làm đều này bạn xem hướng dẫn sau đây: ##
+## Nếu bạn hay quên, hãy cho file cmd của mình tạo ra khởi động cùng Windows, khi đó mỗi lần khởi động máy thì file cmd này tự động chạy đồng nghĩa với office của mình mới được active lại và thời hạn sử dụng cũng đồng nghĩa với tự động gia hạn, để làm đều này bạn xem hướng dẫn sau đây: ##
 
 Hãy nhấn phím logo **Windows + R**, nhập **shell:startup**, rồi chọn OK. Thao tác này sẽ mở thư mục Khởi động.
 
