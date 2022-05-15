@@ -160,14 +160,33 @@ echo.&echo ==========================Bs Nguyen Chi Thanh========================
 pause >nul
 ```
 
-Office | cmd | Ghi chú
--- | -- | --  
-2010||[Cập nhật key Active](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/ESh50ahbFk1GrAs5HFQjsVoBkkzPs9Ro7vBfZY-0hXkeJQ?e=GHv1ek)
-2013||[Cập nhật key Active](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EdiUBMBXbIFBnLO_5dzAhu0B0LF_cEDvqCtvRuuxw61kgw?e=kwV3ej)
-2016|https://bit.ly/3E6Tnom| [Cập nhập key Active](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EWy8G90sRmlOltlzWo9L4FUBurSDvoUd5Auh9NjudRan4A?e=GT2I8I)|
+# 6. Office 2016 #
 
 
-Kích hoạt Office bằng AIO Tools V3.1.3:  https://bit.ly/3O70Xnk 
+Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên kichhoatoffice2016.cmd sau đó run file này bằng quyền administrator là OK.
+
+```php
+@echo off
+title Activate Microsoft Office 2016 ALL versions for FREE!&cls&echo ============================================================================&echo #Project: Activating Microsoft software products for FREE without software&echo ============================================================================&echo.&echo #Supported products:&echo - Microsoft Office Standard 2016&echo - Microsoft Office Professional Plus 2016&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_mak*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ============================================================================&echo Activating your Office...&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:WFG99 >nul&cscript //nologo ospp.vbs /unpkey:DRTFM >nul&cscript //nologo ospp.vbs /unpkey:BTDRB >nul&cscript //nologo ospp.vbs /unpkey:CPQVG >nul&cscript //nologo ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99 >nul&set i=1
+:server
+if %i%==1 set KMS=kms7.MSGuides.com
+if %i%==2 set KMS=kms8.MSGuides.com
+if %i%==3 set KMS=kms9.MSGuides.com
+if %i%==4 goto notsupported
+cscript //nologo ospp.vbs /sethst:%KMS% >nul&echo ============================================================================&echo.&echo.
+cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running everyday!&echo.&echo ============================================================================&choice /n /c YN /m "Would you like to visit my blog [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
+explorer "http://MSGuides.com"&goto halt
+:notsupported
+echo.&echo ============================================================================&echo Sorry! Your version is not supported.&echo Please try installing the latest version here: bit.ly/downloadmsp
+:stop
+pause> null
+```
+
+# 7. Office 2010 đến 2019 #
+
+Từ Office 2010 đến Office 2019 bạn dùng **AIO Tools V3.1.3** kích hoạt rất OK
+
+Kích hoạt Office bằng AIO Tools V3.1.3 [bấm vào đây để download](https://bit.ly/3O70Xnk)
 
 Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ [Office Tool Plus!](https://otp.landian.vip/en-us/)
 ![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
