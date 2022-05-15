@@ -5,7 +5,7 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, 365
  
 ## Chạy kích hoạt này sẽ được 180 ngày sử dụng, gần hết thì các bạn chạy kính hoạt này một lần nữa sẽ được 180 ngày và hãy lập lại như thế sẽ xem như vĩnh viễn ##
 
-## Chia sẽ và cập nhật key, tài khoản kích hoạt vĩnh viễn ##
+
 
 # 1. Office 365 Prolus! #
 
