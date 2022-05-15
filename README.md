@@ -74,6 +74,8 @@ pause >nul
 
 Bạn dùng tài khoản để kích hoạt nhé! [Bấm vào đây để lấy tài khoản](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQa9vlOr8JdOqcUEYGyjjfQBvW7eHmeqtjR1KMf__A2lHw?e=YgQkSj)
 
+**Tham khảo thêm về office 365 E5 _ Office 365 Enterprise [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
+
 # 4. Office 2021 #
 
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên kichhoatoffice2021.cmd sau đó run file này bằng quyền administrator là OK.
