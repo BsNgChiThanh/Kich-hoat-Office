@@ -11,7 +11,7 @@ Hãy nhấn phím logo **Windows + R**, nhập **shell:startup**, rồi chọn O
 
 Sao chép và dán file cmd của mình vào đấy là Ok
 
-# 1. Office 365 Prolus! #
+# 1. Office 365 Prolus #
 
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên kichhoatoffice365Prolus.cmd sau đó run file này bằng quyền administrator là OK.
 
