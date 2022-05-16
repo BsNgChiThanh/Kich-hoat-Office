@@ -55,7 +55,7 @@ echo.&echo =====================================================================
 pause >nul
 ```
 
-# 2. Office 365 mondo 2016 #
+# 2. Office 365 Mondo 2016 #
 
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên kichhoatoffice365Mondo.cmd sau đó run file này bằng quyền administrator là OK.
 
