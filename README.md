@@ -170,6 +170,10 @@ Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu t�
 
 **Kích hoạt Office bằng AIO Tools V3.1.3 [bấm vào đây để download](https://bit.ly/3O70Xnk)**
 
+**cũng có thể kích hoạt bằng cmd, tải đoạn code sau để thực hiện: [MAS_1.4_AIO_CRC32_9A7B5B05.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8708433/MAS_1.4_AIO_CRC32_9A7B5B05.txt) Hình ảnh khi chạy kích hoạt:**
+
+![1](https://user-images.githubusercontent.com/82578024/168817246-ce940046-5754-45ec-aded-736e8e400e02.gif)
+
 **Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ [Office Tool Plus!](https://otp.landian.vip/en-us/)**
 
 ![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
