@@ -183,6 +183,6 @@ Quá trình Intall sẽ diễn ra, khi xong chúng ta bấm nút active!
 ![3](https://user-images.githubusercontent.com/82578024/163676979-a2c41195-a9ce-4ac9-a309-e38046730837.jpg)
 ![4](https://user-images.githubusercontent.com/82578024/163677053-a066a590-5f64-4890-a236-f0971909cfba.jpg)
 
-**Hoàn thành active!**
+**Hoàn thành Kích hoạt!**
 
 **[Chia sẽ địa điểm trên Google map](https://goo.gl/maps/ZAzVMCgx4S4X4A55A)**
