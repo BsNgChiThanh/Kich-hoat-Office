@@ -170,7 +170,7 @@ Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu t�
 
 **Kích hoạt Office bằng AIO Tools V3.1.3 [bấm vào đây để download](https://bit.ly/3O70Xnk)**
 
-**Cũng có thể kích hoạt bằng cmd, tải đoạn code sau để thực hiện: [MAS_1.4_AIO_CRC32_9A7B5B05.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8708433/MAS_1.4_AIO_CRC32_9A7B5B05.txt), trang chủ [bấm vào đây](https://massgrave.dev/). Hình ảnh khi chạy kích hoạt:**
+**Cũng có thể kích hoạt bằng [MAS_1.5_AIO](https://1drv.ms/u/s!Ao74wlrkLhtdpFkJjD_EU0qra7Re?e=aqzEiT), trang chủ [bấm vào đây](https://massgrave.dev/). Hình ảnh khi chạy kích hoạt:**
 
 ![1](https://user-images.githubusercontent.com/82578024/168817246-ce940046-5754-45ec-aded-736e8e400e02.gif)
 
