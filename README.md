@@ -88,25 +88,6 @@ echo ===========================================================================
 pause >nul
 ```
 
-Hoặc:
-
-```php
-@echo off
-title Activate Microsoft Office 2021 ProPlus for FREE - MSGuides.com&amp;cls&amp;echo ============================================================================&amp;echo #Project: Activating Microsoft software products for FREE without software&amp;echo ============================================================================&amp;echo.&amp;echo #Supported products: Microsoft Office 2021 ProPlus (x86-x64)&amp;echo.&amp;echo.&amp;(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&amp;(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&amp;(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" &gt;nul)&amp;(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_mak*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" &gt;nul)&amp;echo.&amp;echo ============================================================================&amp;echo Activating your Office...&amp;cscript //nologo slmgr.vbs /ckms &gt;nul&amp;cscript //nologo ospp.vbs /setprt:1688 &gt;nul&amp;cscript //nologo ospp.vbs /unpkey:WFG99 &gt;nul&amp;cscript //nologo ospp.vbs /unpkey:DRTFM &gt;nul&amp;cscript //nologo ospp.vbs /unpkey:BTDRB &gt;nul&amp;cscript //nologo ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99 &gt;nul&amp;set i=1
-:server
-if %i%==1 set KMS=kms7.MSGuides.com
-if %i%==2 set KMS=kms8.MSGuides.com
-if %i%==3 set KMS=kms9.MSGuides.com
-if %i%==4 goto notsupported
-cscript //nologo ospp.vbs /sethst:%KMS% &gt;nul&amp;echo ============================================================================&amp;echo.&amp;echo.
-cscript //nologo ospp.vbs /act | find /i "successful" &amp;&amp; (echo.&amp;echo ============================================================================&amp;echo.&amp;echo #My official blog: MSGuides.com&amp;echo.&amp;echo #How it works: bit.ly/kms-server&amp;echo.&amp;echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&amp;echo.&amp;echo #Please consider supporting this project: donate.msguides.com&amp;echo #Your support is helping me keep my servers running everyday!&amp;echo.&amp;echo ============================================================================&amp;choice /n /c YN /m "Would you like to visit my blog [Y,N]?" &amp; if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... &amp; echo Please wait... &amp; echo. &amp; echo. &amp; set /a i+=1 &amp; goto server)
-explorer "https://phamtuantech.com/"&amp;goto halt
-:notsupported
-echo.&amp;echo ============================================================================&amp;echo Sorry! Your version is not supported.&amp;echo Please try installing the latest version.
-:halt
-pause &gt;nul
-```
-
 # 5. Office 2019 #
 
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2019.cmd** sau đó run file này bằng quyền administrator là OK.
