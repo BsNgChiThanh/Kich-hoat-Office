@@ -202,6 +202,8 @@ echo.&echo =====================================================================
 pause >nul
 ```
 
+Hoặc:
+
 Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Command Prompt, bấm chuột phải chọn Run Administrator)
 
 ![1](https://user-images.githubusercontent.com/82578024/168939483-8b9dd175-677f-4493-9ed0-f6731ce10b40.gif)
