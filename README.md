@@ -255,6 +255,8 @@ cscript //Nologo ospp.vbs /sethst:kms.lotro.cc&cscript //nologo ospp.vbs /act&ti
 @
 ```
 
+**Hoặc dùng đoạn mã sau: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8716230/Online.KMS.Activation.Script.v6.0.txt)**
+
 # Đặc biệt Office 2010 đến 2019 bạn dùng **AIO Tools V3.1.3** kích hoạt rất OK #
 
 **Kích hoạt Office bằng AIO Tools V3.1.3 [bấm vào đây để download](https://bit.ly/3O70Xnk)**
@@ -262,6 +264,10 @@ cscript //Nologo ospp.vbs /sethst:kms.lotro.cc&cscript //nologo ospp.vbs /act&ti
 **Cũng có thể kích hoạt bằng MAS_1.5_AIO đoạn mã: [MAS_1.5_AIO_CRC32_21D20776.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8711448/MAS_1.5_AIO_CRC32_21D20776.txt), trang chủ [bấm vào đây](https://massgrave.dev/). Hình ảnh khi chạy kích hoạt:**
 
  ![1](https://user-images.githubusercontent.com/82578024/168907463-2f726e32-dd9a-434f-a547-e99b84b80ae6.gif)
+
+**Cũng có thể kích hoạt bằng KMS Tool đoạn mã: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8716282/Online.KMS.Activation.Script.v6.0.txt)**
+
+![1](https://user-images.githubusercontent.com/82578024/169042115-f03a2834-6ebb-4a72-a2df-4b626e4c9de4.gif)
 
 **Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ Office Tool Plus [bấm vào đây](https://otp.landian.vip/en-us/) hoặc [vào đây](https://www.microsoft.com/en-us/download/details.aspx?id=49117)**
 
