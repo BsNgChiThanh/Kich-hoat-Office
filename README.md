@@ -263,7 +263,7 @@ cscript //Nologo ospp.vbs /sethst:kms.lotro.cc&cscript //nologo ospp.vbs /act&ti
 
  ![1](https://user-images.githubusercontent.com/82578024/168907463-2f726e32-dd9a-434f-a547-e99b84b80ae6.gif)
 
-**Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ [Office Tool Plus!](https://otp.landian.vip/en-us/)**
+**Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ Office Tool Plus![bấm vào đây](https://otp.landian.vip/en-us/) [hoặc vào đây](https://www.microsoft.com/en-us/download/details.aspx?id=49117)**
 
 ![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
 Chọn Office sau đó intall licenses, bấm Yes
