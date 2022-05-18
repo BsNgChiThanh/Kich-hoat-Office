@@ -3,6 +3,8 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, 365
 
 **[Source nguồn Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true)**. **Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true)**
 
+**Nếu bạn muốn tìm key windows và office thì [bấm vào đây](https://t.me/+yqfFsJPOciwyY2Vl)**
+
 # Kích hoạt Office bằng cmd!!!
  
 ## Chạy kích hoạt này sẽ được 180 ngày sử dụng, gần hết thì các bạn chạy kính hoạt này một lần nữa sẽ được 180 ngày và hãy lập lại như thế sẽ xem như vĩnh viễn ##
@@ -116,6 +118,18 @@ echo.&echo ==========================Bs Nguyen Chi Thanh========================
 pause >nul
 ```
 
+**Office 2019 Prolus:**
+
+Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Command Prompt, bấm chuột phải chọn Run Administrator)
+
+![1](https://user-images.githubusercontent.com/82578024/168939483-8b9dd175-677f-4493-9ed0-f6731ce10b40.gif)
+
+Dán đoạn mã sau vào:
+
+```php
+if exist “%ProgramFiles%\Microsoft Office\Office16\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office16” if exist “%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office16” set “cmd=cscript //nologo ospp.vbs” %cmd% /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP >nul 2>&1 %cmd% /dstatus | findstr “Office19ProPlus2019VL” if not %errorlevel% == 0 (for /f %x in (‘dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms’) do %cmd% /inslic:”..\root\Licenses16\%x”) %cmd% /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP %cmd% /sethst:kms.lotro.cc & %cmd% /act cls & %cmd% /dstatus echo.
+```
+
 # 6. Office 2016 #
 
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2016.cmd** sau đó run file này bằng quyền administrator là OK.
@@ -135,6 +149,36 @@ explorer "http://MSGuides.com"&goto halt
 echo.&echo ============================================================================&echo Sorry! Your version is not supported.&echo Please try installing the latest version here: bit.ly/downloadmsp
 :stop
 pause> null
+```
+
+Hoặc:
+
+Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Command Prompt, bấm chuột phải chọn Run Administrator)
+
+![1](https://user-images.githubusercontent.com/82578024/168939483-8b9dd175-677f-4493-9ed0-f6731ce10b40.gif)
+
+Dán đoạn mã sau vào:
+
+```php
+set ver=16
+if exist “%ProgramFiles%\Microsoft Office\Office%ver%\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office%ver%”
+if exist “%ProgramFiles(x86)%\Microsoft Office\Office%ver%\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office%ver%”
+for /f “tokens=8” %b in (‘cscript //nologo OSPP.VBS /dstatus ^| findstr /b /c:”Last 5″‘) do (cscript //nologo ospp.vbs /unpkey:%b)
+for /f %i in (‘dir /b ..\root\Licenses%ver%\ProPlusVL_KMS*.xrm-ms’) do cscript ospp.vbs /inslic:”..\root\Licenses%ver%\%i”
+cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
+cscript ospp.vbs /sethst:kms.lotro.cc
+cscript ospp.vbs /act
+Start winword
+@
+```
+
+Hoặc đoạn mã:
+
+```php
+cscript slmgr.vbs /skms kms.digiboy.ir
+cscript slmgr.vbs /ipk XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
+cscript slmgr.vbs /ato d450596f-894d-49e0-966a-fd39ed4c4c64
+timeout 2&start winword&exit
 ```
 
 # 7. Office 2013 #
@@ -158,12 +202,55 @@ echo.&echo =====================================================================
 pause >nul
 ```
 
+Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Command Prompt, bấm chuột phải chọn Run Administrator)
+
+![1](https://user-images.githubusercontent.com/82578024/168939483-8b9dd175-677f-4493-9ed0-f6731ce10b40.gif)
+
+Dán đoạn mã sau vào:
+
+```php
+if exist “%ProgramFiles%\Microsoft Office\Office15\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office15”
+if exist “%ProgramFiles(x86)%\Microsoft Office\Office15\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office15”
+cscript OSPP.VBS /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
+cscript OSPP.VBS /inpkey:FN8TT-7WMH6-2D4X9-M337T-2342K
+cscript OSPP.VBS /inpkey:KBKQT-2NMXY-JJWGP-M62JB-92CD4
+cscript OSPP.VBS /inpkey:C2FG9-N6J68-H8BTJ-BW3QX-RM3B3
+cscript ospp.vbs /sethst:kms.lotro.cc
+cscript ospp.vbs /act
+```
+
+Hoặc đoạn mã:
+
+```php
+if exist “%ProgramFiles%\Microsoft Office\Office15\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office15”
+if exist “%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office15”
+cscript //nologo OSPP.VBS /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
+cscript //nologo ospp.vbs /sethst:kms.lotro.cc&cscript //nologo ospp.vbs /act&timeout 5&start winword&exit
+@
+```
+
 # 8.Office 2010 #
 
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2010.cmd** sau đó run file này bằng quyền administrator là OK.
 
 ```php
 @echo off title Activate Microsoft Office 2010 Volume for FREE!&cls&echo ============================================================================&echo #Project: Activating Microsoft software products for FREE without software&echo ============================================================================&echo.&echo #Supported products:&echo – Microsoft Office 2010 Standard Volume&echo – Microsoft Office 2010 Professional Plus Volume&echo.&echo.&(if exist “%ProgramFiles%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office14”)&(if exist “%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office14”)&echo.&echo ============================================================================&echo Activating your Office…&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:8R6BM >nul&cscript //nologo ospp.vbs /unpkey:H3GVB >nul&cscript //nologo ospp.vbs /inpkey:V7QKV-4XVVR-XYV4D-F7DFM-8R6BM >nul&cscript //nologo ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB >nul&set i=1 :server if %i%==1 set KMS_Sev=kms7.MSGuides.com if %i%==2 set KMS_Sev=kms8.MSGuides.com if %i%==3 set KMS_Sev=kms9.MSGuides.com if %i%==4 goto notsupported cscript //nologo ospp.vbs /sethst:%KMS_Sev% >nul&echo ============================================================================&echo.&echo. cscript //nologo ospp.vbs /act | find /i “successful” && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running everyday!&echo.&echo ============================================================================&choice /n /c YN /m “Would you like to visit my blog [Y,N]?” & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one… & echo Please wait… & echo. & echo. & set /a i+=1 & goto server) explorer “http://MSGuides.com”&goto halt :notsupported echo.&echo ============================================================================&echo Sorry! Your version is not supported. :halt pause >nul
+```
+
+Hoặc:
+
+Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Command Prompt, bấm chuột phải chọn Run Administrator)
+
+![1](https://user-images.githubusercontent.com/82578024/168939483-8b9dd175-677f-4493-9ed0-f6731ce10b40.gif)
+
+Dán đoạn mã sau vào:
+
+```php
+if exist “%ProgramFiles%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office14”
+if exist “%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office14”
+cscript //Nologo OSPP.VBS /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB
+cscript //Nologo ospp.vbs /sethst:kms.lotro.cc&cscript //nologo ospp.vbs /act&timeout 5&start winword&exit
+@
 ```
 
 # Đặc biệt Office 2010 đến 2019 bạn dùng **AIO Tools V3.1.3** kích hoạt rất OK #
