@@ -235,6 +235,8 @@ cscript //nologo ospp.vbs /sethst:kms.lotro.cc&cscript //nologo ospp.vbs /act&ti
 
 # 8.Office 2010 #
 
+**[Video tham khảo](https://youtu.be/kv5Vs5BPqnI)**
+
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2010.cmd** sau đó run file này bằng quyền administrator là OK.
 
 ```php
