@@ -96,6 +96,8 @@ pause >nul
 
 # 5. Office 2019 #
 
+**[Xem thêm video](https://youtu.be/r8adru6z78k)**
+
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2019.cmd** sau đó run file này bằng quyền administrator là OK.
 
 ```php
