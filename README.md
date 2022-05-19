@@ -51,8 +51,8 @@ Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu t�
 title Activate Office 365 ProPlus for FREE - MSGuides.com&cls&echo ============================================================================&echo BS. NGUYEN CHI THANH, TRUONG KHOA CAP CUU BV DAM DOI, Phone 0914678254 &echo ============================================================================&echo.&echo Bs Nguyen Chi Thanh, Activating Office 365 Mondo 2016(x86-x64)&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_mak*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ============================================================================&echo Activating your Office...&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:WFG99 >nul&cscript //nologo ospp.vbs /unpkey:DRTFM >nul&cscript //nologo ospp.vbs /unpkey:BTDRB >nul&cscript //nologo ospp.vbs /inpkey:HFTND-W9MK4-8B7MJ-B6C4G-XQBR2 >nul&set i=1
 :server
 if %i%==1 set KMS=kms7.MSGuides.com
-if %i%==2 set KMS=kms8.MSGuides.com
-if %i%==3 set KMS=kms9.MSGuides.com
+if %i%==2 set KMS=s8.uk.to
+if %i%==3 set KMS=s9.uk.to
 if %i%==4 goto notsupported
 cscript //nologo ospp.vbs /sethst:%KMS% >nul&echo ============================================================================&echo.&echo.
 cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ============================================================================&echo.&echo My blog: bsnguyenchithanh.business.site Phone 0914678254.&echo Hay ung ho Phong kham Noi tong hop tu nhan cua toi. &echo Rat vinh du duoc don tiep qui khach. &echo Chuc qui khach Van su nhu y&echo.&echo ============================================================================&choice /n /c YN /m "Would you like to visit blog of Bs Nguyen Chi Thanh, BV Da Khoa Dam Doi [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
@@ -111,8 +111,8 @@ Hoặc:
 title Bs Nguyen Chi Thanh, Kich hoat Microsoft Office 2019 ALL versions!&cls&echo ==========================Bs Nguyen Chi Thanh======================================&echo # Bs Nguyen Chi Thanh, Khoa CC_HSTC_CD BV Dam Doi Kich hoat Microsoft Office 2019&echo ==========================Bs Nguyen Chi Thanh======================================&echo.&echo #San pham ho tro:&echo - Microsoft Office Standard 2019&echo - Microsoft Office Professional Plus 2019&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ==========================Bs Nguyen Chi Thanh======================================&echo Activating your Office...&cscript //nologo ospp.vbs /unpkey:6MWKP >nul&cscript //nologo ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP >nul&set i=1
 :server
 if %i%==1 set KMS_Sev=kms7.MSGuides.com
-if %i%==2 set KMS_Sev=kms8.MSGuides.com
-if %i%==3 set KMS_Sev=kms9.MSGuides.com
+if %i%==2 set KMS_Sev=s8.uk.to
+if %i%==3 set KMS_Sev=s9.uk.to
 if %i%==4 goto notsupported
 cscript //nologo ospp.vbs /sethst:%KMS_Sev% >nul&echo ==========================Bs Nguyen Chi Thanh======================================&echo.&echo.
 cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ==========================Bs Nguyen Chi Thanh======================================&choice /n /c YN /m "Truy cap trang Web Bs Nguyen Chi Thanh: [Y,N]?" & if errorlevel 2 exit) || (echo Ket noi voi may chu KMS khong thanh cong! Dang ket noi lai... & echo Vui long cho... & echo. & echo. & set /a i+=1 & goto server)
@@ -143,8 +143,8 @@ Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu t�
 title Activate Microsoft Office 2016 ALL versions for FREE!&cls&echo ============================================================================&echo #Project: Activating Microsoft software products for FREE without software&echo ============================================================================&echo.&echo #Supported products:&echo - Microsoft Office Standard 2016&echo - Microsoft Office Professional Plus 2016&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_mak*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ============================================================================&echo Activating your Office...&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:WFG99 >nul&cscript //nologo ospp.vbs /unpkey:DRTFM >nul&cscript //nologo ospp.vbs /unpkey:BTDRB >nul&cscript //nologo ospp.vbs /unpkey:CPQVG >nul&cscript //nologo ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99 >nul&set i=1
 :server
 if %i%==1 set KMS=kms7.MSGuides.com
-if %i%==2 set KMS=kms8.MSGuides.com
-if %i%==3 set KMS=kms9.MSGuides.com
+if %i%==2 set KMS=s8.uk.to
+if %i%==3 set KMS=s9.uk.to
 if %i%==4 goto notsupported
 cscript //nologo ospp.vbs /sethst:%KMS% >nul&echo ============================================================================&echo.&echo.
 cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running everyday!&echo.&echo ============================================================================&choice /n /c YN /m "Would you like to visit my blog [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
@@ -170,7 +170,7 @@ if exist “%ProgramFiles(x86)%\Microsoft Office\Office%ver%\ospp.vbs” cd /d �
 for /f “tokens=8” %b in (‘cscript //nologo OSPP.VBS /dstatus ^| findstr /b /c:”Last 5″‘) do (cscript //nologo ospp.vbs /unpkey:%b)
 for /f %i in (‘dir /b ..\root\Licenses%ver%\ProPlusVL_KMS*.xrm-ms’) do cscript ospp.vbs /inslic:”..\root\Licenses%ver%\%i”
 cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
-cscript ospp.vbs /sethst:kms.lotro.cc
+cscript ospp.vbs /sethst:kms.03k.org
 cscript ospp.vbs /act
 Start winword
 @
@@ -194,8 +194,8 @@ Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu t�
 title Activate Microsoft Office 2013 Volume for FREE!&cls&echo ============================================================================&echo #Project: Activating Microsoft software products for FREE without software&echo ============================================================================&echo.&echo #Supported products:&echo - Microsoft Office 2013 Standard Volume&echo - Microsoft Office 2013 Professional Plus Volume&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office15\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office15")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office15\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office15")&echo.&echo ============================================================================&echo Activating your Office...&cscript //nologo ospp.vbs /unpkey:92CD4 >nul&cscript //nologo ospp.vbs /unpkey:GVGXT >nul&cscript //nologo ospp.vbs /inpkey:KBKQT-2NMXY-JJWGP-M62JB-92CD4 >nul&cscript //nologo ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT >nul&set i=1
 :server
 if %i%==1 set KMS_Sev=kms7.MSGuides.com
-if %i%==2 set KMS_Sev=kms8.MSGuides.com
-if %i%==3 set KMS_Sev=kms9.MSGuides.com
+if %i%==2 set KMS_Sev=s8.uk.to
+if %i%==3 set KMS_Sev=s9.uk.to
 if %i%==4 goto notsupported
 cscript //nologo ospp.vbs /sethst:%KMS_Sev% >nul&echo ============================================================================&echo.&echo.
 cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running everyday!&echo.&echo ============================================================================&choice /n /c YN /m "Would you like to visit my blog [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
@@ -221,7 +221,7 @@ cscript OSPP.VBS /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
 cscript OSPP.VBS /inpkey:FN8TT-7WMH6-2D4X9-M337T-2342K
 cscript OSPP.VBS /inpkey:KBKQT-2NMXY-JJWGP-M62JB-92CD4
 cscript OSPP.VBS /inpkey:C2FG9-N6J68-H8BTJ-BW3QX-RM3B3
-cscript ospp.vbs /sethst:kms.lotro.cc
+cscript ospp.vbs /sethst:kms.03k.org
 cscript ospp.vbs /act
 ```
 
@@ -231,7 +231,7 @@ Hoặc đoạn mã:
 if exist “%ProgramFiles%\Microsoft Office\Office15\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office15”
 if exist “%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office15”
 cscript //nologo OSPP.VBS /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
-cscript //nologo ospp.vbs /sethst:kms.lotro.cc&cscript //nologo ospp.vbs /act&timeout 5&start winword&exit
+cscript //nologo ospp.vbs /sethst:kms.03k.org&cscript //nologo ospp.vbs /act&timeout 5&start winword&exit
 @
 ```
 
@@ -257,7 +257,7 @@ Dán đoạn mã sau vào:
 if exist “%ProgramFiles%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office14”
 if exist “%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office14”
 cscript //Nologo OSPP.VBS /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB
-cscript //Nologo ospp.vbs /sethst:kms.lotro.cc&cscript //nologo ospp.vbs /act&timeout 5&start winword&exit
+cscript //Nologo ospp.vbs /sethst:kms.03k.org&cscript //nologo ospp.vbs /act&timeout 5&start winword&exit
 @
 ```
 
