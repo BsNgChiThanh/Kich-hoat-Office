@@ -42,6 +42,8 @@ pause >nul
 
 # 2. Office 365 Mondo 2016 #
 
+**[Video tham khảo](https://youtu.be/qElCfsleI6g)**
+
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice365Mondo.cmd** sau đó run file này bằng quyền administrator là OK.
 
 ```php
