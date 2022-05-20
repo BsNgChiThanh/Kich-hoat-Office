@@ -205,24 +205,16 @@ Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Co
 Dán đoạn mã sau vào:
 
 ```php
-if exist “%ProgramFiles%\Microsoft Office\Office15\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office15”
-if exist “%ProgramFiles(x86)%\Microsoft Office\Office15\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office15”
-cscript OSPP.VBS /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
-cscript OSPP.VBS /inpkey:FN8TT-7WMH6-2D4X9-M337T-2342K
-cscript OSPP.VBS /inpkey:KBKQT-2NMXY-JJWGP-M62JB-92CD4
-cscript OSPP.VBS /inpkey:C2FG9-N6J68-H8BTJ-BW3QX-RM3B3
-cscript ospp.vbs /sethst:kms.03k.org
-cscript ospp.vbs /act
+if exist "%ProgramFiles%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office15"
+if exist "%ProgramFiles(x86)%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office15"
+if exist "%ProgramFiles%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office14"
+if exist "%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office14"
 ```
 
-Hoặc đoạn mã:
+Sau đó dán tiếp:
 
 ```php
-if exist “%ProgramFiles%\Microsoft Office\Office15\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office15”
-if exist “%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office15”
-cscript //nologo OSPP.VBS /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
-cscript //nologo ospp.vbs /sethst:kms.03k.org&cscript //nologo ospp.vbs /act&timeout 5&start winword&exit
-@
+cscript %folder%\ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVBcscript %folder%\ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXTcscript %folder%\ospp.vbs /sethst:s8.uk.tocscript %folder%\ospp.vbs /setprt:1688cscript %folder%\ospp.vbs /act
 ```
 
 # 8.Office 2010 #
@@ -235,20 +227,25 @@ Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu t�
 Đang cập nhật
 ```
 
-Hoặc:
-
 Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Command Prompt, bấm chuột phải chọn Run Administrator)
 
 ![1](https://user-images.githubusercontent.com/82578024/168939483-8b9dd175-677f-4493-9ed0-f6731ce10b40.gif)
 
 Dán đoạn mã sau vào:
 
+Dán đoạn mã sau vào:
+
 ```php
-if exist “%ProgramFiles%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office14”
-if exist “%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office14”
-cscript //Nologo OSPP.VBS /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB
-cscript //Nologo ospp.vbs /sethst:kms.03k.org&cscript //nologo ospp.vbs /act&timeout 5&start winword&exit
-@
+if exist "%ProgramFiles%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office15"
+if exist "%ProgramFiles(x86)%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office15"
+if exist "%ProgramFiles%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office14"
+if exist "%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office14"
+```
+
+Sau đó dán tiếp:
+
+```php
+cscript %folder%\ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVBcscript %folder%\ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXTcscript %folder%\ospp.vbs /sethst:s8.uk.tocscript %folder%\ospp.vbs /setprt:1688cscript %folder%\ospp.vbs /act
 ```
 
 **Hoặc dùng đoạn mã sau: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8716230/Online.KMS.Activation.Script.v6.0.txt)**
