@@ -15,29 +15,30 @@ Hãy nhấn phím logo **Windows + R**, nhập **shell:startup**, rồi chọn O
 
 Sao chép và dán file cmd của mình vào đấy là Ok
 
+**[Trang chủ của kích hoạt cmd bấm vào đây](https://msguides.com/install-office-multilanguage)**
+
+## MỘT SỐ ĐỊA CHỈ KMS ##
+
+kms7.msguides.com
+
+~~kms8.msguides.com~~
+
+~~kms9.msguides.com~~
+
+s8.uk.to
+
+s9.uk.to
+
+~~kms.lotro.cc~~
+
+kms.03k.org
+
 # 1. Office 365 Prolus #
 
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice365Prolus.cmd** sau đó run file này bằng quyền administrator là OK.
 
 ```php
-@echo off
-title Activate Office 365 ProPlus for FREE - MSGuides.com&cls&echo =====================================================================================&echo #Project: Activating Microsoft software products for FREE without additional software&echo =====================================================================================&echo.&echo #Supported products: Office 365 ProPlus (x86-x64)&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_mak*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ============================================================================&echo Activating your Office...&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:WFG99 >nul&cscript //nologo ospp.vbs /unpkey:DRTFM >nul&cscript //nologo ospp.vbs /unpkey:BTDRB >nul&set i=1&cscript //nologo ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99 >nul||cscript //nologo ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP >nul||goto notsupported
-:skms
-if %i% GTR 10 goto busy
-if %i% EQU 1 set KMS=kms7.MSGuides.com
-if %i% EQU 2 set KMS=s8.uk.to
-if %i% EQU 3 set KMS=sv9.uk.to
-if %i% GTR 3 goto ato
-cscript //nologo ospp.vbs /sethst:%KMS% >nul
-:ato
-echo ============================================================================&echo.&echo.&cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running 24/7!&echo.&echo ============================================================================&choice /n /c YN /m "Would you like to visit my blog [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto skms)
-explorer "http://MSGuides.com"&goto halt
-:notsupported
-echo ============================================================================&echo.&echo Sorry, your version is not supported.&echo.&goto halt
-:busy
-echo ============================================================================&echo.&echo Sorry, the server is busy and can't respond to your request. Please try again.&echo.
-:halt
-pause >nul
+@echo off title Activate Office 365 ProPlus for FREE - MSGuides.com&cls&echo =====================================================================================&echo #Project: Activating Microsoft software products for FREE without additional software&echo =====================================================================================&echo.&echo #Supported products: Office 365 ProPlus (x86-x64)&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_mak*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ============================================================================&echo Activating your Office...&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:WFG99 >nul&cscript //nologo ospp.vbs /unpkey:DRTFM >nul&cscript //nologo ospp.vbs /unpkey:BTDRB >nul&set i=1&cscript //nologo ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99 >nul||cscript //nologo ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP >nul||goto notsupported :skms if %i% GTR 10 goto busy if %i% EQU 1 set KMS=kms7.MSGuides.com if %i% EQU 2 set KMS=s8.uk.to if %i% EQU 3 set KMS=s9.us.to if %i% GTR 3 goto ato cscript //nologo ospp.vbs /sethst:%KMS% >nul :ato echo ============================================================================&echo.&echo.&cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running 24/7!&echo.&echo ============================================================================&choice /n /c YN /m "Would you like to visit my blog [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto skms) explorer "http://MSGuides.com"&goto halt :notsupported echo ============================================================================&echo.&echo Sorry, your version is not supported.&echo.&goto halt :busy echo ============================================================================&echo.&echo Sorry, the server is busy and can't respond to your request. Please try again.&echo. :halt pause >nul
 ```
 
 # 2. Office 365 Mondo 2016 #
@@ -179,7 +180,7 @@ Start winword
 Hoặc đoạn mã:
 
 ```php
-cscript slmgr.vbs /skms kms.digiboy.ir
+cscript slmgr.vbs /kms.03k.org
 cscript slmgr.vbs /ipk XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
 cscript slmgr.vbs /ato d450596f-894d-49e0-966a-fd39ed4c4c64
 timeout 2&start winword&exit
@@ -242,7 +243,7 @@ cscript //nologo ospp.vbs /sethst:kms.03k.org&cscript //nologo ospp.vbs /act&tim
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2010.cmd** sau đó run file này bằng quyền administrator là OK.
 
 ```php
-@echo off title Activate Microsoft Office 2010 Volume for FREE!&cls&echo ============================================================================&echo #Project: Activating Microsoft software products for FREE without software&echo ============================================================================&echo.&echo #Supported products:&echo – Microsoft Office 2010 Standard Volume&echo – Microsoft Office 2010 Professional Plus Volume&echo.&echo.&(if exist “%ProgramFiles%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office14”)&(if exist “%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office14”)&echo.&echo ============================================================================&echo Activating your Office…&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:8R6BM >nul&cscript //nologo ospp.vbs /unpkey:H3GVB >nul&cscript //nologo ospp.vbs /inpkey:V7QKV-4XVVR-XYV4D-F7DFM-8R6BM >nul&cscript //nologo ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB >nul&set i=1 :server if %i%==1 set KMS_Sev=kms7.MSGuides.com if %i%==2 set KMS_Sev=kms8.MSGuides.com if %i%==3 set KMS_Sev=kms9.MSGuides.com if %i%==4 goto notsupported cscript //nologo ospp.vbs /sethst:%KMS_Sev% >nul&echo ============================================================================&echo.&echo. cscript //nologo ospp.vbs /act | find /i “successful” && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running everyday!&echo.&echo ============================================================================&choice /n /c YN /m “Would you like to visit my blog [Y,N]?” & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one… & echo Please wait… & echo. & echo. & set /a i+=1 & goto server) explorer “http://MSGuides.com”&goto halt :notsupported echo.&echo ============================================================================&echo Sorry! Your version is not supported. :halt pause >nul
+@echo off title Activate Microsoft Office 2010 Volume for FREE!&cls&echo ============================================================================&echo #Project: Activating Microsoft software products for FREE without software&echo ============================================================================&echo.&echo #Supported products:&echo – Microsoft Office 2010 Standard Volume&echo – Microsoft Office 2010 Professional Plus Volume&echo.&echo.&(if exist “%ProgramFiles%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office14”)&(if exist “%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office14”)&echo.&echo ============================================================================&echo Activating your Office…&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:8R6BM >nul&cscript //nologo ospp.vbs /unpkey:H3GVB >nul&cscript //nologo ospp.vbs /inpkey:V7QKV-4XVVR-XYV4D-F7DFM-8R6BM >nul&cscript //nologo ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB >nul&set i=1 :server if %i%==1 set KMS_Sev=kms7.MSGuides.com if %i%==2 set KMS_Sev=s8.uk.to if %i%==3 set KMS_Sev=s9.uk.to if %i%==4 goto notsupported cscript //nologo ospp.vbs /sethst:%KMS_Sev% >nul&echo ============================================================================&echo.&echo. cscript //nologo ospp.vbs /act | find /i “successful” && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running everyday!&echo.&echo ============================================================================&choice /n /c YN /m “Would you like to visit my blog [Y,N]?” & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one… & echo Please wait… & echo. & echo. & set /a i+=1 & goto server) explorer “http://MSGuides.com”&goto halt :notsupported echo.&echo ============================================================================&echo Sorry! Your version is not supported. :halt pause >nul
 ```
 
 Hoặc:
