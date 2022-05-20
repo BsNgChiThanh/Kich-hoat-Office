@@ -265,7 +265,7 @@ Sau đó tùy Office mà dán tiếp câu lệnh:
 Office 2021:
 
 ```php
-for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2021VL_KMS*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x
+for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2021VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x
 ```
 
 Office 2019:
@@ -277,9 +277,20 @@ for /f %x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp
 Office 2016:
 
 ```php
-for /f %i in (‘dir /b ..\root\Licenses%ver%\ProPlusVL_KMS*.xrm-ms’) do cscript ospp.vbs /inslic:”..\root\Licenses%ver%\%i”
+for /f %i in (‘dir /b ..\root\Licenses%ver%\ProPlusVL*.xrm-ms’) do cscript ospp.vbs /inslic:”..\root\Licenses%ver%\%i”
 ```
 
+Office 2013
+
+```php
+for /f %x in ('dir /b ..\root\Licenses%ver%\ProPlus2013VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses%ver%\%x"
+```
+
+Office 2010
+
+```php
+for /f %i in (‘dir /b ..\root\Licenses%ver%\ProPlus2010VL*.xrm-ms’) do cscript ospp.vbs /inslic:”..\root\Licenses%ver%\%i”
+```
 
 ## XÓA KEY OFFICE ##
 
