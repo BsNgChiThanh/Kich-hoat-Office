@@ -250,6 +250,37 @@ cscript %folder%\ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVBcscript %folder%\
 
 **Hoặc dùng đoạn mã sau: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8716230/Online.KMS.Activation.Script.v6.0.txt)**
 
+## Convert Office Retail sang Office Volum: ##
+
+Bấm nút **Windows + R**, gõ vào **cmd**
+
+Dán câu lệnh:
+
+```php
+cd C:\Windows\System32
+```
+
+Sau đó tùy Office mà dán tiếp câu lệnh:
+
+Office 2021:
+
+```php
+for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2021VL_KMS*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x
+```
+
+Office 2019:
+
+```php
+for /f %x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
+```
+
+Office 2016:
+
+```php
+for /f %i in (‘dir /b ..\root\Licenses%ver%\ProPlusVL_KMS*.xrm-ms’) do cscript ospp.vbs /inslic:”..\root\Licenses%ver%\%i”
+```
+
+
 ## XÓA KEY OFFICE ##
 
 **Bạn có thể dùng AIO Tools V3.1.3 để xóa, cũng có thể dùng file cmd tạo từ đoạn mã sau:**
