@@ -33,6 +33,8 @@ s9.uk.to
 
 kms.03k.org
 
+~~skms kms.digiboy.ir~~
+
 # 1. Office 365 Prolus #
 
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice365Prolus.cmd** sau đó run file này bằng quyền administrator là OK.
