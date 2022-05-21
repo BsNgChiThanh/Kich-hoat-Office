@@ -375,7 +375,7 @@ goto office
 
 ![1](https://user-images.githubusercontent.com/82578024/169042115-f03a2834-6ebb-4a72-a2df-4b626e4c9de4.gif)
 
-**Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ Office Tool Plus [bấm vào đây](https://otp.landian.vip/en-us/) hoặc [vào đây](https://www.microsoft.com/en-us/download/details.aspx?id=49117), nếu không chạy được là do thiếu runtime, download về cài đặt bổ sung [64 bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EbXNaHe0q45IqKpDwgKMo0EBVo1xNzEF6NX8LiKTLtrBtw?e=tkXSBv) và [32 bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVSbUaBKddtIr2wnjPqPR54B25Wwxr9lGvpdYkv_HDtXQA?e=mu0YnE), hoặc  download runtime từ [trang chủ](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)**
+**Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ Office Tool Plus [bấm vào đây](https://otp.landian.vip/en-us/) nếu không chạy được là do thiếu runtime, download về cài đặt bổ sung [64 bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EbXNaHe0q45IqKpDwgKMo0EBVo1xNzEF6NX8LiKTLtrBtw?e=tkXSBv) và [32 bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EVSbUaBKddtIr2wnjPqPR54B25Wwxr9lGvpdYkv_HDtXQA?e=mu0YnE), hoặc  download runtime từ [trang chủ](https://dotnet.microsoft.com/en-us/download/dotnet/6.0)**
 
 ![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
 Chọn Office sau đó intall licenses, bấm Yes
