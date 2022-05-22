@@ -105,7 +105,7 @@ Bạn không muốn tải bản **Volume** mà muốn tải bản **Retail** th�
 
 Thay chữ **Volum** bằng **Retail** hoặc tùy thích mà thay thế cho phù hợp: **O365BusinessRetail, VisioPro2019Volume, ProjectPro2019Volume**
 
-Bạn không thích dòng nào thì xóa dòng đó và bấm **Save**, sau đó **Run file Settup** là **OK**
+Bạn bấm **Save**, sau đó **Run file Settup** là **OK**
 
 # 1. Office 365 Prolus #
 
