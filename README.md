@@ -33,7 +33,7 @@ s9.uk.to
 
 kms.03k.org
 
-~~skms kms.digiboy.ir
+~~kms kms.digiboy.ir~~
 
 ## Tool download Office tự chỉnh ##
 
