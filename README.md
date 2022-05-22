@@ -97,6 +97,14 @@ Phần ngôn ngữ: nếu bạn chọn Tiếng Anh thì để nguyên, nếu ch�
 | Thai| th-TH| Turkish| tr-TR|
 | Ukrainian| uk-UA| Vietnamese| vi-VN|
 
+Bạn không muốn tải bản **Volume** mà muốn tải bản **Retail** thì trong:
+
+```php
+<Product ID="ProPlus2010Volume">
+```
+
+Thay chữ **Volum** bằng **Retail** hoặc tùy thích mà thay thế cho phù hợp: **O365BusinessRetail, VisioPro2019Volume, ProjectPro2019Volume**
+
 Bạn không thích dòng nào thì xóa dòng đó và bấm **Save**, sau đó **Run file Settup** là **OK**
 
 # 1. Office 365 Prolus #
