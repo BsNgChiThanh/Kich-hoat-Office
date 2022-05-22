@@ -40,6 +40,7 @@ kms.03k.org
 Nhiều khi bạn cài đặt office mà có những phần không bao giờ sử dụng đến, trong phần này sẽ giới thiệu các cài đặt office theo ý muốn, bỏ bớt những phần không sử dụng!
 
 |Office| 32 Bit | 64 Bit | Ghi chú |
+|--|--|--|--|
 |Prolus365Volume| [32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ek7xUMX_tQBOvHOwiHv8JeABUOkLhYzMS5wOJVtJpx_6DA?e=nIB7oQ) | [64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiQ9l2ONS3RIvR3rp_0GWHMBW6ZgKHsTkpwgRAE5agf8Xw?e=MEbHkl)||
 |ProPlus2021Volume| [32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Era0u_olqnFDqTY_-EO6M5ABVn-5bqTcKGpcNpSGEssUiA?e=n57JY9)| [64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EooBXncbvIpBjscYslTB1hAB5gtyLHFY1xCD1_XVzn6Lig?e=XP1R9m)||
 |ProPlus2019Volume| [32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EnWb3wG7kDZMo8FbUT-wdVYBuGOWHyHZsBpWfEq05Z3z5g?e=z1xlMH)|[64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EsyJcg7ILKpPpqiR0Dh9hPgBvaZFBkPzPm24nbnvf1iM-w?e=C8OccE)||
