@@ -409,6 +409,8 @@ script %folder%\ospp.vbs /setprt:1688
 cscript %folder%\ospp.vbs /act
 ```
 
+Hoặc thay đổi địa chỉ máy chủ: **s8.now.im** thành **s8.uk.to**
+
 **Hoặc dùng đoạn mã sau: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8716230/Online.KMS.Activation.Script.v6.0.txt)**
 
 https://user-images.githubusercontent.com/82578024/169677991-9d9247c6-4466-457b-bd07-d18fdc3cd828.mp4
