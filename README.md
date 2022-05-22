@@ -64,12 +64,38 @@ Download về giải nén, mở **config.xml** bằng **NotePad** ta thấy có 
 <ExcludeApp ID="Teams" />
 ```
 
-Phần ngôn ngữ: nếu bạn chọn Tiếng Anh thì để nguyên, nếu chọn Tiếng Việt thì thay chữ "en-us" thành "vi-vn".
+Ví dụ tôi chỉ muốn Word, Excel và PowerPoint tôi sẽ làm như sau (Xóa sạch chỉ chừa lại cái mà tôi thích):
 
 ```php
-<Language ID="en-us" />
-<Language ID="vi-vn" />
+<ExcludeApp ID="Word" />
+<ExcludeApp ID="Excel" />
+<ExcludeApp ID="PowerPoint" />
 ```
+
+Phần ngôn ngữ: nếu bạn chọn Tiếng Anh thì để nguyên, nếu chọn Tiếng Việt thì thay chữ "en-us" thành "vi-vn".
+
+| Language|Thay thế| Language|Thay thế|
+|--|--|--|--|
+| Arabic| ar-SA|Bulgarian| bg-BG|
+| Chinese (Simplified)| zh-CN| Chinese| zh-TW|
+| Croatian| hr-HR|Czech| cs-CZ|
+| Danish| da-DK|Dutch| nl-NL|
+| English| en-US| Estonian| et-EE|
+|Finnish| fi-FI|French| fr-FR| 
+|German| de-DE| Greek |el-GR|
+| Hebrew| he-IL|Hindi | hi-IN
+| Hungarian| hu-HU| Indonesian| id-ID| 
+|Italian| it-IT| Japanese| ja-JP|
+| Kazakh| kk-KZ| Korean| ko-KR|
+| Latvian| lv-LV|Lithuanian| lt-LT|
+|Malay |ms-MY| Norwegian (Bokmål)| nb-NO|
+| Polish| pl-PL| Portuguese| pt-BR|
+| Portuguese| pt-PT| Romanian| ro-RO|
+| Russian| ru-RU| Serbian (Latin)| sr-latn-RS|
+|Slovak| sk-SK| Slovenian| sl-SI|
+| Spanish| es-ES| Swedish| sv-SE|
+| Thai| th-TH| Turkish| tr-TR|
+| Ukrainian| uk-UA| Vietnamese| vi-VN|
 
 Bạn không thích dòng nào thì xóa dòng đó và bấm **Save**, sau đó **Run file Settup** là **OK**
 
