@@ -103,7 +103,17 @@ Bạn không muốn tải bản **Volume** mà muốn tải bản **Retail** th�
 <Product ID="ProPlus2010Volume">
 ```
 
-Thay chữ **Volume** bằng **Retail** hoặc tùy thích mà thay thế cho phù hợp: **O365BusinessRetail, VisioPro2019Volume, VisioPro2019Retail, ProjectPro2019Volume, ProjectPro2019Retail...**
+Thay chữ **Volume** bằng **Retail** 
+
+### Một vài ID thay thế: ###
+
+- O365BusinessRetail
+- VisioPro2019Volume
+- VisioPro2019Retail
+- ProjectPro2019Volume
+- ProjectPro2019Retail
+
+
 
 Bạn bấm **Save**, sau đó **Run file Settup** là **OK**
 
