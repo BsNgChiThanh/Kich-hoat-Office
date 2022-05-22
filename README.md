@@ -260,6 +260,8 @@ cscript %folder%\ospp.vbs /act
 
 **Hoặc dùng đoạn mã sau: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8716230/Online.KMS.Activation.Script.v6.0.txt)**
 
+https://user-images.githubusercontent.com/82578024/169677991-9d9247c6-4466-457b-bd07-d18fdc3cd828.mp4
+
 ## Convert Office Retail sang Office Volum: ##
 
 Bấm nút **Windows + R**, gõ vào **cmd**
