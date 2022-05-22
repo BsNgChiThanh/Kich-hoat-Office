@@ -35,6 +35,43 @@ kms.03k.org
 
 ~~skms kms.digiboy.ir
 
+## Tool download Office tự chỉnh ##
+
+Nhiều khi bạn cài đặt office mà có những phần không bao giờ sử dụng đến, trong phần này sẽ giới thiệu các cài đặt office theo ý muốn, bỏ bớt những phần không sử dụng!
+
+|Office| 32 Bit | 64 Bit | Ghi chú |
+|Prolus365Volume| [32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ek7xUMX_tQBOvHOwiHv8JeABUOkLhYzMS5wOJVtJpx_6DA?e=nIB7oQ) | [64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiQ9l2ONS3RIvR3rp_0GWHMBW6ZgKHsTkpwgRAE5agf8Xw?e=MEbHkl)||
+|ProPlus2021Volume| [32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Era0u_olqnFDqTY_-EO6M5ABVn-5bqTcKGpcNpSGEssUiA?e=n57JY9)| [64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EooBXncbvIpBjscYslTB1hAB5gtyLHFY1xCD1_XVzn6Lig?e=XP1R9m)||
+|ProPlus2019Volume| [32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EnWb3wG7kDZMo8FbUT-wdVYBuGOWHyHZsBpWfEq05Z3z5g?e=z1xlMH)|[64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EsyJcg7ILKpPpqiR0Dh9hPgBvaZFBkPzPm24nbnvf1iM-w?e=C8OccE)||
+|Prolus2016volume|[32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhCo1TwaRLFApel_v_gpdg0BVdinjd5EUlC5bYKM-UGt2w?e=sA9HZI)|[64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EsgG5k8xdIZLndYneWC5VGoBMLekw752gRLk2zw3ZJulAw?e=Mfdlvc)||
+|Prolus2013volume|[32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EsRGk2xFb8FInloUuSGLnUEBPtWKAZyKBFaxb9tHgljwOg?e=1zU5rJ)|[64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ege1-7GQ8KJJiLv8FOMnpYIBRvGyUs10q8ja9VYxKJPh8w?e=MEH4Ep)||
+|Prolus2010volume|[32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmlA818uYvdKmkr9zHw4Fi4BGkPDA7B7IGPFkczFBbs0gw?e=EuTwFD)|[64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EkyqjaY3rQZNtwzI1r_i07IB97iMMkF99NIxh83Z1HkVhg?e=eGzVbk)||
+
+Download về giải nén, mở **config.xml** bằng **NotePad** ta thấy có đoạn:
+
+```php
+<ExcludeApp ID="Word" />
+<ExcludeApp ID="Excel" />
+<ExcludeApp ID="Access" />
+<ExcludeApp ID="PowerPoint" />
+<ExcludeApp ID="Outlook" />
+<ExcludeApp ID="OneNote" />
+<ExcludeApp ID="Publisher" />
+<ExcludeApp ID="OneDrive" />
+<ExcludeApp ID="Groove" />     (Tức: OneDrive for Business)
+<ExcludeApp ID="Lync" />       (Tức: Skype for Business)
+<ExcludeApp ID="Teams" />
+```
+
+Phần ngôn ngữ: nếu bạn chọn Tiếng Anh thì để nguyên, nếu chọn Tiếng Việt thì thay chữ "en-us" thành "vi-vn".
+
+```php
+<Language ID="en-us" />
+<Language ID="vi-vn" />
+```
+
+Bạn không thích dòng nào thì xóa dòng đó và bấm **Save**, sau đó **Run file Settup** là **OK**
+
 # 1. Office 365 Prolus #
 
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice365Prolus.cmd** sau đó run file này bằng quyền administrator là OK.
