@@ -33,9 +33,7 @@ s9.uk.to
 
 kms.03k.org
 
-~~skms kms.digiboy.ir~~
-
-~~s8.uk.toc~~
+~~skms kms.digiboy.ir
 
 # 1. Office 365 Prolus #
 
