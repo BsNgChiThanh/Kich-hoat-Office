@@ -35,6 +35,8 @@ kms.03k.org
 
 ~~skms kms.digiboy.ir~~
 
+~~s8.uk.toc~~
+
 # 1. Office 365 Prolus #
 
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice365Prolus.cmd** sau đó run file này bằng quyền administrator là OK.
@@ -214,7 +216,11 @@ if exist "%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs" set folder="%P
 Sau đó dán tiếp:
 
 ```php
-cscript %folder%\ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVBcscript %folder%\ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXTcscript %folder%\ospp.vbs /sethst:s8.uk.tocscript %folder%\ospp.vbs /setprt:1688cscript %folder%\ospp.vbs /act
+cscript %folder%\ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB
+cscript %folder%\ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
+cscript %folder%\ospp.vbs /sethst:s8.now.im
+script %folder%\ospp.vbs /setprt:1688
+cscript %folder%\ospp.vbs /act
 ```
 
 # 8.Office 2010 #
@@ -245,7 +251,11 @@ if exist "%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs" set folder="%P
 Sau đó dán tiếp:
 
 ```php
-cscript %folder%\ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVBcscript %folder%\ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXTcscript %folder%\ospp.vbs /sethst:s8.uk.tocscript %folder%\ospp.vbs /setprt:1688cscript %folder%\ospp.vbs /act
+cscript %folder%\ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB
+cscript %folder%\ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
+cscript %folder%\ospp.vbs /sethst:s8.now.im
+script %folder%\ospp.vbs /setprt:1688
+cscript %folder%\ospp.vbs /act
 ```
 
 **Hoặc dùng đoạn mã sau: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8716230/Online.KMS.Activation.Script.v6.0.txt)**
