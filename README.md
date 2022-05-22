@@ -372,6 +372,8 @@ script %folder%\ospp.vbs /setprt:1688
 cscript %folder%\ospp.vbs /act
 ```
 
+Hoặc thay đổi địa chỉ máy chủ: **s8.now.im** thành **s8.uk.to**
+
 # Office 2010 #
 
 **[tham khảo](https://youtu.be/kv5Vs5BPqnI)**
