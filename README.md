@@ -35,44 +35,7 @@ kms.03k.org
 
 ~~kms kms.digiboy.ir~~
 
-## Tool download Office tự chỉnh ##
-
-Nhiều khi bạn cài đặt office mà có những phần không bao giờ sử dụng đến, trong phần này sẽ giới thiệu các cài đặt office theo ý muốn, bỏ bớt những phần không sử dụng!
-
-|Office| 32 Bit | 64 Bit | Ghi chú |
-|--|--|--|--|
-|Prolus365Volume| [32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ek7xUMX_tQBOvHOwiHv8JeABUOkLhYzMS5wOJVtJpx_6DA?e=nIB7oQ) | [64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EiQ9l2ONS3RIvR3rp_0GWHMBW6ZgKHsTkpwgRAE5agf8Xw?e=MEbHkl)||
-|ProPlus2021Volume| [32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Era0u_olqnFDqTY_-EO6M5ABVn-5bqTcKGpcNpSGEssUiA?e=n57JY9)| [64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EooBXncbvIpBjscYslTB1hAB5gtyLHFY1xCD1_XVzn6Lig?e=XP1R9m)||
-|ProPlus2019Volume| [32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EnWb3wG7kDZMo8FbUT-wdVYBuGOWHyHZsBpWfEq05Z3z5g?e=z1xlMH)|[64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EsyJcg7ILKpPpqiR0Dh9hPgBvaZFBkPzPm24nbnvf1iM-w?e=C8OccE)||
-|Prolus2016volume|[32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EhCo1TwaRLFApel_v_gpdg0BVdinjd5EUlC5bYKM-UGt2w?e=sA9HZI)|[64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EsgG5k8xdIZLndYneWC5VGoBMLekw752gRLk2zw3ZJulAw?e=Mfdlvc)||
-|Prolus2013volume|[32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EsRGk2xFb8FInloUuSGLnUEBPtWKAZyKBFaxb9tHgljwOg?e=1zU5rJ)|[64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/Ege1-7GQ8KJJiLv8FOMnpYIBRvGyUs10q8ja9VYxKJPh8w?e=MEH4Ep)||
-|Prolus2010volume|[32 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EmlA818uYvdKmkr9zHw4Fi4BGkPDA7B7IGPFkczFBbs0gw?e=EuTwFD)|[64 Bit](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_tk/EkyqjaY3rQZNtwzI1r_i07IB97iMMkF99NIxh83Z1HkVhg?e=eGzVbk)||
-
-Download về giải nén, mở **config.xml** bằng **NotePad** ta thấy có đoạn:
-
-```php
-<ExcludeApp ID="Word" />
-<ExcludeApp ID="Excel" />
-<ExcludeApp ID="Access" />
-<ExcludeApp ID="PowerPoint" />
-<ExcludeApp ID="Outlook" />
-<ExcludeApp ID="OneNote" />
-<ExcludeApp ID="Publisher" />
-<ExcludeApp ID="OneDrive" />
-<ExcludeApp ID="Groove" />     (Tức: OneDrive for Business)
-<ExcludeApp ID="Lync" />       (Tức: Skype for Business)
-<ExcludeApp ID="Teams" />
-```
-
-Ví dụ tôi chỉ muốn Word, Excel và PowerPoint tôi sẽ làm như sau (Xóa sạch chỉ chừa lại cái mà tôi thích):
-
-```php
-<ExcludeApp ID="Word" />
-<ExcludeApp ID="Excel" />
-<ExcludeApp ID="PowerPoint" />
-```
-
-Phần ngôn ngữ: nếu bạn chọn Tiếng Anh thì để nguyên, nếu chọn Tiếng Việt thì thay chữ "en-us" thành "vi-vn".
+Phần ngôn ngữ:
 
 | Language|Thay thế| Language|Thay thế|
 |--|--|--|--|
@@ -96,99 +59,6 @@ Phần ngôn ngữ: nếu bạn chọn Tiếng Anh thì để nguyên, nếu ch�
 | Spanish| es-ES| Swedish| sv-SE|
 | Thai| th-TH| Turkish| tr-TR|
 | Ukrainian| uk-UA| Vietnamese| vi-VN|
-
-Bạn không muốn tải bản **Volume** mà muốn tải bản **Retail** thì trong:
-
-```php
-<Product ID="ProPlus2010Volume">
-```
-
-Thay chữ **Volume** bằng **Retail** 
-
-### Một vài ID thay thế: ###
-
-- O365BusinessRetail
-- VisioPro2019Volume
-- VisioPro2019Retail
-- ProjectPro2019Volume
-- ProjectPro2019Retail
-- AccessRetail
-- Access2019Retail
-- Access2021Retail
-- Access2019Volume
-- Access2021Volume
-- ExcelRetail
-- Excel2019Retail
-- Excel2021Retail
-- Excel2019Volume
-- Excel2021Volume
-- HomeBusinessRetail
-- HomeBusiness2019Retail
-- HomeBusiness2021Retail
-- HomeStudentRetail
-- HomeStudent2019Retail
-- HomeStudent2021Retail
-- O365HomePremRetail
-- OneNoteFreeRetail
-- OneNoteRetail
-- OneNote2021Volume
-- OutlookRetail
-- Outlook2019Retail
-- Outlook2021Retail
-- Outlook2019Volume
-- Outlook2021Volume
-- Personal2019Retail
-- Personal2021Retail
-- PowerPointRetail
-- PowerPoint2019Retail
-- PowerPoint2021Retail
-- PowerPoint2019Volume
-- PowerPoint2021Volume
-- ProfessionalRetail
-- Professional2019Retail
-- Professional2021Retail
-- ProjectProXVolume
-- ProjectPro2019Retail
-- ProjectPro2021Retail
-- ProjectPro2019Volume
-- ProjectPro2021Volume
-- ProjectStdRetail
-- ProjectStdXVolume
-- ProjectStd2019Retail
-- ProjectStd2021Retail
-- ProjectStd2019Volume
-- ProjectStd2021Volume
-- ProPlus2019Volume
-- ProPlus2021Volume
-- ProPlusSPLA2021Volume
-- ProPlus2019Retail
-- ProPlus2021Retail
-- PublisherRetail
-- Publisher2019Retail
-- Publisher2021Retail
-- Publisher2019Volume
-- Publisher2021Volume
-- Standard2019Volume
-- Standard2021Volume
-- StandardSPLA2021Volume
-- VisioProXVolume
-- VisioPro2019Retail
-- VisioPro2021Retail
-- VisioPro2019Volume
-- VisioPro2021Volume
-- VisioStdRetail
-- VisioStdXVolume
-- VisioStd2019Retail
-- VisioStd2021Retail
-- VisioStd2019Volume
-- VisioStd2021Volume
-- WordRetail
-- Word2019Retail
-- Word2021Retail
-- Word2019Volume
-- Word2021Volume
-
-Bạn bấm **Save**, sau đó **Run file Settup** là **OK**
 
 ## KÍCH HOẠT OFFICE ##
 
