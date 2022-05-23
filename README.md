@@ -35,7 +35,7 @@ kms.03k.org
 
 ~~kms kms.digiboy.ir~~
 
-Phần ngôn ngữ:
+### Phần ngôn ngữ ###
 
 | Language|Thay thế| Language|Thay thế|
 |--|--|--|--|
