@@ -394,19 +394,7 @@ Hoặc thay đổi địa chỉ máy chủ: **s8.now.im** thành **s8.uk.to** ho
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2010.cmd** sau đó run file này bằng quyền administrator là OK.
 
 ```php
-@echo off title Activate Microsoft Office 2010 Volume for FREE!&cls&echo ============================================================================&echo #Project: Activating Microsoft software products for FREE without software&echo ============================================================================&echo.&echo #Supported products:&echo – Microsoft Office 2010 Standard Volume&echo – Microsoft Office 2010 Professional Plus Volume&echo.&echo.&(if exist “%ProgramFiles%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office14”)&(if exist “%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office14”)&echo.&echo ============================================================================&echo Activating your Office…&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:8R6BM >nul&cscript //nologo ospp.vbs /unpkey:H3GVB >nul&cscript //nologo ospp.vbs /inpkey:V7QKV-4XVVR-XYV4D-F7DFM-8R6BM >nul&cscript //nologo ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB >nul&set i=1 
-:server 
-if %i%==1 set KMS_Sev=kms7.MSGuides.com 
-if %i%==2 set KMS=s8.uk.to
-if %i%==3 set KMS=s9.uk.to 
-if %i%==4 goto notsupported 
-cscript //nologo ospp.vbs /sethst:%KMS_Sev% >nul&echo ============================================================================&echo.&echo. 
-cscript //nologo ospp.vbs /act | find /i “successful” && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running everyday!&echo.&echo ============================================================================&choice /n /c YN /m “Would you like to visit my blog [Y,N]?” & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one… & echo Please wait… & echo. & echo. & set /a i+=1 & goto server) 
-explorer “http://MSGuides.com”&goto halt 
-:notsupported 
-echo.&echo ============================================================================&echo Sorry! Your version is not supported. 
-:stop 
-pause >nul
+Đang cập nhật
 ```
 
 Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Command Prompt, bấm chuột phải chọn Run Administrator)
@@ -434,7 +422,7 @@ script %folder%\ospp.vbs /setprt:1688
 cscript %folder%\ospp.vbs /act
 ```
 
-Hoặc thay đổi địa chỉ máy chủ: **s8.now.im** thành **s8.uk.to**
+Hoặc thay đổi địa chỉ máy chủ: **s8.now.im** thành **s8.uk.to** hoặc **kms.03k.org**
 
 **Hoặc dùng đoạn mã sau: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8716230/Online.KMS.Activation.Script.v6.0.txt)**
 
