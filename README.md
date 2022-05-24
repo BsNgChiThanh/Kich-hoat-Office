@@ -411,11 +411,11 @@ Bạn có thể chuyển đổi qua lại giữa các office sau:
 
 Mà không cần cài đặt lại, giả sử bạn muốn sử dụng Office 2021 mà có một bộ cài đặt Office 2016 hoặc Office 2019 thì phải làm sao? Câu trả lời cứ cài theo bộ cài có sẵn sau đó dùng thủ thuật chuyển đổi trong vài nốt nhạc!
 
-Bạn dùng xóa key Office như đã nói ở phần trên (file cmd), để xóa sạch toàn bộ key Office
+Bạn dùng **xóa key Office** như đã nói ở phần trên (file cmd), để xóa sạch toàn bộ key Office
 
 Sau đó bạn chạy file kích hoạt office (2016, 2019, 2021) bằng cmd là OK! 
 
-Trường hợp bạn muốn sử dụng Office 365 thì sao? Sau khi xóa sạch key Office, bạn dùng Tool Office Plus để gán giấy phép Office 365, nếu bạn gán Office 365 Mondo 2016 thì có file kích hoạt, còn các Office 365 khác thì dùng tài khoản để kích hoạt, mình có một số tài khoản để ở phần trên, hoặc bạn có thể tạo Office 365 E5 auto renew để kích hoạt!
+Trường hợp bạn muốn sử dụng Office 365 thì sao? Sau khi xóa sạch key Office, bạn dùng **Office Tool Plus** để gán giấy phép Office 365, nếu bạn gán Office 365 Mondo 2016 thì có file kích hoạt, còn các Office 365 khác thì dùng tài khoản để kích hoạt, mình có một số tài khoản để ở phần trên, hoặc bạn có thể tạo Office 365 E5 auto renew để kích hoạt!
 
 ### Chúc thành công! ###
 
