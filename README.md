@@ -184,71 +184,13 @@ echo.&echo =====================================================================
 pause> null
 ```
 
-# Office 2013 #
+# Office 2013, Office 2010 #
 
-Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Command Prompt, bấm chuột phải chọn Run Administrator)
-
-![1](https://user-images.githubusercontent.com/82578024/168939483-8b9dd175-677f-4493-9ed0-f6731ce10b40.gif)
-
-Dán đoạn mã sau vào:
-
-```php
-if exist "%ProgramFiles%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office15"
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office15"
-if exist "%ProgramFiles%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office14"
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office14"
-```
-
-Sau đó dán tiếp:
-
-```php
-cscript %folder%\ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB
-cscript %folder%\ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
-cscript %folder%\ospp.vbs /sethst:s8.now.im
-script %folder%\ospp.vbs /setprt:1688
-cscript %folder%\ospp.vbs /act
-```
-
-Hoặc thay đổi địa chỉ máy chủ: **s8.now.im** thành **s8.uk.to** hoặc **kms.03k.org**...
-
-# Office 2010 #
-
-**[tham khảo](https://youtu.be/kv5Vs5BPqnI)**
-
-Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Command Prompt, bấm chuột phải chọn Run Administrator)
-
-![1](https://user-images.githubusercontent.com/82578024/168939483-8b9dd175-677f-4493-9ed0-f6731ce10b40.gif)
-
-Dán đoạn mã sau vào:
-
-Dán đoạn mã sau vào:
-
-```php
-if exist "%ProgramFiles%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office15"
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office15"
-if exist "%ProgramFiles%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office14"
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office14"
-```
-
-Sau đó dán tiếp:
-
-```php
-cscript %folder%\ospp.vbs /inpkey:VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB
-cscript %folder%\ospp.vbs /inpkey:YC7DK-G2NP3-2QQC3-J6H88-GVGXT
-cscript %folder%\ospp.vbs /sethst:s8.now.im
-script %folder%\ospp.vbs /setprt:1688
-cscript %folder%\ospp.vbs /act
-```
-
-Hoặc thay đổi địa chỉ máy chủ: **s8.now.im** thành **s8.uk.to** hoặc **kms.03k.org**
-
-**Hoặc dùng đoạn mã sau: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8762447/Online.KMS.Activation.Script.v6.0.txt)**
+**Dùng đoạn mã sau để kích hoạt office 2013 và 2010 cũng rất tốt: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8762447/Online.KMS.Activation.Script.v6.0.txt)**
 
 **[Hoặc download từ KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
 
-https://user-images.githubusercontent.com/82578024/169677991-9d9247c6-4466-457b-bd07-d18fdc3cd828.mp4
-
-## Convert Office Retail sang Office Volum: ##
+## Convert Office Retail sang Office Volume: ##
 
 Bấm nút **Windows + R**, gõ vào **cmd**
 
