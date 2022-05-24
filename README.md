@@ -35,6 +35,8 @@ kms.03k.org
 
 ~~kms kms.digiboy.ir~~
 
+**[KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
+
 ### Phần ngôn ngữ ###
 
 | Language|Thay thế| Language|Thay thế|
