@@ -294,7 +294,7 @@ cscript %folder%\ospp.vbs /act
 
 Hoặc thay đổi địa chỉ máy chủ: **s8.now.im** thành **s8.uk.to** hoặc **kms.03k.org**
 
-**Hoặc dùng đoạn mã sau: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8716230/Online.KMS.Activation.Script.v6.0.txt)**
+**Hoặc dùng đoạn mã sau: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8762447/Online.KMS.Activation.Script.v6.0.txt)**
 
 https://user-images.githubusercontent.com/82578024/169677991-9d9247c6-4466-457b-bd07-d18fdc3cd828.mp4
 
@@ -428,9 +428,6 @@ goto office
 ![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
 Chọn Office sau đó intall licenses, bấm Yes
 ![2](https://user-images.githubusercontent.com/82578024/163676923-384d2e00-6f0d-4585-aeec-cdb22e5b08cd.jpg)
-Quá trình Intall sẽ diễn ra, khi xong chúng ta bấm nút active!
-![3](https://user-images.githubusercontent.com/82578024/163676979-a2c41195-a9ce-4ac9-a309-e38046730837.jpg)
-![4](https://user-images.githubusercontent.com/82578024/163677053-a066a590-5f64-4890-a236-f0971909cfba.jpg)
 
 **Hoàn thành Kích hoạt!**
 
