@@ -384,7 +384,7 @@ echo [  4. Office 2019     : Nhan phim so 4  ]
 echo [  5. Office 2021     : Nhan phim so 5  ]
 echo [  6. Office 365      : Nhan phim so 6  ]
 echo =========================================
-Choice /N /C 12345 /M "* Nhap lua chon : 
+Choice /N /C 123456 /M "* Nhap lua chon : 
 if %errorlevel% == 6 ( set "xx=16" & goto vogia)
 if %errorlevel% == 5 ( set "xx=16" & goto vogia)
 if %errorlevel% == 4 ( set "xx=16" & goto vogia)
