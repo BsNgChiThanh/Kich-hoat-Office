@@ -263,6 +263,8 @@ Hoặc thay đổi địa chỉ máy chủ: **s8.now.im** thành **s8.uk.to** ho
 
 **Hoặc dùng đoạn mã sau: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8762447/Online.KMS.Activation.Script.v6.0.txt)**
 
+**[Hoặc download từ KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
+
 https://user-images.githubusercontent.com/82578024/169677991-9d9247c6-4466-457b-bd07-d18fdc3cd828.mp4
 
 ## Convert Office Retail sang Office Volum: ##
