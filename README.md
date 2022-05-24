@@ -184,36 +184,6 @@ echo.&echo =====================================================================
 pause> null
 ```
 
-Hoặc:
-
-Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Command Prompt, bấm chuột phải chọn Run Administrator)
-
-![1](https://user-images.githubusercontent.com/82578024/168939483-8b9dd175-677f-4493-9ed0-f6731ce10b40.gif)
-
-Dán đoạn mã sau vào:
-
-```php
-set ver=16
-if exist “%ProgramFiles%\Microsoft Office\Office%ver%\ospp.vbs” cd /d “%ProgramFiles%\Microsoft Office\Office%ver%”
-if exist “%ProgramFiles(x86)%\Microsoft Office\Office%ver%\ospp.vbs” cd /d “%ProgramFiles(x86)%\Microsoft Office\Office%ver%”
-for /f “tokens=8” %b in (‘cscript //nologo OSPP.VBS /dstatus ^| findstr /b /c:”Last 5″‘) do (cscript //nologo ospp.vbs /unpkey:%b)
-for /f %i in (‘dir /b ..\root\Licenses%ver%\ProPlusVL_KMS*.xrm-ms’) do cscript ospp.vbs /inslic:”..\root\Licenses%ver%\%i”
-cscript ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
-cscript ospp.vbs /sethst:kms.03k.org
-cscript ospp.vbs /act
-Start winword
-@
-```
-
-Hoặc đoạn mã:
-
-```php
-cscript slmgr.vbs /kms.03k.org
-cscript slmgr.vbs /ipk XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99
-cscript slmgr.vbs /ato d450596f-894d-49e0-966a-fd39ed4c4c64
-timeout 2&start winword&exit
-```
-
 # Office 2013 #
 
 Mở Command Prompt bằng quyền Run Administrator (Tức bấm tìm kiếm Command Prompt, bấm chuột phải chọn Run Administrator)
