@@ -17,6 +17,8 @@ Sao chép và dán file cmd của mình vào đấy là Ok
 
 **[Trang chủ của kích hoạt cmd bấm vào đây](https://msguides.com/install-office-multilanguage)**
 
+**[Key KMS bấm vào đây](https://github.com/alexroyce315/KMS-Keys)**
+
 ## MỘT SỐ ĐỊA CHỈ KMS ##
 
 kms7.msguides.com
