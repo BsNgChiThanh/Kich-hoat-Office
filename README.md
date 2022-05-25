@@ -37,6 +37,8 @@ kms.03k.org
 
 ~~kms kms.digiboy.ir~~
 
+~~kms.srv.crsoo.com~~
+
 **[KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
 
 ### Phần ngôn ngữ ###
