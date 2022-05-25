@@ -41,6 +41,28 @@ kms.03k.org
 
 **[KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
 
+### Kích hoạt Office bằng key KMS ###
+
+Mở cmd bằng quyền Run Administrator, sau đó truy cập vào thư mục cài đặt (tùy office và Windows mà có một thư mục riêng)
+
+Ví dụ: Office 2013 Windows 32Bit, dán lệnh
+
+```php
+cd C:\Program Files\Microsoft Office\Office15 
+```
+
+Sau đó dán tiếp lệnh:
+
+```php
+cscript ospp.vbs /inpkey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX 
+cscript ospp.vbs /sethst:kms7.msguides.com
+cscript ospp.vbs /act
+```
+
+XXXXX-XXXXX-XXXXX-XXXXX-XXXXX là key KMS Office tương ứng
+
+kms7.msguides.com là địa chỉ máy chủ kms, có thể thay thế bằng một địa chỉ máy chủ khác.
+
 ### Phần ngôn ngữ ###
 
 | Language|Thay thế| Language|Thay thế|
