@@ -214,6 +214,8 @@ pause> null
 
 # Office 2013, Office 2010 #
 
+Một số Tool kích hoạt cho 2 loại Office này không còn nhạy nữa, vì thế khuyên nên cho nó về hưu đi! Còn giả sử bắt khả kháng đã cài đặt rồi hoặc đã hết hạn thì buộc lòng phải kích hoạt mà thôi. Hãy thử các phương pháp sau:
+
 **Dùng đoạn mã sau để kích hoạt office 2013 và 2010 cũng rất tốt: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8762447/Online.KMS.Activation.Script.v6.0.txt)**
 
 **[Hoặc download từ KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
