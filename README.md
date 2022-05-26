@@ -218,45 +218,7 @@ pause> null
 
 ## Convert Office Retail sang Office Volume: ##
 
-Bấm nút **Windows + R**, gõ vào **cmd**
-
-Dán câu lệnh:
-
-```php
-cd C:\Windows\System32
-```
-
-Sau đó tùy Office mà dán tiếp câu lệnh:
-
-Office 2021:
-
-```php
-for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2021VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x
-```
-
-Office 2019:
-
-```php
-for /f %x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
-```
-
-Office 2016:
-
-```php
-for /f %i in (‘dir /b ..\root\Licenses%ver%\ProPlusVL*.xrm-ms’) do cscript ospp.vbs /inslic:”..\root\Licenses%ver%\%i”
-```
-
-Office 2013
-
-```php
-for /f %x in ('dir /b ..\root\Licenses%ver%\ProPlus2013VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses%ver%\%x"
-```
-
-Office 2010
-
-```php
-for /f %i in (‘dir /b ..\root\Licenses%ver%\ProPlus2010VL*.xrm-ms’) do cscript ospp.vbs /inslic:”..\root\Licenses%ver%\%i”
-```
+**[Dùng AIO Tools V3.1.3 để chuyển](https://bit.ly/3O70Xnk)**
 
 ## XÓA KEY OFFICE ##
 
