@@ -5,6 +5,8 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, 365
 
 **Nếu bạn muốn tìm key windows và office thì [bấm vào đây](https://t.me/+yqfFsJPOciwyY2Vl)**
 
+**[Hướng dẫn Microsoft](https://docs.microsoft.com/vi-vn/deployoffice/vlactivation/configure-a-kms-host-computer-for-office)**
+
 # Kích hoạt Office bằng cmd!!!
  
 ## Chạy kích hoạt này sẽ được 180 ngày sử dụng, gần hết thì các bạn chạy kính hoạt này một lần nữa sẽ được 180 ngày và hãy lập lại như thế sẽ xem như vĩnh viễn ##
@@ -219,6 +221,14 @@ pause> null
 ## Convert Office Retail sang Office Volume: ##
 
 **[Dùng AIO Tools V3.1.3 để chuyển](https://bit.ly/3O70Xnk)**
+
+**Hoặc Tool chuyển tự động sang bản Volume**
+
+|Office | 64Bit| 32Bit|
+|--|--|--|
+|Office 2021 LTSC|[64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EZ5z4y0Zd-FPoqKllq-vnxwBSZcWlyY0H_EukkGiGJd_AQ?e=wqTizy) | [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EaYNl2WwILxEn0ypcLYJplsBfIIFmvaLsOtxGBHLa9yU8w?e=NWr9jN)|
+|Office 2019|[64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EX2jmjVdK5xNvvQsb2uBA-0BnYfVD_ZoNH5vzmjmom6U6Q?e=xmqbbf) | [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcX9buej1OpAu4gEUrE_9tgB-LcZdYFyAHACkTPwqaYUCw?e=sZ6h8X)|
+|Office 2016| |[32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcTLcHZNy3dFhonLUYA8P-gB6IPVxbyydaaR6P4FWACJyw?e=lFJp9L) |
 
 ## XÓA KEY OFFICE ##
 
