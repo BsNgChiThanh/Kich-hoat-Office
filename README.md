@@ -319,7 +319,7 @@ Sau đó bạn chạy file kích hoạt office (2016, 2019, 2021) bằng cmd là
 
 Trường hợp bạn muốn sử dụng Office 365 thì sao? Sau khi xóa sạch key Office, bạn dùng **Office Tool Plus** để gán giấy phép Office 365 xong, dùng tài khoản để kích hoạt, mình có một số tài khoản để ở phần trên!
 
-https://user-images.githubusercontent.com/82578024/170655532-70a3df73-4478-437d-b71e-20322a4b2bef.mp4
+https://user-images.githubusercontent.com/82578024/170656193-daa7c7b7-7aed-477f-9b88-1a4bd58eb018.mp4
 
 ### Chúc thành công! ###
 
