@@ -92,13 +92,11 @@ kms7.msguides.com là địa chỉ máy chủ kms, có thể thay thế bằng m
 
 ## KÍCH HOẠT OFFICE ##
 
-# Office 365 Mondo 2016 #
-
-**Dùng AIO Tools V3.1.3 convert sang Office 365 Mondo [bấm vào đây để download](https://bit.ly/3O70Xnk) sau đó kích hoạt bằng Tools này là xong!**
-
 # Office 365 Enterprise #
 
 Bạn dùng tài khoản để kích hoạt nhé! [Bấm vào đây để lấy tài khoản](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQa9vlOr8JdOqcUEYGyjjfQBvW7eHmeqtjR1KMf__A2lHw?e=YgQkSj)
+
+Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũng kích hoạt được nhưng office đề nghị bấm vào cập nhật để được bản office đúng!!!
 
 **Tham khảo thêm về office 365 E5 _ Office 365 Enterprise [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
 
