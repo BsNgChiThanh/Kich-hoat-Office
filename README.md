@@ -203,14 +203,6 @@ Một số Tool kích hoạt cho 2 loại Office này không còn nhạy nữa, 
 
 **[Dùng AIO Tools V3.1.3 để chuyển](https://bit.ly/3O70Xnk)**
 
-**Hoặc Tool chuyển tự động sang bản Volume**
-
-|Office | 64Bit| 32Bit|
-|--|--|--|
-|Office 2021 LTSC|[64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EZ5z4y0Zd-FPoqKllq-vnxwBSZcWlyY0H_EukkGiGJd_AQ?e=wqTizy) | [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EaYNl2WwILxEn0ypcLYJplsBfIIFmvaLsOtxGBHLa9yU8w?e=NWr9jN)|
-|Office 2019|[64Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EX2jmjVdK5xNvvQsb2uBA-0BnYfVD_ZoNH5vzmjmom6U6Q?e=xmqbbf) | [32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcX9buej1OpAu4gEUrE_9tgB-LcZdYFyAHACkTPwqaYUCw?e=sZ6h8X)|
-|Office 2016| |[32Bit](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/EcTLcHZNy3dFhonLUYA8P-gB6IPVxbyydaaR6P4FWACJyw?e=lFJp9L) |
-
 ## XÓA KEY OFFICE ##
 
 **Bạn có thể dùng AIO Tools V3.1.3 để xóa, cũng có thể dùng file cmd tạo từ đoạn mã sau:**
@@ -320,6 +312,8 @@ Sau đó bạn chạy file kích hoạt office (2016, 2019, 2021) bằng cmd là
 Trường hợp bạn muốn sử dụng Office 365 thì sao? Sau khi xóa sạch key Office, bạn dùng **Office Tool Plus** để gán giấy phép Office 365 xong, dùng tài khoản để kích hoạt, mình có một số tài khoản để ở phần trên!
 
 https://user-images.githubusercontent.com/82578024/170656193-daa7c7b7-7aed-477f-9b88-1a4bd58eb018.mp4
+
+https://user-images.githubusercontent.com/82578024/170853349-a0b1b25a-1f19-454b-8dd0-6a45532ac558.mp4
 
 ### Chúc thành công! ###
 
