@@ -21,6 +21,10 @@ Sao chép và dán file cmd của mình vào đấy là Ok
 
 **[Key KMS bấm vào đây](https://github.com/alexroyce315/KMS-Keys)**
 
+**Tôi vẫn thích dùng Office 365 hơn vì nó chỉ add tài khoản Office 365 A1+, E3, E5 là active ngon lành cành đào, nhập một lúc vài chục tài khoản luôn cho thể hiện đẳng cấp**
+
+![1](https://user-images.githubusercontent.com/82578024/171993962-693e02ea-4acb-47e1-af73-4a3fa8dda993.gif)
+
 ## MỘT SỐ ĐỊA CHỈ KMS ##
 
 kms7.msguides.com
