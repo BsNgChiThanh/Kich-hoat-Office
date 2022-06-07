@@ -203,6 +203,8 @@ Một số Tool kích hoạt cho 2 loại Office này không còn nhạy nữa, 
 
 **[Hoặc download từ KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
 
+### Khi kích hoạt bằng cmd thì sử dụng được 180 ngày, để khỏi phải bận tâm ta cũng có thể cho file kích hoạt dạng .cmd khởi động cùng Windows, điều này sẽ làm office luôn ở trạng thái mới kích hoạt xong sau mổi lần chúng ta khởi động để làm việc. Đầu tiên ta vào lệnh Run, bấm Shell:Startup sau đó copy file kích hoạt vào thư mục hiện ra này, vậy là OK, xem Video ###
+
 ## Convert Office Retail sang Office Volume: ##
 
 **[Dùng AIO Tools V3.1.3 để chuyển](https://bit.ly/3O70Xnk)**
