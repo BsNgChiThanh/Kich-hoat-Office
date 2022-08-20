@@ -302,7 +302,7 @@ Chọn Office sau đó intall licenses, bấm Yes
 
 **Hoàn thành Kích hoạt!**
 
-## Ghi nhớ ##
+## Ghi chú ##
 
 Bạn có thể chuyển đổi qua lại giữa các office sau:
 
@@ -322,6 +322,12 @@ Trường hợp bạn muốn sử dụng Office 365 thì sao? Sau khi xóa sạc
 https://user-images.githubusercontent.com/82578024/170656193-daa7c7b7-7aed-477f-9b88-1a4bd58eb018.mp4
 
 https://user-images.githubusercontent.com/82578024/170853349-a0b1b25a-1f19-454b-8dd0-6a45532ac558.mp4
+
+## CÓ NHỮNG TRƯỜNG HỢP BỊ LỖI RẤT KHÓ CHỊU ##
+
+![image](https://user-images.githubusercontent.com/82578024/185740068-23c1a28b-ee50-4cd8-9c4d-03dde7e2affd.png)
+
+Office không nhận bất kì một tài khoản Microsoft nào và báo lỗi kích hoạt lại, tôi đã thử nhiều cách nhưng không được, chỉ có một cách là xóa tất cả các giấy phép, dau đó intall giấy phép Office 2016, 2019 hoặc 2021 LTSC rồi gắn key kích hoạt; nếu không có key thì kích hoạt bằng cmd thì sử dụng được!
 
 ## Sao lưu Office và Windows ##
 
