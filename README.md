@@ -104,7 +104,7 @@ Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũn
 
 **Tham khảo thêm về office 365 E5 _ Office 365 Enterprise [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
 
-# Office365 Mondo #
+# Office365 Mondo 2016 #
 
 Không có bộ cài riêng, bạn cài Ofice 2016 hoặc 2019 hoặc 2021 sau đó dùng Activate AIO Tools v3.1.3 để conver sang Office 365 Mondo. Cũng có thể dùng Tool Prolus để cài đặt Office 365 Mondo.
 
