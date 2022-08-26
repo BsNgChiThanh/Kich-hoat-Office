@@ -497,6 +497,11 @@ shutdown.exe /r /t 00
 goto:start
 ```
 
+# SỮA LỖI OFFICE 2016, 2019, 2021 VÀ 365 KHỞI ĐỘNG CHẬM #
+
+1. Vào đường dẫn: C:\Users\"name"\AppData\Roaming\Microsoft\Templates xóa file Normal.dotm
+2. Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Common
+
 ### Chúc thành công! ###
 
 **[Chia sẽ địa điểm trên Google map](https://goo.gl/maps/ZAzVMCgx4S4X4A55A)**
