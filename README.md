@@ -502,6 +502,10 @@ goto:start
 1. Vào đường dẫn: C:\Users\"name"\AppData\Roaming\Microsoft\Templates xóa file Normal.dotm
 2. Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Common
 
+Bấm chuột phải --> Chọn New --> chọn DWORD 32 Value --> đặt tên là: DisableHardwareAcceleration sau đó gán giá trị 1
+
+![image](https://user-images.githubusercontent.com/82578024/186871121-1caf9a45-d8ee-40f5-9358-d9092d1eda13.png)
+
 ### Chúc thành công! ###
 
 **[Chia sẽ địa điểm trên Google map](https://goo.gl/maps/ZAzVMCgx4S4X4A55A)**
