@@ -1,7 +1,7 @@
 # Kich-hoat-Office
 Kích hoạt Office 2010, 2013, 2016, 2019, 2021, 365
 
-**[Source nguồn Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true)**. **Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true)**
+**[Source nguồn Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true)**. **Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true)** **hoặc [bấm vào đây](https://tb.rg-adguard.net/public.php)**
 
 **Nếu bạn muốn tìm key windows và office thì [bấm vào đây](https://t.me/+yqfFsJPOciwyY2Vl)**
 
@@ -198,6 +198,8 @@ echo ===========================================================================
 :halt
 pause >nul
 ```
+
+**[Hoặc tham khảo cách khác tại đây](https://docs.google.com/document/d/1Vn4z9_S049XbmpnILdpVJz1TUs6qjhjcZK8rO_mTsOQ/edit)**
 
 # Office 2016 #
 
