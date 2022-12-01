@@ -508,6 +508,8 @@ Bấm chuột phải --> Chọn New --> chọn DWORD 32 Value --> đặt tên l�
 
 ![image](https://user-images.githubusercontent.com/82578024/186871121-1caf9a45-d8ee-40f5-9358-d9092d1eda13.png)
 
+https://user-images.githubusercontent.com/82578024/204987006-888c4897-ccea-4894-8f80-6b71dbbdad4b.mp4
+
 ### Chúc thành công! ###
 
 **[Chia sẽ địa điểm trên Google map](https://goo.gl/maps/ZAzVMCgx4S4X4A55A)**
