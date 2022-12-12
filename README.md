@@ -39,7 +39,7 @@ s9.uk.to
 
 ~~kms.lotro.cc~~
 
-kms.03k.org
+[kms.03k.org](https://03k.org/kms.html)
 
 ~~kms kms.digiboy.ir~~
 
