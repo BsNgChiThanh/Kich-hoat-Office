@@ -98,7 +98,7 @@ kms7.msguides.com là địa chỉ máy chủ kms, có thể thay thế bằng m
 
 # Office 365 Enterprise #
 
-Bạn dùng tài khoản để kích hoạt nhé! [Bấm vào đây để lấy tài khoản](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_tk/EQa9vlOr8JdOqcUEYGyjjfQBvW7eHmeqtjR1KMf__A2lHw?e=YgQkSj)
+Bạn dùng tài khoản để kích hoạt nhé! [Bấm vào đây để lấy tài khoản](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EQa9vlOr8JdOqcUEYGyjjfQBvW7eHmeqtjR1KMf__A2lHw?e=YgQkSj)
 
 Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũng kích hoạt được nhưng office đề nghị bấm vào cập nhật để được bản office đúng!!!
 
@@ -321,7 +321,7 @@ goto office
 
 ![1](https://user-images.githubusercontent.com/82578024/169042115-f03a2834-6ebb-4a72-a2df-4b626e4c9de4.gif)
 
-**Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ Office Tool Plus [bấm vào đây](https://otp.landian.vip/en-us/) nếu không chạy được là do thiếu runtime, download về cài đặt bổ sung [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_tk/Ebuo4utXHOhGncmFJ8phrZcB0sEldAucovhYOdDQ6SmwkQ?e=l7KLVp)**
+**Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ Office Tool Plus [bấm vào đây](https://otp.landian.vip/en-us/) nếu không chạy được là do thiếu runtime, download về cài đặt bổ sung [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ebuo4utXHOhGncmFJ8phrZcB0sEldAucovhYOdDQ6SmwkQ?e=l7KLVp)**
 
 ![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
 Chọn Office sau đó intall licenses, bấm Yes
