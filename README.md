@@ -234,6 +234,32 @@ Một số Tool kích hoạt cho 2 loại Office này không còn nhạy nữa, 
 
 https://user-images.githubusercontent.com/82578024/172501342-b8ebf93c-f51f-4049-8902-e809b334a1dc.mp4
 
+## Cũng có thể gia hạn kích hoạt vĩnh viến bằng cách: ##
+
+- Tạo tác vụ gia hạn kích hoạt vĩnh viễn bằng Activate AIO Tools v3.1.3:
+
+![image](https://user-images.githubusercontent.com/103977676/200756492-50b60776-f99b-4e12-8352-090c14850910.png)
+ 
+Bấm phím O để tạo tác vụ rồi làm theo
+
+![1](https://user-images.githubusercontent.com/103977676/202890026-86e15386-41d8-414c-ac7e-351285557571.png)
+
+![2](https://user-images.githubusercontent.com/103977676/202890031-403f2c18-1c04-445d-b099-afa1072adfe0.png)
+
+![3](https://user-images.githubusercontent.com/103977676/202890040-402bee8b-c50a-4934-8acd-4f4cc6a3f64f.png)
+
+- Tạo tác vụ gia hạn kích hoạt vĩnh viễn bằng Online KMS Activation Script v6.0
+
+![1a](https://user-images.githubusercontent.com/103977676/202890368-82a3d50e-674d-4cc0-8c01-bb0b9d9be91a.png)
+
+![2a](https://user-images.githubusercontent.com/103977676/202890372-6ec73a21-12b5-45b9-b8f0-91daa3afd16f.png)
+
+![3a](https://user-images.githubusercontent.com/103977676/202890385-a574d0ba-7ba3-4786-bfa2-08b94d177659.png)
+
+![4](https://user-images.githubusercontent.com/103977676/202890408-40534008-6954-4246-aefd-4fa40a41c81c.png)
+
+Cuối tuần vào kiểm tra nó cũng báo là 179 ngày vậy là giống vĩnh viễn!
+
 ## Convert Office Retail sang Office Volume: ##
 
 **[Dùng AIO Tools V3.1.3 để chuyển](https://bit.ly/3O70Xnk)**
