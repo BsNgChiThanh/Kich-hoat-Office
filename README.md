@@ -98,6 +98,8 @@ kms7.msguides.com là địa chỉ máy chủ kms, có thể thay thế bằng m
 
 # Office 365 Enterprise #
 
+![image](https://user-images.githubusercontent.com/82578024/230249230-70263b1e-def4-4cb8-a02c-2aa0f35a9d96.png)
+
 Bạn dùng tài khoản để kích hoạt nhé! [Bấm vào đây để lấy tài khoản](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EQa9vlOr8JdOqcUEYGyjjfQBvW7eHmeqtjR1KMf__A2lHw?e=YgQkSj)
 
 Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũng kích hoạt được nhưng office đề nghị bấm vào cập nhật để được bản office đúng!!!
@@ -105,6 +107,8 @@ Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũn
 **Tham khảo thêm về office 365 E5 _ Office 365 Enterprise [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
 
 # Office365 Mondo 2016 #
+
+![image](https://user-images.githubusercontent.com/82578024/230249448-afd66af7-15aa-44d7-bfe5-3dd2695f0ced.png)
 
 Không có bộ cài riêng, bạn cài Ofice 2016 hoặc 2019 hoặc 2021 sau đó dùng Activate AIO Tools v3.1.3 để conver sang Office 365 Mondo. Cũng có thể dùng Tool Prolus để cài đặt Office 365 Mondo.
 
@@ -131,6 +135,8 @@ Bấm **Save As** với tên Acitve Office 365 Mondo.cmd rồi Run chúng băng 
 
 # Office 2021 LTSC #
 
+![image](https://user-images.githubusercontent.com/82578024/230250487-327321fe-252e-4803-a5c0-6baaf111a70d.png)
+
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2021.cmd** sau đó run file này bằng quyền administrator là OK.
 
 ```php
@@ -155,6 +161,8 @@ pause >nul
 ```
 
 # Office 2019 #
+
+![image](https://user-images.githubusercontent.com/82578024/230250723-0c1056dd-0beb-404d-b58a-18d4a2f5317d.png)
 
 **[Xem thêm video](https://youtu.be/r8adru6z78k)**
 
@@ -203,6 +211,8 @@ pause >nul
 
 # Office 2016 #
 
+![image](https://user-images.githubusercontent.com/82578024/230250976-e7bb2142-0ff4-472e-946c-0536a94262b1.png)
+
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2016.cmd** sau đó run file này bằng quyền administrator là OK.
 
 ```php
@@ -223,6 +233,8 @@ pause> null
 ```
 
 # Office 2013, Office 2010 #
+
+![image](https://user-images.githubusercontent.com/82578024/230251037-2ec7178a-63dd-4871-a10a-7cbc4c2a4632.png) ![image](https://user-images.githubusercontent.com/82578024/230251160-4d95bd68-3fe2-4b44-bee5-1617ac73cff3.png)
 
 Một số Tool kích hoạt cho 2 loại Office này không còn nhạy nữa, vì thế khuyên nên cho nó về hưu đi! Còn giả sử bắt khả kháng đã cài đặt rồi hoặc đã hết hạn thì buộc lòng phải kích hoạt mà thôi. Hãy thử các phương pháp sau:
 
