@@ -110,6 +110,8 @@ Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũn
 
 ![image](https://user-images.githubusercontent.com/82578024/230249448-afd66af7-15aa-44d7-bfe5-3dd2695f0ced.png)
 
+[Trang chủ kích hoạt](https://msguides.com/office-365)
+
 Không có bộ cài riêng, bạn cài Ofice 2016 hoặc 2019 hoặc 2021 sau đó dùng Activate AIO Tools v3.1.3 để conver sang Office 365 Mondo. Cũng có thể dùng Tool Prolus để cài đặt Office 365 Mondo.
 
 Chạy file kích hoạt Acitve Office 365 Mondo.cmd bằng cách copy một đoạn mã sau vào NotePad:
@@ -137,6 +139,8 @@ Bấm **Save As** với tên Acitve Office 365 Mondo.cmd rồi Run chúng băng 
 
 ![image](https://user-images.githubusercontent.com/82578024/230250487-327321fe-252e-4803-a5c0-6baaf111a70d.png)
 
+[Trang chủ kích hoạt](https://msguides.com/office-2021#Activate_Office_2021_for_FREE_using_KMS_client_key)
+
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2021.cmd** sau đó run file này bằng quyền administrator là OK.
 
 ```php
@@ -163,6 +167,8 @@ pause >nul
 # Office 2019 #
 
 ![image](https://user-images.githubusercontent.com/82578024/230250723-0c1056dd-0beb-404d-b58a-18d4a2f5317d.png)
+
+[trang chủ kích hoạt](https://msguides.com/office-2019)
 
 **[Xem thêm video](https://youtu.be/r8adru6z78k)**
 
@@ -213,6 +219,8 @@ pause >nul
 
 ![image](https://user-images.githubusercontent.com/82578024/230250976-e7bb2142-0ff4-472e-946c-0536a94262b1.png)
 
+[Trang chủ kích hoạt](https://msguides.com/office-2016)
+
 Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2016.cmd** sau đó run file này bằng quyền administrator là OK.
 
 ```php
@@ -235,6 +243,8 @@ pause> null
 # Office 2013, Office 2010 #
 
 ![image](https://user-images.githubusercontent.com/82578024/230251037-2ec7178a-63dd-4871-a10a-7cbc4c2a4632.png) ![image](https://user-images.githubusercontent.com/82578024/230251160-4d95bd68-3fe2-4b44-bee5-1617ac73cff3.png)
+
+[Trang chủ kích hoạt](https://msguides.com/office-2010-2013)
 
 Một số Tool kích hoạt cho 2 loại Office này không còn nhạy nữa, vì thế khuyên nên cho nó về hưu đi! Còn giả sử bắt khả kháng đã cài đặt rồi hoặc đã hết hạn thì buộc lòng phải kích hoạt mà thôi. Hãy thử các phương pháp sau:
 
