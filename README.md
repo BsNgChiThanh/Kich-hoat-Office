@@ -100,7 +100,39 @@ kms7.msguides.com là địa chỉ máy chủ kms, có thể thay thế bằng m
 
 ![image](https://user-images.githubusercontent.com/82578024/230249230-70263b1e-def4-4cb8-a02c-2aa0f35a9d96.png)
 
-Bạn dùng tài khoản để kích hoạt nhé! [Bấm vào đây để lấy tài khoản](https://bsthanh-my.sharepoint.com/:w:/g/personal/laptopxiaomi_bsthanh_onmicrosoft_com/EQa9vlOr8JdOqcUEYGyjjfQBvW7eHmeqtjR1KMf__A2lHw?e=YgQkSj)
+## MỘT SỐ OFFICE 365 A1+ KÍCH HOẠT OFFICE 365 FOR DESKTOP ##
+
+|Tài khoản|Password|
+|--|--|
+|awilson29@twu.edu	|Cupcake7899!
+|aadame110@email.itt-tech.edu|mouw91011
+|cward14@twu.edu|Jeeplife2007!|
+|dengland112@email.itt-tech.edu|02231978
+|jcasimere@twu.edu|Charmayne23!
+|jwhite223@email.itt-tech.edu|jw448016|
+|jcasimere@twu.edu|Charmayne23!|
+|HJones13@twu.edu|hAujanae1!| 
+|kjenkins8@twu.edu	| Sarah3881_
+|skent110@email.itt-tech.edu|08131984 
+|vbanda@twu.edu|Focus_2015| 
+|vbennett@twu.edu |Senior2014!|
+|vh5595@stu.armstrong.edu |Vanessa123| 
+|vhernandez18@twu.edu |Her123456!| 
+|vnguyen16@twu.edu |123Uyenvy!| 
+|vw6244@stu.armstrong.edu |0kkky3aa| 
+|we2838@stu.armstrong.edu |	whitney1|
+|wesleymirandadasilva@ied.edu |00BR0000022679|  
+
+- Vô File --> Account --> Sign in.
+
+  ![image](https://user-images.githubusercontent.com/82578024/231721933-57314e45-7b92-49d3-bd95-abfa6ea91315.png)
+  ![image](https://user-images.githubusercontent.com/82578024/231722306-32b6797f-5e60-4a0e-9f07-201a64727c64.png)
+  ![image](https://user-images.githubusercontent.com/82578024/231722388-2c76bb01-6b0b-4d34-85cf-cc13667c984f.png)
+  ![image](https://user-images.githubusercontent.com/82578024/231722503-1c3c729f-3891-478f-8c2c-814f5fd880f7.png)
+  ![image](https://user-images.githubusercontent.com/82578024/231722653-20618a63-9429-46c1-93ce-b3670f65c657.png)
+  ![image](https://user-images.githubusercontent.com/82578024/231723244-a7586075-1eb8-4992-abc2-4b78deec20ff.png)
+
+- Done!
 
 Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũng kích hoạt được nhưng office đề nghị bấm vào cập nhật để được bản office đúng!!!
 
