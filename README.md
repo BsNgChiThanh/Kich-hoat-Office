@@ -23,7 +23,7 @@ Sao chép và dán file cmd của mình vào đấy là Ok
 
 **Tôi vẫn thích dùng Office 365 hơn vì nó chỉ add tài khoản Office 365 A1+, E3, E5 là active ngon lành cành đào, nhập một lúc vài chục tài khoản luôn cho thể hiện đẳng cấp**
 
-![1](https://user-images.githubusercontent.com/82578024/171993962-693e02ea-4acb-47e1-af73-4a3fa8dda993.gif)
+![image](https://user-images.githubusercontent.com/82578024/231724418-cce14eb7-1c9c-468e-9b25-4dc0cb5847b4.png)
 
 ## MỘT SỐ ĐỊA CHỈ KMS ##
 
