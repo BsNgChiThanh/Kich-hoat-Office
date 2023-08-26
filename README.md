@@ -318,7 +318,7 @@ Cuối tuần vào kiểm tra nó cũng báo là 179 ngày vậy là giống vĩ
 
 ## Convert Office Retail sang Office Volume: ##
 
-**[Dùng AIO Tools V3.1.3 để chuyển](https://bit.ly/3O70Xnk)**
+**[Dùng AIO Tools V3.1.3 để chuyển](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETBqT5RRi4xEjUTNR_VaUsUBqsAgTjyDFD7BA-sVJ1XC4A?e=Q0vzhG)**
 
 ## XÓA KEY OFFICE ##
 
@@ -393,7 +393,7 @@ goto office
 
 # Đặc biệt Office 2010 đến 2019 bạn dùng **AIO Tools V3.1.3** kích hoạt rất OK #
 
-**Kích hoạt Office bằng AIO Tools V3.1.3 [bấm vào đây để download](https://bit.ly/3O70Xnk)**
+**Kích hoạt Office bằng AIO Tools V3.1.3 [bấm vào đây để download](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETBqT5RRi4xEjUTNR_VaUsUBqsAgTjyDFD7BA-sVJ1XC4A?e=Q0vzhG)**
 
 **Cũng có thể kích hoạt bằng MAS_1.5_AIO đoạn mã: [MAS_1.5_AIO_CRC32_21D20776.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8711448/MAS_1.5_AIO_CRC32_21D20776.txt), trang chủ [bấm vào đây](https://massgrave.dev/). Hình ảnh khi chạy kích hoạt:**
 
