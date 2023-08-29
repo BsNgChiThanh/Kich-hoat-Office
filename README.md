@@ -106,23 +106,10 @@ kms7.msguides.com là địa chỉ máy chủ kms, có thể thay thế bằng m
 
 |Tài khoản|Password|
 |--|--|
-|awilson29@twu.edu	|Cupcake7899!
-|aadame110@email.itt-tech.edu|mouw91011
-|cward14@twu.edu|Jeeplife2007!|
-|dengland112@email.itt-tech.edu|02231978
-|jcasimere@twu.edu|Charmayne23!
-|jwhite223@email.itt-tech.edu|jw448016|
-|jcasimere@twu.edu|Charmayne23!|
-|HJones13@twu.edu|hAujanae1!| 
-|kjenkins8@twu.edu	| Sarah3881_
-|skent110@email.itt-tech.edu|08131984 
-|vbanda@twu.edu|Focus_2015| 
 |vbennett@twu.edu |Senior2014!|
 |vh5595@stu.armstrong.edu |Vanessa123| 
-|vhernandez18@twu.edu |Her123456!| 
-|vnguyen16@twu.edu |123Uyenvy!| 
 |vw6244@stu.armstrong.edu |0kkky3aa| 
-|we2838@stu.armstrong.edu |	whitney1|
+|we2838@stu.armstrong.edu |whitney1|
 |wesleymirandadasilva@ied.edu |00BR0000022679|  
 
 - Vô File --> Account --> Sign in.
