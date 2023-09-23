@@ -47,7 +47,7 @@ s9.uk.to
 
 ~~kms.srv.crsoo.com~~
 
-**[KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
+**[KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO/blob/master/KMS_VL_ALL_AIO.cmd)**
 
 ### Kích hoạt Office bằng key KMS ###
 
