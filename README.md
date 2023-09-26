@@ -71,31 +71,6 @@ XXXXX-XXXXX-XXXXX-XXXXX-XXXXX là key KMS Office tương ứng
 
 kms7.msguides.com là địa chỉ máy chủ kms, có thể thay thế bằng một địa chỉ máy chủ khác.
 
-### Phần ngôn ngữ ###
-
-| Language|Thay thế| Language|Thay thế|
-|--|--|--|--|
-| Arabic| ar-SA|Bulgarian| bg-BG|
-| Chinese (Simplified)| zh-CN| Chinese| zh-TW|
-| Croatian| hr-HR|Czech| cs-CZ|
-| Danish| da-DK|Dutch| nl-NL|
-| English| en-US| Estonian| et-EE|
-|Finnish| fi-FI|French| fr-FR| 
-|German| de-DE| Greek |el-GR|
-| Hebrew| he-IL|Hindi | hi-IN
-| Hungarian| hu-HU| Indonesian| id-ID| 
-|Italian| it-IT| Japanese| ja-JP|
-| Kazakh| kk-KZ| Korean| ko-KR|
-| Latvian| lv-LV|Lithuanian| lt-LT|
-|Malay |ms-MY| Norwegian (Bokmål)| nb-NO|
-| Polish| pl-PL| Portuguese| pt-BR|
-| Portuguese| pt-PT| Romanian| ro-RO|
-| Russian| ru-RU| Serbian (Latin)| sr-latn-RS|
-|Slovak| sk-SK| Slovenian| sl-SI|
-| Spanish| es-ES| Swedish| sv-SE|
-| Thai| th-TH| Turkish| tr-TR|
-| Ukrainian| uk-UA| Vietnamese| vi-VN|
-
 ## KÍCH HOẠT OFFICE ##
 
 # Office 365 Enterprise #
