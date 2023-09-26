@@ -102,13 +102,18 @@ Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũn
 
 **Tham khảo thêm về office 365 E5 _ Office 365 Enterprise [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
 
-# Office365 Mondo 2016 #
+# Office 365 Mondo 2016 #
 
-![image](https://user-images.githubusercontent.com/82578024/230249448-afd66af7-15aa-44d7-bfe5-3dd2695f0ced.png)
-
-[Trang chủ kích hoạt](https://msguides.com/office-365)
-
-Không có bộ cài riêng, bạn cài Ofice 2016 hoặc 2019 hoặc 2021 sau đó dùng Activate AIO Tools v3.1.3 để conver sang Office 365 Mondo. Cũng có thể dùng Tool Prolus để cài đặt Office 365 Mondo.
+### Cài Office 365 Mondo: ###
+  - Dùng Office Tool Plus, download tool cài đặt [tại đây](https://otp.landian.vip/en-us/download.html):
+  - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/393716dd-9b04-4217-aead-617383b9cfb3)
+  - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/5f80eef2-bce4-4f1e-9faa-f9133ce7eee1)
+  - **Chọn thành phần cài đặt và chọn ngôn ngữ.**
+  - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/78dbc111-a0f8-4769-990e-e5f8e306269a)
+  - Sau đó bấm bất đầu triển khai là OK.
+  - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/15d3e4c9-a2d3-4b9b-9e4d-262a8b9ca149)
+### Kích hoạt Office 365 Mondo ###
+  - Kích hoạt bằng cmd, hoặc dùng Activate AIO Tools v3.1.3 để conver sang Office 365 Mondo (nếu bạn cài Office 16 không phải Mondo), sau đó kích hoạt bằng Tool này là OK. 
 
 Chạy file kích hoạt Acitve Office 365 Mondo.cmd bằng cách copy một đoạn mã sau vào NotePad:
 
