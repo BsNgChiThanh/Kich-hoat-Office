@@ -5,24 +5,16 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 
 - **[Source nguồn Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true)**. **Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true)** **hoặc [bấm vào đây](https://tb.rg-adguard.net/public.php)**
 - **Hoặc download source từ trang https://massgrave.dev/genuine-installation-media.html**
-
-**Nếu bạn muốn tìm key windows và office thì [bấm vào đây](https://t.me/+yqfFsJPOciwyY2Vl)**
-
-**[Hướng dẫn Microsoft](https://docs.microsoft.com/vi-vn/deployoffice/vlactivation/configure-a-kms-host-computer-for-office)**
-
-**[Trang chủ của kích hoạt cmd bấm vào đây](https://msguides.com/install-office-multilanguage)**
-
-**[Key KMS bấm vào đây](https://github.com/alexroyce315/KMS-Keys)**
-
-**Tôi vẫn thích dùng Office 365 hơn vì nó chỉ add tài khoản Office 365 A1+, E3, E5 là active ngon lành cành đào, nhập một lúc vài chục tài khoản luôn cho thể hiện đẳng cấp**
-
-![image](https://user-images.githubusercontent.com/82578024/231724418-cce14eb7-1c9c-468e-9b25-4dc0cb5847b4.png)
+- **Nếu bạn muốn tìm key windows và office thì [bấm vào đây](https://t.me/+yqfFsJPOciwyY2Vl)**
+- **[Hướng dẫn Microsoft](https://docs.microsoft.com/vi-vn/deployoffice/vlactivation/configure-a-kms-host-computer-for-office)**
+- **[Trang chủ của kích hoạt cmd bấm vào đây](https://msguides.com/install-office-multilanguage)**
+- **[Key KMS bấm vào đây](https://github.com/alexroyce315/KMS-Keys)**
+- **Tôi vẫn thích dùng Office 365 hơn vì nó chỉ add tài khoản Office 365 A1+, E3, E5 là active ngon lành cành đào, nhập một lúc vài chục tài khoản luôn cho thể hiện đẳng cấp**
+- ![image](https://user-images.githubusercontent.com/82578024/231724418-cce14eb7-1c9c-468e-9b25-4dc0cb5847b4.png)
 
 ## KÍCH HOẠT OFFICE ##
-
 # Office 365 Enterprise #
-
-![image](https://user-images.githubusercontent.com/82578024/230249230-70263b1e-def4-4cb8-a02c-2aa0f35a9d96.png)
+- ![image](https://user-images.githubusercontent.com/82578024/230249230-70263b1e-def4-4cb8-a02c-2aa0f35a9d96.png)
 
 ## MỘT SỐ OFFICE 365 A1+ KÍCH HOẠT OFFICE 365 FOR DESKTOP ##
 
@@ -44,14 +36,11 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
   ![image](https://user-images.githubusercontent.com/82578024/231723244-a7586075-1eb8-4992-abc2-4b78deec20ff.png)
 
 - Done!
-
-Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũng kích hoạt được nhưng office đề nghị bấm vào cập nhật để được bản office đúng!!!
-
-**Tham khảo thêm về office 365 E5 _ Office 365 Enterprise [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
+- Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũng kích hoạt được nhưng office đề nghị bấm vào cập nhật để được bản office đúng!!!
+- **Tham khảo thêm về office 365 E5 _ Office 365 Enterprise [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
 
 # Office 365 Mondo 2016 #
-
-### Cài Office 365 Mondo: ###
+## Cài Office 365 Mondo: ##
   - Dùng Office Tool Plus, download tool cài đặt [tại đây](https://otp.landian.vip/en-us/download.html):
   - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/393716dd-9b04-4217-aead-617383b9cfb3)
   - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/5f80eef2-bce4-4f1e-9faa-f9133ce7eee1)
@@ -59,130 +48,43 @@ Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũn
   - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/78dbc111-a0f8-4769-990e-e5f8e306269a)
   - Sau đó bấm bất đầu triển khai là OK.
   - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/15d3e4c9-a2d3-4b9b-9e4d-262a8b9ca149)
-### Kích hoạt Office 365 Mondo ###
+## Kích hoạt Office 365 Mondo ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
 - Hoặc dùng Activate AIO Tools convert office sang office 365 Mondo rồi kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
 
-### Có thể kích hoạt Office 365 Mondo bằng Activate AIO Tools [xem tại đây](https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md) ###
-
 # Office 2021 LTSC #
-
-![image](https://user-images.githubusercontent.com/82578024/230250487-327321fe-252e-4803-a5c0-6baaf111a70d.png)
-
-[Trang chủ kích hoạt](https://msguides.com/office-2021#Activate_Office_2021_for_FREE_using_KMS_client_key)
-
-Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2021.cmd** sau đó run file này bằng quyền administrator là OK.
-
-```php
-@echo off
-title Activate Microsoft Office 2021 (ALL versions) for FREE - MSGuides.com&cls&echo =====================================================================================&echo #Project: Activating Microsoft software products for FREE without additional software&echo =====================================================================================&echo.&echo #Supported products:&echo - Microsoft Office Standard 2021&echo - Microsoft Office Professional Plus 2021&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2021VL_KMS*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo =====================================================================================&echo Activating your product...&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:6F7TH >nul&set i=1&cscript //nologo ospp.vbs /inpkey:FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH >nul||goto notsupported
-:skms
-if %i% GTR 10 goto busy
-if %i% EQU 1 set KMS=kms7.MSGuides.com
-if %i% EQU 2 set KMS=s8.uk.to
-if %i% EQU 3 set KMS=s9.us.to
-if %i% GTR 3 goto ato
-cscript //nologo ospp.vbs /sethst:%KMS% >nul
-:ato
-echo =====================================================================================&echo.&echo.&cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo =====================================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running 24/7!&echo.&echo =====================================================================================&choice /n /c YN /m "Would you like to visit my blog [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto skms)
-explorer "http://MSGuides.com"&goto halt
-:notsupported
-echo =====================================================================================&echo.&echo Sorry, your version is not supported.&echo.&goto halt
-:busy
-echo =====================================================================================&echo.&echo Sorry, the server is busy and can't respond to your request. Please try again.&echo.
-:halt
-pause >nul
-```
+- ![image](https://user-images.githubusercontent.com/82578024/230250487-327321fe-252e-4803-a5c0-6baaf111a70d.png)
+- [Trang chủ kích hoạt](https://msguides.com/office-2021#Activate_Office_2021_for_FREE_using_KMS_client_key)
+## Kích hoạt Office 2021 LTSC ##
+- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 
 # Office 2019 #
-
-![image](https://user-images.githubusercontent.com/82578024/230250723-0c1056dd-0beb-404d-b58a-18d4a2f5317d.png)
-
-[trang chủ kích hoạt](https://msguides.com/office-2019)
-
-**[Xem thêm video](https://youtu.be/r8adru6z78k)**
-
-Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2019.cmd** sau đó run file này bằng quyền administrator là OK.
-
-```php
-@echo off
-title Bs Nguyen Chi Thanh, Kich hoat Microsoft Office 2019 ALL versions!&cls&echo ==========================Bs Nguyen Chi Thanh======================================&echo # Bs Nguyen Chi Thanh, Khoa CC_HSTC_CD BV Dam Doi Kich hoat Microsoft Office 2019&echo ==========================Bs Nguyen Chi Thanh======================================&echo.&echo #San pham ho tro:&echo - Microsoft Office Standard 2019&echo - Microsoft Office Professional Plus 2019&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ==========================Bs Nguyen Chi Thanh======================================&echo Activating your Office...&cscript //nologo ospp.vbs /unpkey:6MWKP >nul&cscript //nologo ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP >nul&set i=1
-:server
-if %i%==1 set KMS_Sev=kms7.MSGuides.com
-if %i%==2 set KMS_Sev=s8.uk.to
-if %i%==3 set KMS_Sev=s9.uk.to
-if %i%==4 goto notsupported
-cscript //nologo ospp.vbs /sethst:%KMS_Sev% >nul&echo ==========================Bs Nguyen Chi Thanh======================================&echo.&echo.
-cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ==========================Bs Nguyen Chi Thanh======================================&choice /n /c YN /m "Truy cap trang Web Bs Nguyen Chi Thanh: [Y,N]?" & if errorlevel 2 exit) || (echo Ket noi voi may chu KMS khong thanh cong! Dang ket noi lai... & echo Vui long cho... & echo. & echo. & set /a i+=1 & goto server)
-explorer "https://phong-kham-bsck1-nguyen-chi-thanh.business.site/?m=true"&goto halt
-:notsupported
-echo.&echo ==========================Bs Nguyen Chi Thanh======================================&echo Phien ban Office cua ban khong duoc ho tro.&echo Download phien ban moi nhat tai day: http://topthuthuat.vn/:halt
-pause >nul
-```
-
-Hoặc
-
-```php
-@echo off
-title Activate Microsoft Office 2019 (ALL versions) for FREE - MSGuides.com&cls&echo =====================================================================================&echo #Project: Activating Microsoft software products for FREE without additional software&echo =====================================================================================&echo.&echo #Supported products:&echo - Microsoft Office Standard 2019&echo - Microsoft Office Professional Plus 2019&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\ProPlus2019VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ============================================================================&echo Activating your Office...&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:6MWKP >nul&set i=1&cscript //nologo ospp.vbs /inpkey:NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP >nul||goto notsupported
-:skms
-if %i% GTR 10 goto busy
-if %i% EQU 1 set KMS=kms7.MSGuides.com
-if %i% EQU 2 set KMS=s8.uk.to
-if %i% EQU 3 set KMS=s9.us.to
-if %i% GTR 3 goto ato
-cscript //nologo ospp.vbs /sethst:%KMS% >nul
-:ato
-echo ============================================================================&echo.&echo.&cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running 24/7!&echo.&echo ============================================================================&choice /n /c YN /m "Would you like to visit my blog [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto skms)
-explorer "http://MSGuides.com"&goto halt
-:notsupported
-echo ============================================================================&echo.&echo Sorry, your version is not supported.&echo.&goto halt
-:busy
-echo ============================================================================&echo.&echo Sorry, the server is busy and can't respond to your request. Please try again.&echo.
-:halt
-pause >nul
-```
-
-**[Hoặc tham khảo cách khác tại đây](https://docs.google.com/document/d/1Vn4z9_S049XbmpnILdpVJz1TUs6qjhjcZK8rO_mTsOQ/edit)**
+- ![image](https://user-images.githubusercontent.com/82578024/230250723-0c1056dd-0beb-404d-b58a-18d4a2f5317d.png)
+- [trang chủ kích hoạt](https://msguides.com/office-2019)
+- **[Xem thêm video](https://youtu.be/r8adru6z78k)**
+- **[Hoặc tham khảo cách khác tại đây](https://docs.google.com/document/d/1Vn4z9_S049XbmpnILdpVJz1TUs6qjhjcZK8rO_mTsOQ/edit)**
+## Kích hoạt Office 2019 ##
+- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 
 # Office 2016 #
-
-![image](https://user-images.githubusercontent.com/82578024/230250976-e7bb2142-0ff4-472e-946c-0536a94262b1.png)
-
-[Trang chủ kích hoạt](https://msguides.com/office-2016)
-
-Mở Notepad lên dán đoạn mã dưới đây vào, bấm save as và lưu tên **kichhoatoffice2016.cmd** sau đó run file này bằng quyền administrator là OK.
-
-```php
-@echo off
-title Activate Microsoft Office 2016 ALL versions for FREE!&cls&echo ============================================================================&echo #Project: Activating Microsoft software products for FREE without software&echo ============================================================================&echo.&echo #Supported products:&echo - Microsoft Office Standard 2016&echo - Microsoft Office Professional Plus 2016&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_mak*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ============================================================================&echo Activating your Office...&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:WFG99 >nul&cscript //nologo ospp.vbs /unpkey:DRTFM >nul&cscript //nologo ospp.vbs /unpkey:BTDRB >nul&cscript //nologo ospp.vbs /unpkey:CPQVG >nul&cscript //nologo ospp.vbs /inpkey:XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99 >nul&set i=1
-:server
-if %i%==1 set KMS=kms7.MSGuides.com
-if %i%==2 set KMS=s8.uk.to
-if %i%==3 set KMS=s9.uk.to
-if %i%==4 goto notsupported
-cscript //nologo ospp.vbs /sethst:%KMS% >nul&echo ============================================================================&echo.&echo.
-cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ============================================================================&echo.&echo #My official blog: MSGuides.com&echo.&echo #How it works: bit.ly/kms-server&echo.&echo #Please feel free to contact me at msguides.com@gmail.com if you have any questions or concerns.&echo.&echo #Please consider supporting this project: donate.msguides.com&echo #Your support is helping me keep my servers running everyday!&echo.&echo ============================================================================&choice /n /c YN /m "Would you like to visit my blog [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
-explorer "http://MSGuides.com"&goto halt
-:notsupported
-echo.&echo ============================================================================&echo Sorry! Your version is not supported.&echo Please try installing the latest version here: bit.ly/downloadmsp
-:stop
-pause> null
-```
+- ![image](https://user-images.githubusercontent.com/82578024/230250976-e7bb2142-0ff4-472e-946c-0536a94262b1.png)
+- [Trang chủ kích hoạt](https://msguides.com/office-2016)
+## Kích hoạt Office 2016 ##
+- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 
 # Office 2013, Office 2010 #
-
-![image](https://user-images.githubusercontent.com/82578024/230251037-2ec7178a-63dd-4871-a10a-7cbc4c2a4632.png) ![image](https://user-images.githubusercontent.com/82578024/230251160-4d95bd68-3fe2-4b44-bee5-1617ac73cff3.png)
-
-[Trang chủ kích hoạt](https://msguides.com/office-2010-2013)
-
-Một số Tool kích hoạt cho 2 loại Office này không còn nhạy nữa, vì thế khuyên nên cho nó về hưu đi! Còn giả sử bắt khả kháng đã cài đặt rồi hoặc đã hết hạn thì buộc lòng phải kích hoạt mà thôi. Hãy thử các phương pháp sau:
-
-**Dùng đoạn mã sau để kích hoạt office 2013 và 2010 cũng rất tốt: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8762447/Online.KMS.Activation.Script.v6.0.txt)**
-
-**[Hoặc download từ KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO)**
-
-### Khi kích hoạt bằng cmd thì sử dụng được 180 ngày, để khỏi phải bận tâm ta cũng có thể cho file kích hoạt dạng .cmd khởi động cùng Windows, điều này sẽ làm office luôn ở trạng thái mới kích hoạt xong sau mổi lần chúng ta khởi động để làm việc. Đầu tiên ta vào lệnh Run, bấm Shell:Startup sau đó copy file kích hoạt vào thư mục hiện ra này, vậy là OK, xem Video ###
+- ![image](https://user-images.githubusercontent.com/82578024/230251037-2ec7178a-63dd-4871-a10a-7cbc4c2a4632.png) ![image](https://user-images.githubusercontent.com/82578024/230251160-4d95bd68-3fe2-4b44-bee5-1617ac73cff3.png)
+- [Trang chủ kích hoạt](https://msguides.com/office-2010-2013)
+## Kích hoạt Office 2013, Office 2010 ##
+- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 
 https://user-images.githubusercontent.com/82578024/172501342-b8ebf93c-f51f-4049-8902-e809b334a1dc.mp4
 
