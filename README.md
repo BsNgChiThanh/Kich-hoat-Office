@@ -85,132 +85,37 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 
 # Convert Office Retail sang Office Volume: #
-
-- Dùng AIO Tools để chuyển 
+- Dùng AIO Tools để chuyển
+- Bấm vào đây để tham khảo https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md 
 
 ## XÓA KEY OFFICE ##
 
-**Bạn có thể dùng AIO Tools V3.1.3 để xóa, cũng có thể dùng file cmd tạo từ đoạn mã sau:**
-
-```php
-chcp 65001 >nul
-@echo off
-Title XOA KEY OFFICE
-mode con: cols=96 lines=35
-chcp 65001 >nul
-@echo.
->nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
-if '%errorlevel%' NEQ '0' (
-    echo  Run CMD as Administrator...
-    goto goUAC 
-) else (
- goto goADMIN )
-
-:goUAC
-    echo Set UAC = CreateObject^("Shell.Application"^) > "%temp%\getadmin.vbs"
-    set params = %*:"=""
-    echo UAC.ShellExecute "cmd.exe", "/c %~s0 %params%", "", "runas", 1 >> "%temp%\getadmin.vbs"
-    "%temp%\getadmin.vbs"
-    del "%temp%\getadmin.vbs"
-    exit /B
-
-:goADMIN
-    pushd "%CD%"
-    CD /D "%~dp0"
-	
-:main
-cls
-color f0
-@echo. 
-echo        XOA KEY OFFICE
-echo     Chon Phien Ban Office Can Xoa Key
-echo =========================================
-echo [  1. Office 2010     : Nhan phim so 1  ]
-echo [  2. Office 2013     : Nhan phim so 2  ]
-echo [  3. Office 2016     : Nhan phim so 3  ]
-echo [  4. Office 2019     : Nhan phim so 4  ]
-echo [  5. Office 2021     : Nhan phim so 5  ]
-echo [  6. Office 365      : Nhan phim so 6  ]
-echo =========================================
-Choice /N /C 123456 /M "* Nhap lua chon : 
-if %errorlevel% == 6 ( set "xx=16" & goto vogia)
-if %errorlevel% == 5 ( set "xx=16" & goto vogia)
-if %errorlevel% == 4 ( set "xx=16" & goto vogia)
-if %errorlevel% == 3 ( set "xx=16" & goto vogia)
-if %errorlevel% == 2 ( set "xx=15" & goto vogia)
-if %errorlevel% == 1 ( set "xx=14" & goto vogia)
-
-:vogia
-if exist "%ProgramFiles%\Microsoft Office\Office%xx%\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office%xx%"
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office%xx%\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office%xx%"
-cscript ospp.vbs /dstatus >dstatus.txt
-start dstatus.txt
-goto office
-)
-
-:office
-set /p key= * NHAP 5 KY TU CUOI CUA KEY : 
-@echo  ...DANG XOA KEY OFFICE...
-cscript OSPP.VBS /unpkey:%key%
-@echo =========================================
-@echo      DA XOA KEY OFFICE THANH CONG !
-@echo =========================================
-goto office
-)
-```
-
-# Đặc biệt Office 2010 đến 2019 bạn dùng **AIO Tools V3.1.3** kích hoạt rất OK #
-
-**Kích hoạt Office bằng AIO Tools V3.1.3 [bấm vào đây để download](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETBqT5RRi4xEjUTNR_VaUsUBqsAgTjyDFD7BA-sVJ1XC4A?e=Q0vzhG)**
-
-**Cũng có thể kích hoạt bằng MAS_1.5_AIO đoạn mã: [MAS_1.5_AIO_CRC32_21D20776.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8711448/MAS_1.5_AIO_CRC32_21D20776.txt), trang chủ [bấm vào đây](https://massgrave.dev/). Hình ảnh khi chạy kích hoạt:**
-
- ![1](https://user-images.githubusercontent.com/82578024/168907463-2f726e32-dd9a-434f-a547-e99b84b80ae6.gif)
-
-**Cũng có thể kích hoạt bằng KMS Tool đoạn mã: [Online KMS Activation Script v6.0.txt](https://github.com/BsNgChiThanh/Kich-hoat-Office/files/8716282/Online.KMS.Activation.Script.v6.0.txt)**
-
-![1](https://user-images.githubusercontent.com/82578024/169042115-f03a2834-6ebb-4a72-a2df-4b626e4c9de4.gif)
-
-**Ngoài ra chúng ta có thể Download, cài đặt và kích hoạt Office từ Office Tool Plus [bấm vào đây](https://otp.landian.vip/en-us/) nếu không chạy được là do thiếu runtime, download về cài đặt bổ sung [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/Ebuo4utXHOhGncmFJ8phrZcB0sEldAucovhYOdDQ6SmwkQ?e=l7KLVp)**
-
-![1](https://user-images.githubusercontent.com/82578024/163676849-0c17b2f4-0316-4e02-a712-cb48914046e6.jpg)
-Chọn Office sau đó intall licenses, bấm Yes
-![2](https://user-images.githubusercontent.com/82578024/163676923-384d2e00-6f0d-4585-aeec-cdb22e5b08cd.jpg)
+- Dùng AIO Tools để xóa
+- Bấm vào đây để tham khảo https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
 
 **Hoàn thành Kích hoạt!**
 
-## Ghi chú ##
+### Ghi chú ###
 
 Bạn có thể chuyển đổi qua lại giữa các office sau:
 
-- Office 2016
-- Office 2019
-- Office 2021
-- Office 365
-
-Mà không cần cài đặt lại, giả sử bạn muốn sử dụng Office 2021 mà có một bộ cài đặt Office 2016 hoặc Office 2019 thì phải làm sao? Câu trả lời cứ cài theo bộ cài có sẵn sau đó dùng thủ thuật chuyển đổi trong vài nốt nhạc!
-
-Bạn dùng **xóa key Office** như đã nói ở phần trên (file cmd), để xóa sạch toàn bộ key Office
-
-Sau đó bạn chạy file kích hoạt office (2016, 2019, 2021) bằng cmd là OK! 
-
-Trường hợp bạn muốn sử dụng Office 365 thì sao? Sau khi xóa sạch key Office, bạn dùng **Office Tool Plus** để gán giấy phép Office 365 xong, dùng tài khoản để kích hoạt, mình có một số tài khoản để ở phần trên!
-
-https://user-images.githubusercontent.com/82578024/170656193-daa7c7b7-7aed-477f-9b88-1a4bd58eb018.mp4
-
-https://user-images.githubusercontent.com/82578024/170853349-a0b1b25a-1f19-454b-8dd0-6a45532ac558.mp4
+  - Office 2016
+  - Office 2019
+  - Office 2021
+  - Office 365
+- Chuyển đổi mà không cần cài đặt lại, giả sử bạn muốn sử dụng Office 2021 mà có một bộ cài đặt Office 2016 hoặc Office 2019 thì phải làm sao? Câu trả lời cứ cài theo bộ cài có sẵn sau đó dùng thủ thuật chuyển đổi trong vài nốt nhạc!
+- Bạn **xóa key Office** bằng Active AIO Tools https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+- Bạn install giấy phép bằng https://github.com/BsNgChiThanh/OfficeTool/blob/IMP/README.md
+- Sau cùng bạn dùng Active AIO Tools để kích hoạt trở lại https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+- Trường hợp bạn muốn sử dụng Office 365 thì sao? Sau khi xóa sạch key Office, bạn dùng **Office Tool Plus** để gán giấy phép Office 365 xong, dùng tài khoản để kích hoạt, mình có một số tài khoản để ở phần trên!
 
 ## CÓ NHỮNG TRƯỜNG HỢP BỊ LỖI RẤT KHÓ CHỊU ##
-
-![image](https://user-images.githubusercontent.com/82578024/185740068-23c1a28b-ee50-4cd8-9c4d-03dde7e2affd.png)
-
-Office không nhận bất kì một tài khoản Microsoft nào và báo lỗi kích hoạt lại, tôi đã thử nhiều cách nhưng không được, chỉ có một cách là xóa tất cả các giấy phép, dau đó intall giấy phép Office 2016, 2019 hoặc 2021 LTSC rồi gắn key kích hoạt; nếu không có key thì kích hoạt bằng cmd thì sử dụng được!
-
-**Hoặc xóa bỏ bộ office bằng Tool của Microsoft https://www.microsoft.com/en-us/download/100607 sau đó cài mới lại xem sao**
+- ![image](https://user-images.githubusercontent.com/82578024/185740068-23c1a28b-ee50-4cd8-9c4d-03dde7e2affd.png)
+- Office không nhận bất kì một tài khoản Microsoft nào và báo lỗi kích hoạt lại, tôi đã thử nhiều cách nhưng không được, chỉ có một cách là xóa tất cả các giấy phép, dau đó intall giấy phép Office 2016, 2019 hoặc 2021 LTSC rồi gắn key kích hoạt; nếu không có key thì kích hoạt bằng cmd thì sử dụng được!
+- **Hoặc xóa bỏ bộ office bằng Tool của Microsoft https://www.microsoft.com/en-us/download/100607 sau đó cài mới lại xem sao**
 
 ## Sao lưu Office và Windows ##
-
-Mở **NotePad** copy đoạn mã sau vào và bấm **Save As** với tên **SaoluuOfficeVaWindows.cmd** rồi Run file này dưới quyền **Run Administrator**, làm theo hướng dẫn.
+- Mở **NotePad** copy đoạn mã sau vào và bấm **Save As** với tên **SaoluuOfficeVaWindows.cmd** rồi Run file này dưới quyền **Run Administrator**, làm theo hướng dẫn.
 
 ```php
 @echo off&set local&color 0f&mode con cols=64 lines=25&title  Backup Restore Activations 1.1
