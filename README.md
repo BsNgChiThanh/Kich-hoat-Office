@@ -3,21 +3,12 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
 
-**[Source nguồn Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true)**. **Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true)** **hoặc [bấm vào đây](https://tb.rg-adguard.net/public.php)**
+- **[Source nguồn Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true)**. **Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true)** **hoặc [bấm vào đây](https://tb.rg-adguard.net/public.php)**
+- **Hoặc download source từ trang https://massgrave.dev/genuine-installation-media.html**
 
 **Nếu bạn muốn tìm key windows và office thì [bấm vào đây](https://t.me/+yqfFsJPOciwyY2Vl)**
 
 **[Hướng dẫn Microsoft](https://docs.microsoft.com/vi-vn/deployoffice/vlactivation/configure-a-kms-host-computer-for-office)**
-
-# Kích hoạt Office bằng cmd!!!
- 
-## Chạy kích hoạt này sẽ được 180 ngày sử dụng, gần hết thì các bạn chạy kính hoạt này một lần nữa sẽ được 180 ngày và hãy lập lại như thế sẽ xem như vĩnh viễn ##
-
-## Nếu bạn hay quên, hãy cho file cmd của mình tạo ra khởi động cùng Windows, khi đó mỗi lần khởi động máy thì file cmd này tự động chạy đồng nghĩa với office của mình mới được active lại và thời hạn sử dụng cũng đồng nghĩa với tự động gia hạn, để làm đều này bạn xem hướng dẫn sau đây: ##
-
-Hãy nhấn phím logo **Windows + R**, nhập **shell:startup**, rồi chọn OK. Thao tác này sẽ mở thư mục Khởi động.
-
-Sao chép và dán file cmd của mình vào đấy là Ok
 
 **[Trang chủ của kích hoạt cmd bấm vào đây](https://msguides.com/install-office-multilanguage)**
 
@@ -26,50 +17,6 @@ Sao chép và dán file cmd của mình vào đấy là Ok
 **Tôi vẫn thích dùng Office 365 hơn vì nó chỉ add tài khoản Office 365 A1+, E3, E5 là active ngon lành cành đào, nhập một lúc vài chục tài khoản luôn cho thể hiện đẳng cấp**
 
 ![image](https://user-images.githubusercontent.com/82578024/231724418-cce14eb7-1c9c-468e-9b25-4dc0cb5847b4.png)
-
-## MỘT SỐ ĐỊA CHỈ KMS ##
-
-kms7.msguides.com
-
-~~kms8.msguides.com~~
-
-~~kms9.msguides.com~~
-
-s8.uk.to
-
-s9.uk.to
-
-~~kms.lotro.cc~~
-
-[kms.03k.org](https://03k.org/kms.html)
-
-~~kms kms.digiboy.ir~~
-
-~~kms.srv.crsoo.com~~
-
-**[KMS AIO Github](https://github.com/abbodi1406/KMS_VL_ALL_AIO/blob/master/KMS_VL_ALL_AIO.cmd)**
-
-### Kích hoạt Office bằng key KMS ###
-
-Mở cmd bằng quyền Run Administrator, sau đó truy cập vào thư mục cài đặt (tùy office và Windows mà có một thư mục riêng)
-
-Ví dụ: Office 2013 Windows 32Bit, dán lệnh
-
-```php
-cd C:\Program Files\Microsoft Office\Office15 
-```
-
-Sau đó dán tiếp lệnh:
-
-```php
-cscript ospp.vbs /inpkey:XXXXX-XXXXX-XXXXX-XXXXX-XXXXX 
-cscript ospp.vbs /sethst:kms7.msguides.com
-cscript ospp.vbs /act
-```
-
-XXXXX-XXXXX-XXXXX-XXXXX-XXXXX là key KMS Office tương ứng
-
-kms7.msguides.com là địa chỉ máy chủ kms, có thể thay thế bằng một địa chỉ máy chủ khác.
 
 ## KÍCH HOẠT OFFICE ##
 
@@ -113,28 +60,8 @@ Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũn
   - Sau đó bấm bất đầu triển khai là OK.
   - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/15d3e4c9-a2d3-4b9b-9e4d-262a8b9ca149)
 ### Kích hoạt Office 365 Mondo ###
-  - Kích hoạt bằng cmd, hoặc dùng Activate AIO Tools v3.1.3 để conver sang Office 365 Mondo (nếu bạn cài Office 16 không phải Mondo), sau đó kích hoạt bằng Tool này là OK. 
-
-Chạy file kích hoạt Acitve Office 365 Mondo.cmd bằng cách copy một đoạn mã sau vào NotePad:
-
-```php
-@echo off
-title Activate Office 365 ProPlus for FREE - MSGuides.com&cls&echo ============================================================================&echo BS. NGUYEN CHI THANH, TRUONG KHOA CAP CUU BV DAM DOI, Phone 0914678254 &echo ============================================================================&echo.&echo Bs Nguyen Chi Thanh, Activating Office 365 Mondo 2016(x86-x64)&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_mak*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ============================================================================&echo Activating your Office...&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:WFG99 >nul&cscript //nologo ospp.vbs /unpkey:DRTFM >nul&cscript //nologo ospp.vbs /unpkey:BTDRB >nul&cscript //nologo ospp.vbs /inpkey:HFTND-W9MK4-8B7MJ-B6C4G-XQBR2 >nul&set i=1
-:server
-if %i%==1 set KMS=kms7.MSGuides.com
-if %i%==2 set KMS=kms8.MSGuides.com
-if %i%==3 set KMS=kms9.MSGuides.com
-if %i%==4 goto notsupported
-cscript //nologo ospp.vbs /sethst:%KMS% >nul&echo ============================================================================&echo.&echo.
-cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ============================================================================&echo.&echo My blog: bsnguyenchithanh.business.site Phone 0914678254.&echo Hay ung ho Phong kham Noi tong hop tu nhan cua toi. &echo Rat vinh du duoc don tiep qui khach. &echo Chuc qui khach Van su nhu y&echo.&echo ============================================================================&choice /n /c YN /m "Would you like to visit blog of Bs Nguyen Chi Thanh, BV Da Khoa Dam Doi [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
-explorer "http://bsnguyenchithanh.business.site"&goto halt
-:notsupported
-echo.&echo ============================================================================&echo Sorry! Your version is not supported.&echo Please try installing the latest version here: bit.ly/odt2k16
-:halt
-pause >nul
-```
-
-Bấm **Save As** với tên Acitve Office 365 Mondo.cmd rồi Run chúng băng Quyền Run Administrator là OK
+- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+- Hoặc dùng Activate AIO Tools convert office sang office 365 Mondo rồi kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
 
 ### Có thể kích hoạt Office 365 Mondo bằng Activate AIO Tools [xem tại đây](https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md) ###
 
