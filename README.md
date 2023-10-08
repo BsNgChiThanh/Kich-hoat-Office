@@ -3,13 +3,13 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
 
-- **[Source nguồn Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true)**. **Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true)** **hoặc [bấm vào đây](https://tb.rg-adguard.net/public.php)**
-- **Hoặc download source từ trang https://massgrave.dev/genuine-installation-media.html**
-- **Nếu bạn muốn tìm key windows và office thì [bấm vào đây](https://t.me/+yqfFsJPOciwyY2Vl)**
-- **[Hướng dẫn Microsoft](https://docs.microsoft.com/vi-vn/deployoffice/vlactivation/configure-a-kms-host-computer-for-office)**
-- **[Trang chủ của kích hoạt cmd bấm vào đây](https://msguides.com/install-office-multilanguage)**
-- **[Key KMS bấm vào đây](https://github.com/alexroyce315/KMS-Keys)**
-- **Tôi vẫn thích dùng Office 365 hơn vì nó chỉ add tài khoản Office 365 A1+, E3, E5 là active ngon lành cành đào, nhập một lúc vài chục tài khoản luôn cho thể hiện đẳng cấp**
+- [Source nguồn Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true). Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true) hoặc [bấm vào đây](https://tb.rg-adguard.net/public.php) 
+- Hoặc download source từ trang https://massgrave.dev/genuine-installation-media.html 
+- Nếu bạn muốn tìm key windows và office thì [bấm vào đây](https://t.me/+yqfFsJPOciwyY2Vl) 
+- [Hướng dẫn Microsoft](https://docs.microsoft.com/vi-vn/deployoffice/vlactivation/configure-a-kms-host-computer-for-office) 
+- [Trang chủ của kích hoạt cmd bấm vào đây](https://msguides.com/install-office-multilanguage) 
+- [Key KMS bấm vào đây](https://github.com/alexroyce315/KMS-Keys) 
+- Tôi vẫn thích dùng Office 365 hơn vì nó chỉ add tài khoản Office 365 A1+, E3, E5 là active ngon lành cành đào, nhập một lúc vài chục tài khoản luôn cho thể hiện đẳng cấp 
 - ![image](https://user-images.githubusercontent.com/82578024/231724418-cce14eb7-1c9c-468e-9b25-4dc0cb5847b4.png)
 
 ## KÍCH HOẠT OFFICE ##
@@ -27,14 +27,12 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 |wesleymirandadasilva@ied.edu |00BR0000022679|  
 
 - Vô File --> Account --> Sign in.
-
-  ![image](https://user-images.githubusercontent.com/82578024/231721933-57314e45-7b92-49d3-bd95-abfa6ea91315.png)
-  ![image](https://user-images.githubusercontent.com/82578024/231722306-32b6797f-5e60-4a0e-9f07-201a64727c64.png)
-  ![image](https://user-images.githubusercontent.com/82578024/231722388-2c76bb01-6b0b-4d34-85cf-cc13667c984f.png)
-  ![image](https://user-images.githubusercontent.com/82578024/231722503-1c3c729f-3891-478f-8c2c-814f5fd880f7.png)
-  ![image](https://user-images.githubusercontent.com/82578024/231722653-20618a63-9429-46c1-93ce-b3670f65c657.png)
-  ![image](https://user-images.githubusercontent.com/82578024/231723244-a7586075-1eb8-4992-abc2-4b78deec20ff.png)
-
+  - ![image](https://user-images.githubusercontent.com/82578024/231721933-57314e45-7b92-49d3-bd95-abfa6ea91315.png)
+  - ![image](https://user-images.githubusercontent.com/82578024/231722306-32b6797f-5e60-4a0e-9f07-201a64727c64.png)
+  - ![image](https://user-images.githubusercontent.com/82578024/231722388-2c76bb01-6b0b-4d34-85cf-cc13667c984f.png)
+  - ![image](https://user-images.githubusercontent.com/82578024/231722503-1c3c729f-3891-478f-8c2c-814f5fd880f7.png)
+  - ![image](https://user-images.githubusercontent.com/82578024/231722653-20618a63-9429-46c1-93ce-b3670f65c657.png)
+  - ![image](https://user-images.githubusercontent.com/82578024/231723244-a7586075-1eb8-4992-abc2-4b78deec20ff.png)
 - Done!
 - Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũng kích hoạt được nhưng office đề nghị bấm vào cập nhật để được bản office đúng!!!
 - **Tham khảo thêm về office 365 E5 _ Office 365 Enterprise [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
@@ -63,8 +61,8 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 # Office 2019 #
 - ![image](https://user-images.githubusercontent.com/82578024/230250723-0c1056dd-0beb-404d-b58a-18d4a2f5317d.png)
 - [trang chủ kích hoạt](https://msguides.com/office-2019)
-- **[Xem thêm video](https://youtu.be/r8adru6z78k)**
-- **[Hoặc tham khảo cách khác tại đây](https://docs.google.com/document/d/1Vn4z9_S049XbmpnILdpVJz1TUs6qjhjcZK8rO_mTsOQ/edit)**
+- [Xem thêm video](https://youtu.be/r8adru6z78k) 
+- [Hoặc tham khảo cách khác tại đây](https://docs.google.com/document/d/1Vn4z9_S049XbmpnILdpVJz1TUs6qjhjcZK8rO_mTsOQ/edit) 
 ## Kích hoạt Office 2019 ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
@@ -86,37 +84,9 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 
-https://user-images.githubusercontent.com/82578024/172501342-b8ebf93c-f51f-4049-8902-e809b334a1dc.mp4
+# Convert Office Retail sang Office Volume: #
 
-## Cũng có thể gia hạn kích hoạt vĩnh viến bằng cách: ##
-
-- Tạo tác vụ gia hạn kích hoạt vĩnh viễn bằng Activate AIO Tools v3.1.3:
-
-![image](https://user-images.githubusercontent.com/103977676/200756492-50b60776-f99b-4e12-8352-090c14850910.png)
- 
-Bấm phím O để tạo tác vụ rồi làm theo
-
-![1](https://user-images.githubusercontent.com/103977676/202890026-86e15386-41d8-414c-ac7e-351285557571.png)
-
-![2](https://user-images.githubusercontent.com/103977676/202890031-403f2c18-1c04-445d-b099-afa1072adfe0.png)
-
-![3](https://user-images.githubusercontent.com/103977676/202890040-402bee8b-c50a-4934-8acd-4f4cc6a3f64f.png)
-
-- Tạo tác vụ gia hạn kích hoạt vĩnh viễn bằng Online KMS Activation Script v6.0
-
-![1a](https://user-images.githubusercontent.com/103977676/202890368-82a3d50e-674d-4cc0-8c01-bb0b9d9be91a.png)
-
-![2a](https://user-images.githubusercontent.com/103977676/202890372-6ec73a21-12b5-45b9-b8f0-91daa3afd16f.png)
-
-![3a](https://user-images.githubusercontent.com/103977676/202890385-a574d0ba-7ba3-4786-bfa2-08b94d177659.png)
-
-![4](https://user-images.githubusercontent.com/103977676/202890408-40534008-6954-4246-aefd-4fa40a41c81c.png)
-
-Cuối tuần vào kiểm tra nó cũng báo là 179 ngày vậy là giống vĩnh viễn!
-
-## Convert Office Retail sang Office Volume: ##
-
-**[Dùng AIO Tools V3.1.3 để chuyển](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/ETBqT5RRi4xEjUTNR_VaUsUBqsAgTjyDFD7BA-sVJ1XC4A?e=Q0vzhG)**
+- Dùng AIO Tools để chuyển 
 
 ## XÓA KEY OFFICE ##
 
