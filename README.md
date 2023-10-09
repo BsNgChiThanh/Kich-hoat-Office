@@ -2,12 +2,17 @@
 Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 Enterprise
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
-
+## Trang chủ của kích hoạt cmd [bấm vào đây](https://msguides.com/install-office-multilanguage) ##
+- [Kích hoạt Office 2021](https://msguides.com/office-2021)
+- [Kích hoạt Project / Visio (2016/2019/2021)](https://msguides.com/project-visio)
+- [Kích hoạt Office 2019](https://msguides.com/office-2019)
+- [Source code Office 2016](https://1drv.ms/t/s!AmvuvqBBIcK6hyj7t3BaxKynZcX3?e=K16xtK)
+  
+## Một số nguồn quan trọng ##
 - [Source nguồn Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true). Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true) hoặc [bấm vào đây](https://tb.rg-adguard.net/public.php) 
 - Hoặc download source từ trang https://massgrave.dev/genuine-installation-media.html 
 - Nếu bạn muốn tìm key windows và office thì [bấm vào đây](https://t.me/+yqfFsJPOciwyY2Vl) 
 - [Hướng dẫn Microsoft](https://docs.microsoft.com/vi-vn/deployoffice/vlactivation/configure-a-kms-host-computer-for-office) 
-- [Trang chủ của kích hoạt cmd bấm vào đây](https://msguides.com/install-office-multilanguage) 
 - [Key KMS bấm vào đây](https://github.com/alexroyce315/KMS-Keys) 
 - Tôi vẫn thích dùng Office 365 hơn vì nó chỉ add tài khoản Office 365 A1+, E3, E5 là active ngon lành cành đào, nhập một lúc vài chục tài khoản luôn cho thể hiện đẳng cấp 
 - ![image](https://user-images.githubusercontent.com/82578024/231724418-cce14eb7-1c9c-468e-9b25-4dc0cb5847b4.png)
@@ -136,7 +141,6 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 - File active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyj7t3BaxKynZcX3?e=K16xtK)
 
 ##### Có thể chuyển sang Office 365 Mondo #####
-##### Chuyển sang Office 2016 #####
 - Các bạn làm tương tự.
 - Nhưng phần kích hoạt Office 365 Mondo các bạn dùng KMS VL ALL AIO để kích hoạt là ok nhất: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
 
