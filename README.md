@@ -96,18 +96,49 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 **Hoàn thành Kích hoạt!**
 
 ### Ghi chú ###
-
-Bạn có thể chuyển đổi qua lại giữa các office sau:
-
+- Bạn có thể chuyển đổi qua lại giữa các office sau:
   - Office 2016
   - Office 2019
   - Office 2021
   - Office 365
 - Chuyển đổi mà không cần cài đặt lại, giả sử bạn muốn sử dụng Office 2021 mà có một bộ cài đặt Office 2016 hoặc Office 2019 thì phải làm sao? Câu trả lời cứ cài theo bộ cài có sẵn sau đó dùng thủ thuật chuyển đổi trong vài nốt nhạc!
-- Bạn **xóa key Office** bằng Active AIO Tools https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-- Bạn install giấy phép bằng https://github.com/BsNgChiThanh/OfficeTool/blob/IMP/README.md
-- Sau cùng bạn dùng Active AIO Tools để kích hoạt trở lại https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-- Trường hợp bạn muốn sử dụng Office 365 thì sao? Sau khi xóa sạch key Office, bạn dùng **Office Tool Plus** để gán giấy phép Office 365 xong, dùng tài khoản để kích hoạt, mình có một số tài khoản để ở phần trên!
+#### DEMO cho các bạn xem thử: ####
+##### Chuyển Office 365 Enterprise sang Office 2021 Pro LTSC #####
+- Tôi đang sử dụng Office 365 Enterprise:
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/919af33b-b5bf-4d75-affe-d899917956ba)
+- Tôi dùng Office Tool để xoá giấy phép Office 365, sau đó install giấy phép Office 2021 vào, https://github.com/BsNgChiThanh/OfficeTool
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/a9b234e2-040b-408e-a010-5fba8c58c681)
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/1f7bb1ff-6f5e-479f-b1cd-f3442535b89e)
+- Sau đó nhận giấy phép Office 2021 Pro LTSC vào.
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/2fb44de3-30f2-4864-b499-85af38ff4cbc)
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/5605674e-e348-47b7-b023-2922d9f750f0)
+- Sau đó chạy file active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hy3HnhIRyi3c7lD_?e=V0BKtc)
+- Run file:
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/0e464f51-8a9d-4d05-9ce3-9ac55a2fa206)
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/a0a2a877-9ee7-464f-841d-4be6f908d164)
+- Đã kích hoạt 180 ngày, chúng ta tạo tác vụ gia hạn tự động hàng tuần để trở thành vĩnh viễn.
+- Dùng Active AIO Tools để kiểm tra kích hoạt và tạo gia hạn kích hoạt hàng tuần: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/c83d7c00-5f79-4b13-b8aa-56667b424ce7)
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/c7e8f6eb-4c31-4798-93fc-f9693fd4566a)
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/622d7e04-952d-4e7a-8588-d423f58e1d05)
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/36327191-0350-46f3-9997-c0755846602c)
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/842aea24-13f3-40a7-9afb-f284246148ac)
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/7e10579a-e57f-4835-8096-56ac5ed09369)
+- OK
+- Trường hợp vẫn còn Office 365 là do bạn đang sử dụng các tài khoản Office 365 A1+ hãy đăng xuất nó ra thì nó sẽ là office 2021 Pro LTSC.
+
+##### Chuyển sang Office 2019 #####
+- Các bạn làm tương tự.
+- File active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyedGZkz3J19RqWm?e=geBxGJ)
+
+##### Chuyển sang Office 2016 #####
+- Các bạn làm tương tự.
+- File active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyj7t3BaxKynZcX3?e=K16xtK)
+
+##### Có thể chuyển sang Office 365 Mondo #####
+##### Chuyển sang Office 2016 #####
+- Các bạn làm tương tự.
+- Nhưng phần kích hoạt Office 365 Mondo các bạn dùng KMS VL ALL AIO để kích hoạt là ok nhất: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
 
 ## CÓ NHỮNG TRƯỜNG HỢP BỊ LỖI RẤT KHÓ CHỊU ##
 - ![image](https://user-images.githubusercontent.com/82578024/185740068-23c1a28b-ee50-4cd8-9c4d-03dde7e2affd.png)
