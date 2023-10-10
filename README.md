@@ -210,6 +210,14 @@ pause >nul
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 
+## RENEW OFFICE: ##
+- [Trang chủ nói về Renew](https://msguides.com/renew-kms-license-manually)
+- Dùng Activate AIO Tools để tạo tác vụ renew: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/a1e7b638-aa8e-42c9-a9de-e483e1ecfd13)
+- Dùng KMS VL ALL AIO để tạo tác vụ renew: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/24f473ce-c135-4878-92e4-90f18d0f0f9f)
+
+
 # Convert Office Retail sang Office Volume: #
 - Dùng AIO Tools để chuyển
 - Bấm vào đây để tham khảo https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md 
