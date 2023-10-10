@@ -7,6 +7,7 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 - [Kích hoạt Project / Visio (2016/2019/2021)](https://msguides.com/project-visio)
 - [Kích hoạt Office 2019](https://msguides.com/office-2019) dự phòng [source](https://1drv.ms/t/s!AmvuvqBBIcK6hyedGZkz3J19RqWm?e=PdoDx6)
 - [Source code Office 2016](https://1drv.ms/t/s!AmvuvqBBIcK6hyj7t3BaxKynZcX3?e=K16xtK)
+- [Kích hoạt Office 2010, 2013](https://msguides.com/office-2010-2013)
   
 ## Một số nguồn quan trọng ##
 - [Source nguồn Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true). Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true) hoặc [bấm vào đây](https://tb.rg-adguard.net/public.php) 
@@ -19,8 +20,6 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 
 ## KÍCH HOẠT OFFICE ##
 # Office 365 Enterprise #
-- ![image](https://user-images.githubusercontent.com/82578024/230249230-70263b1e-def4-4cb8-a02c-2aa0f35a9d96.png)
-
 ## MỘT SỐ OFFICE 365 A1+ KÍCH HOẠT OFFICE 365 FOR DESKTOP ##
 
 |Tài khoản|Password|
@@ -56,8 +55,6 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 - Hoặc dùng Activate AIO Tools convert office sang office 365 Mondo rồi kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
 
 # Office 2021 LTSC #
-- ![image](https://user-images.githubusercontent.com/82578024/230250487-327321fe-252e-4803-a5c0-6baaf111a70d.png)
-- [Trang chủ kích hoạt](https://msguides.com/office-2021#Activate_Office_2021_for_FREE_using_KMS_client_key)
 ## Kích hoạt Office 2021 LTSC ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
@@ -108,10 +105,6 @@ pause >nul
 ```
 
 # Office 2019 #
-- ![image](https://user-images.githubusercontent.com/82578024/230250723-0c1056dd-0beb-404d-b58a-18d4a2f5317d.png)
-- [trang chủ kích hoạt](https://msguides.com/office-2019)
-- [Xem thêm video](https://youtu.be/r8adru6z78k) 
-- [Hoặc tham khảo cách khác tại đây](https://docs.google.com/document/d/1Vn4z9_S049XbmpnILdpVJz1TUs6qjhjcZK8rO_mTsOQ/edit) 
 ## Kích hoạt Office 2019 ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
@@ -162,8 +155,6 @@ pause >nul
 ```
 
 # Office 2016 #
-- ![image](https://user-images.githubusercontent.com/82578024/230250976-e7bb2142-0ff4-472e-946c-0536a94262b1.png)
-- [Trang chủ kích hoạt](https://msguides.com/office-2016)
 ## Kích hoạt Office 2016 ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
@@ -214,8 +205,6 @@ pause >nul
 ```
 
 # Office 2013, Office 2010 #
-- ![image](https://user-images.githubusercontent.com/82578024/230251037-2ec7178a-63dd-4871-a10a-7cbc4c2a4632.png) ![image](https://user-images.githubusercontent.com/82578024/230251160-4d95bd68-3fe2-4b44-bee5-1617ac73cff3.png)
-- [Trang chủ kích hoạt](https://msguides.com/office-2010-2013)
 ## Kích hoạt Office 2013, Office 2010 ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
@@ -226,11 +215,9 @@ pause >nul
 - Bấm vào đây để tham khảo https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md 
 
 ## XÓA KEY OFFICE ##
-
 - Dùng AIO Tools để xóa
 - Bấm vào đây để tham khảo https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-
-**Hoàn thành Kích hoạt!**
+- **Hoàn thành Kích hoạt!**
 
 ### Ghi chú ###
 - Bạn có thể chuyển đổi qua lại giữa các office sau:
