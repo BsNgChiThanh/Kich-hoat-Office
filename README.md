@@ -273,8 +273,6 @@ cscript ospp.vbs /act
 ```
 - Chờ chạy xong là OK!
 
-
-
 ## XÓA KEY OFFICE ##
 - Dùng AIO Tools để xóa
 - Bấm vào đây để tham khảo https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
