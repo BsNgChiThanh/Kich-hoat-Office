@@ -220,7 +220,60 @@ pause >nul
 
 # Convert Office Retail sang Office Volume: #
 - Dùng AIO Tools để chuyển
-- Bấm vào đây để tham khảo https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md 
+- Bấm vào đây để tham khảo https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+## Covert Office 2021 Retail to VL Office ProPlus 2021 ##
+- Bấm nút **Wondows + R**
+- gõ vào **cmd** bấm enter.
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/14605e96-922f-4fe6-82f1-d690eb7b5043)
+- Bấm vào: **cd C:\Windows\System32**
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/e791f67e-7f1d-4bcb-8914-36bc149d2f77)
+- Sau đó copy đoạn code này dán vào:
+```php
+cd /d %ProgramFiles%\Microsoft Office\Office16
+cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
+for /f %x in ('dir /b ..\root\Licenses16\ProPlus2021VL*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%x"
+cscript ospp.vbs /setprt:1688
+cscript ospp.vbs /inpkey:FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH
+cscript ospp.vbs /sethst:kms8.msguides.com
+cscript ospp.vbs /act
+```
+- Chờ chạy xong là OK!
+## Covert Office 2019 Retail to VL Office ProPlus 2019 ##
+- Bấm nút **Wondows + R**
+- gõ vào **cmd** bấm enter.
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/14605e96-922f-4fe6-82f1-d690eb7b5043)
+- Bấm vào: **cd C:\Windows\System32**
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/e791f67e-7f1d-4bcb-8914-36bc149d2f77)
+- Sau đó copy đoạn code này dán vào:
+```php
+cd /d %ProgramFiles%\Microsoft Office\Office16
+cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
+for /f %i in ('dir /b ..\root\Licenses16\ProPlus2019VL_MAK*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%i" 
+cscript ospp.vbs /setprt:1688
+cscript ospp.vbs /inpkey:FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH
+cscript ospp.vbs /sethst:kms8.msguides.com
+cscript ospp.vbs /act
+```
+- Chờ chạy xong là OK!
+## Covert Office 2016 Retail to VL Office ProPlus 2016 ##
+- Bấm nút **Wondows + R**
+- gõ vào **cmd** bấm enter.
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/14605e96-922f-4fe6-82f1-d690eb7b5043)
+- Bấm vào: **cd C:\Windows\System32**
+- ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/e791f67e-7f1d-4bcb-8914-36bc149d2f77)
+- Sau đó copy đoạn code này dán vào:
+```php
+cd /d %ProgramFiles%\Microsoft Office\Office16
+cd /d %ProgramFiles(x86)%\Microsoft Office\Office16
+for /f %i in ('dir /b ..\root\Licenses16\ProPlusVL_MAK*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%i"
+cscript ospp.vbs /setprt:1688
+cscript ospp.vbs /inpkey:FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH
+cscript ospp.vbs /sethst:kms8.msguides.com
+cscript ospp.vbs /act
+```
+- Chờ chạy xong là OK!
+
+
 
 ## XÓA KEY OFFICE ##
 - Dùng AIO Tools để xóa
