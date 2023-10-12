@@ -1,0 +1,14 @@
+@echo off
+title Activate Office 365 ProPlus for FREE - MSGuides.com&cls&echo ============================================================================&echo BS. NGUYEN CHI THANH, TRUONG KHOA CAP CUU BV DAM DOI, Phone 0914678254 &echo ============================================================================&echo.&echo Bs Nguyen Chi Thanh, Activating Office 365 Mondo 2016(x86-x64)&echo.&echo.&(if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office16")&(if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office16")&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_kms*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&(for /f %%x in ('dir /b ..\root\Licenses16\proplusvl_mak*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses16\%%x" >nul)&echo.&echo ============================================================================&echo Activating your Office...&cscript //nologo slmgr.vbs /ckms >nul&cscript //nologo ospp.vbs /setprt:1688 >nul&cscript //nologo ospp.vbs /unpkey:WFG99 >nul&cscript //nologo ospp.vbs /unpkey:DRTFM >nul&cscript //nologo ospp.vbs /unpkey:BTDRB >nul&cscript //nologo ospp.vbs /inpkey:HFTND-W9MK4-8B7MJ-B6C4G-XQBR2 >nul&set i=1
+:server
+if %i%==1 set KMS=kms7.MSGuides.com
+if %i%==2 set KMS=kms8.MSGuides.com
+if %i%==3 set KMS=kms9.MSGuides.com
+if %i%==4 goto notsupported
+cscript //nologo ospp.vbs /sethst:%KMS% >nul&echo ============================================================================&echo.&echo.
+cscript //nologo ospp.vbs /act | find /i "successful" && (echo.&echo ============================================================================&echo.&echo My blog: bsnguyenchithanh.business.site Phone 0914678254.&echo Hay ung ho Phong kham Noi tong hop tu nhan cua toi. &echo Rat vinh du duoc don tiep qui khach. &echo Chuc qui khach Van su nhu y&echo.&echo ============================================================================&choice /n /c YN /m "Would you like to visit blog of Bs Nguyen Chi Thanh, BV Da Khoa Dam Doi [Y,N]?" & if errorlevel 2 exit) || (echo The connection to my KMS server failed! Trying to connect to another one... & echo Please wait... & echo. & echo. & set /a i+=1 & goto server)
+explorer "http://bsnguyenchithanh.business.site"&goto halt
+:notsupported
+echo.&echo ============================================================================&echo Sorry! Your version is not supported.&echo Please try installing the latest version here: bit.ly/odt2k16
+:halt
+pause >nul
