@@ -257,6 +257,15 @@ cscript ospp.vbs /sethst:kms8.msguides.com
 cscript ospp.vbs /act
 ```
 - Chờ chạy xong là OK!
+- **Nếu bạn muốn chuyển Office 2019 từ VL sang Retail thì làm tương tự trên nhưng tới lúc dán đoạn code vào thì dán đoạn dưới đây:**
+```php
+set ver=16
+if exist "%ProgramFiles%\Microsoft Office\Office%ver%\ospp.vbs" cd /d "%ProgramFiles%\Microsoft Office\Office%ver%"
+if exist "%ProgramFiles(x86)%\Microsoft Office\Office%ver%\ospp.vbs" cd /d "%ProgramFiles(x86)%\Microsoft Office\Office%ver%"
+for /f %i in ('dir /b ..\root\Licenses%ver%\ProPlus2019R_Retail*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses%ver%\%i"
+for /f %i in ('dir /b ..\root\Licenses%ver%\ProPlus2019MSDNR*.xrm-ms') do cscript ospp.vbs /inslic:"..\root\Licenses%ver%\%i"
+exit
+```
 ## Covert Office 2016 Retail to VL Office ProPlus 2016 ##
 - Bấm nút **Wondows + R**
 - gõ vào **cmd** bấm enter.
