@@ -288,7 +288,7 @@ cscript ospp.vbs /act
 ## XÓA KEY OFFICE ##
 - Dùng AIO Tools để xóa
 - Bấm vào đây để tham khảo https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-- Xoá key Office bằng đoạn code bấm [vào đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyWbyZ7ms3HiWj67?e=GbuoEk)
+- Xoá key Office bằng đoạn code bấm [vào đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyWbyZ7ms3HiWj67?e=GbuoEk) hoặc bấm vào link sau để lấy đoạn coade   https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/X%C3%B3a%20key%20Office.txt
 - **Hoàn thành Kích hoạt!**
 
 ### Ghi chú ### 
