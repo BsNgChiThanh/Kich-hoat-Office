@@ -326,7 +326,7 @@ cscript ospp.vbs /act
 
 ##### Chuyển sang Office 2019 #####
 - Các bạn làm tương tự.
-- File active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyedGZkz3J19RqWm?e=geBxGJ) hoặc [bấm vào đây để lấy đoạn code](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office%202019-1.txt)
+- File active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyedGZkz3J19RqWm?e=geBxGJ) hoặc [bấm vào đây để lấy đoạn code](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office%202019.txt)
 
 ##### Chuyển sang Office 2016 #####
 - Các bạn làm tương tự.
