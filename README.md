@@ -482,16 +482,13 @@ goto:start
 ```
 
 # SỮA LỖI OFFICE 2016, 2019, 2021 VÀ 365 KHỞI ĐỘNG CHẬM #
-
 1. Vào đường dẫn: C:\Users\"name"\AppData\Roaming\Microsoft\Templates xóa file Normal.dotm
 2. Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Common
-
-Bấm chuột phải --> Chọn New --> chọn DWORD 32 Value --> đặt tên là: DisableHardwareAcceleration sau đó gán giá trị 1
-
-![image](https://user-images.githubusercontent.com/82578024/186871121-1caf9a45-d8ee-40f5-9358-d9092d1eda13.png)
-
-https://user-images.githubusercontent.com/82578024/204987006-888c4897-ccea-4894-8f80-6b71dbbdad4b.mp4
-
+- Bấm chuột phải --> Chọn New --> chọn DWORD 32 Value --> đặt tên là: DisableHardwareAcceleration sau đó gán giá trị 1
+- ![image](https://user-images.githubusercontent.com/82578024/186871121-1caf9a45-d8ee-40f5-9358-d9092d1eda13.png)
+- https://user-images.githubusercontent.com/82578024/204987006-888c4897-ccea-4894-8f80-6b71dbbdad4b.mp4
+  
+## [CÔNG CỤ GỚ OFFICE TRIỆT ĐỂ CỦA MICROSOFT](https://1drv.ms/u/s!AmvuvqBBIcK6h09dzWtFvLhdCmQI?e=Vd4IZ8)
 ### Chúc thành công! ###
 
 **[Chia sẽ địa điểm trên Google map](https://goo.gl/maps/ZAzVMCgx4S4X4A55A)**
