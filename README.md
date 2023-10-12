@@ -221,6 +221,7 @@ pause >nul
 # Convert Office Retail sang Office Volume: #
 - Dùng AIO Tools để chuyển
 - Bấm vào đây để tham khảo https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+- Dùng phần mềm exe để chuyển: [tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EtmzwS4bMtNFh46PhbVt14IBmT2P6I2UapgUOYg3QLsFmw?e=LsBvZH) hoặc [tại đây](https://1drv.ms/f/s!AmvuvqBBIcK6hz92nqjhNBQoWRUX?e=BUY30a)
 ## Covert Office 2021 Retail to VL Office ProPlus 2021 ##
 - Bấm nút **Wondows + R**
 - gõ vào **cmd** bấm enter.
@@ -279,13 +280,14 @@ cscript ospp.vbs /act
 - Xoá key Office bằng đoạn code bấm [vào đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyWbyZ7ms3HiWj67?e=GbuoEk)
 - **Hoàn thành Kích hoạt!**
 
-### Ghi chú ###
+### Ghi chú ### 
 - Bạn có thể chuyển đổi qua lại giữa các office sau:
   - Office 2016
   - Office 2019
   - Office 2021
   - Office 365
 - Chuyển đổi mà không cần cài đặt lại, giả sử bạn muốn sử dụng Office 2021 mà có một bộ cài đặt Office 2016 hoặc Office 2019 thì phải làm sao? Câu trả lời cứ cài theo bộ cài có sẵn sau đó dùng thủ thuật chuyển đổi trong vài nốt nhạc!
+  - **[Bộ office 2016 tuỳ chỉnh được cài đặt](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWngGMh-zXVEnUgIbGMkGzsBIPUe_tBbXxj8-jz-Nk5B0A?e=JOFyCc)**
 #### DEMO cho các bạn xem thử: ####
 ##### Chuyển Office 365 Enterprise sang Office 2021 Pro LTSC #####
 - Tôi đang sử dụng Office 365 Enterprise:
