@@ -221,7 +221,7 @@ pause >nul
 # Convert Office Retail sang Office Volume: #
 - Dùng AIO Tools để chuyển
 - Bấm vào đây để tham khảo https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-- Dùng phần mềm exe để chuyển: [tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EtmzwS4bMtNFh46PhbVt14IBmT2P6I2UapgUOYg3QLsFmw?e=LsBvZH) hoặc [tại đây](https://1drv.ms/f/s!AmvuvqBBIcK6hz92nqjhNBQoWRUX?e=BUY30a). Hoặc [bấm vào đây để download](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office2021VolumeLicensePack_x64.exe) bấm theo hình chỉ đẫn bên dưới:
+- Dùng phần mềm exe để chuyển: [tại đây](https://bsthanh-my.sharepoint.com/:f:/g/personal/0914678254_bsthanh_onmicrosoft_com/EtmzwS4bMtNFh46PhbVt14IBmT2P6I2UapgUOYg3QLsFmw?e=LsBvZH) hoặc [tại đây](https://1drv.ms/f/s!AmvuvqBBIcK6hz92nqjhNBQoWRUX?e=BUY30a). Hoặc [bấm vào đây để download](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office2021VolumeLicensePack_x64.exe) rồi làm theo chỉ đẫn bên dưới:
 - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/10777a0b-2bc6-49fd-bcc9-6b0eafbdfe33)
 ## Covert Office 2021 Retail to VL Office ProPlus 2021 ##
 - Bấm nút **Wondows + R**
