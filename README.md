@@ -309,7 +309,7 @@ cscript ospp.vbs /act
 - Sau đó nhận giấy phép Office 2021 Pro LTSC vào.
 - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/2fb44de3-30f2-4864-b499-85af38ff4cbc)
 - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/5605674e-e348-47b7-b023-2922d9f750f0)
-- Sau đó chạy file active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hy3HnhIRyi3c7lD_?e=V0BKtc)
+- Sau đó chạy file active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hy3HnhIRyi3c7lD_?e=V0BKtc) hoặc [bấm vào đây để lấy đoạn code](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Active%20Office%202021.txt)
 - Run file:
 - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/0e464f51-8a9d-4d05-9ce3-9ac55a2fa206)
 - ![image](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/a0a2a877-9ee7-464f-841d-4be6f908d164)
@@ -326,15 +326,16 @@ cscript ospp.vbs /act
 
 ##### Chuyển sang Office 2019 #####
 - Các bạn làm tương tự.
-- File active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyedGZkz3J19RqWm?e=geBxGJ)
+- File active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyedGZkz3J19RqWm?e=geBxGJ) hoặc [bấm vào đây để lấy đoạn code](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office%202019-1.txt)
 
 ##### Chuyển sang Office 2016 #####
 - Các bạn làm tương tự.
-- File active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyj7t3BaxKynZcX3?e=K16xtK)
+- File active cmd download [từ đây](https://1drv.ms/f/s!AmvuvqBBIcK6hyTxoxQLPOKIWfW_?e=U1hqB8), hoặc source code [tại đây](https://1drv.ms/t/s!AmvuvqBBIcK6hyj7t3BaxKynZcX3?e=K16xtK) hoặc [bấm vào đây để lấy đoạn code](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office%202016.txt)
 
 ##### Có thể chuyển sang Office 365 Mondo #####
 - Các bạn làm tương tự.
 - Nhưng phần kích hoạt Office 365 Mondo các bạn dùng KMS VL ALL AIO để kích hoạt là ok nhất: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO
+- Cũng có thể [active office 365 Mondo bằng đoạn code](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Active%20Office%20365%20Mondo.txt)
 
 ## CÓ NHỮNG TRƯỜNG HỢP BỊ LỖI RẤT KHÓ CHỊU ##
 - ![image](https://user-images.githubusercontent.com/82578024/185740068-23c1a28b-ee50-4cd8-9c4d-03dde7e2affd.png)
@@ -343,143 +344,7 @@ cscript ospp.vbs /act
 
 ## Sao lưu Office và Windows ##
 - Mở **NotePad** copy đoạn mã sau vào và bấm **Save As** với tên **SaoluuOfficeVaWindows.cmd** rồi Run file này dưới quyền **Run Administrator**, làm theo hướng dẫn.
-
-```php
-@echo off&set local&color 0f&mode con cols=64 lines=25&title  Backup Restore Activations 1.1
-::--------------------------------------------------------------------------------------------------------------------------------------------------------
-::--------------------------------------------------------------------------------------------------------------------------------------------------------
-:: Elevating UAC Administrator Privileges
->nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"
-if "%errorlevel%" NEQ "0" (
-	echo: Set UAC = CreateObject^("Shell.Application"^) > "%temp%\getadmin.vbs"
-	echo: UAC.ShellExecute "%~s0", "", "", "runas", 1 >> "%temp%\getadmin.vbs"
-	"%temp%\getadmin.vbs" &	exit 
-)
-if exist "%temp%\getadmin.vbs" del /f /q "%temp%\getadmin.vbs"
-) else if "%errorlevel%" NEQ "1" (
-cd /d "%~dp0" && ( if exist "%temp%\getadmin.vbs" del "%temp%\getadmin.vbs" ) && fsutil dirty query %systemdrive% 1>nul 2>nul || (  cmd /u /c echo Set UAC = CreateObject^("Shell.Application"^) : UAC.ShellExecute "cmd.exe", "/k cd ""%~sdp0"" && ""%~s0""", "", "runas", 1 >> "%temp%\getadmin.vbs" && "%temp%\getadmin.vbs" && exit /B )
-)
-if exist "%ProgramFiles%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office14"& set /a ver=4
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office14"& set /a ver=4
-if exist "%ProgramFiles%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office15"& set /a ver=5
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office15"& set /a ver=5
-if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office16"& set /a ver=6
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office16"& set /a ver=6
-::--------------------------------------------------------------------------------------------------------------------------------------------------------
-:start
-cls&color 0f&mode con cols=66 lines=25
-echo  ================================================================
-echo  ^|                                                              ^|
-echo  ^|                BACKUP AND RESTORE ACTIVATION                 ^|
-echo  ^|                                                              ^|
-echo  ================================================================
-echo  ^|                              ^|                               ^|
-echo  ^|    [1] BACKUP ACTIVATION     ^|    [2] RESTORE ACTIVATION     ^|
-echo  ^|                              ^|                               ^|
-echo  ================================================================
-echo  ^|                                                              ^|
-echo  ^|           [3] EXIT AND THANK YOU FOR USING THIS TOOL         ^|
-echo  ^|                                                              ^|
-echo  ================================================================
-echo.&echo.
-echo  ==========================Coded by Kaz==========================
-echo     Thanks to Nguyen Viet Hoang, Le Quang Dat, Tran Vinh Trung
-echo                     support me to make this tool
-echo                        My Name: Huynh Danh Dat
-echo    Any problems please inbox this facebook:fb.com/dat.huynhdanh  
-echo  ================================================================
-echo.&CHOICE /C 123 /N /M " YOUR CHOICE: "
-IF ERRORLEVEL == 3 exit
-IF ERRORLEVEL == 2 GOTO:RESTORE
-IF ERRORLEVEL == 1 GOTO:BACKUP
-
-:BACKUP
-cls
-echo This Tool will delete all old backup !!!. Do you want to continue ?? 
-CHOICE /C yn /N /M "Your choice (Y/N): "
-IF ERRORLEVEL == 2 GOTO:start
-IF ERRORLEVEL == 1 GOTO:BACKUP1
-:BACKUP1
-for /f "tokens=6 delims=[.] " %%a in ('ver') do set ver1=%%a
-if %ver1% LEQ 7601 (
-XCOPY C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\SoftwareProtectionPlatform\* Backup\SoftwareProtectionPlatform /s /i /y >nul
-if %ver% LEQ 4 (
-goto:start
-goto:BACKUP
-) else (
-XCOPY C:\ProgramData\Microsoft\OfficeSoftwareProtectionPlatform\* Backup\OfficeSoftwareProtectionPlatform /s /i /y>nul
-goto:start
-goto:BACKUP
-)
-) else (
-attrib -s -h “C:\Windows\System32\spp\store\2.0\data.dat” /s /d 
-XCOPY C:\Windows\System32\spp\store\* Backup\store /s /i /y>nul
-if %ver% LEQ 4 (
-XCOPY C:\ProgramData\Microsoft\OfficeSoftwareProtectionPlatform Backup\OfficeSoftwareProtectionPlatform /s /i /y>nul
-goto:start
-goto:BACKUP
-) else (
-goto:start
-goto:BACKUP
-)
-)
-
-:RESTORE
-cls
-echo STOPPING SOME SERVICES FOR RESTORE ACTIVATION ...
-net stop sppsvc>nul 2>nul 
-net stop osppsvc>nul 2>nul
-echo Done.
-for /f "tokens=6 delims=[.] " %%a in ('ver') do set ver1=%%a
-if %ver1% LEQ 7601 (
-echo RESTORING WINDOWS AND OFFICE LICENSE FILES ...
-XCOPY Backup\SoftwareProtectionPlatform\* C:\Windows\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\SoftwareProtectionPlatform /s /i /y
-if %ver% LEQ 4 (
-echo Done.
-goto:restore1
-) else (
-XCOPY Backup\OfficeSoftwareProtectionPlatform\* C:\ProgramData\Microsoft\OfficeSoftwareProtectionPlatform  /s /i /y
-echo Done.
-goto:restore1
-)
-) else (
-echo RESTORING WINDOWS AND OFFICE LICENSE FILES ...
-if %ver% LEQ 4 (
-XCOPY Backup\store\* C:\Windows\System32\spp\store /s /i /y
-XCOPY Backup\OfficeSoftwareProtectionPlatform\* C:\ProgramData\Microsoft\OfficeSoftwareProtectionPlatform  /s /i /y 
-echo Done.
-goto:restore1
-) else (
-XCOPY Backup\store\* C:\Windows\System32\spp\store /s /i /y
-echo Done.
-goto:restore1
-) 
-)
-
-:restore1
-echo ACTIVATING WINDOWS AND OFFICE ...
-sc config sppsvc start= auto >nul 2>nul& net start sppsvc >nul 2>nul
-sc config osppsvc  start= auto >nul 2>nul& net start osppsvc >nul 2>nul
-sc config wuauserv start= auto >nul 2>nul& net start wuauserv >nul 2>nul
-sc config LicenseManager start= auto >nul 2>nul& net start LicenseManager >nul 2>nul
-cscript /nologo %windir%\system32\slmgr.vbs -rilc >nul 2>nul
-cscript /nologo %windir%\system32\slmgr.vbs -dli >nul 2>nul
-cscript /nologo %windir%\system32\slmgr.vbs -ato 
-cd C:\ >nul 2>nul
-if exist "%ProgramFiles%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office14"
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office14\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office14"
-if exist "%ProgramFiles%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office15"
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office15\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office15"
-if exist "%ProgramFiles%\Microsoft Office\Office16\ospp.vbs" set folder="%ProgramFiles%\Microsoft Office\Office16"
-if exist "%ProgramFiles(x86)%\Microsoft Office\Office16\ospp.vbs" set folder="%ProgramFiles(x86)%\Microsoft Office\Office16"
-cscript //Nologo %folder%\ospp.vbs /act 
-cscript //Nologo %folder%\ospp.vbs /dstatus 
-echo Done.
-echo Press any button to go restart...
-pause>nul
-shutdown.exe /r /t 00
-goto:start
-```
+- [Bấm vào đây để lấy đoạn code SaoluuOfficeVaWindows](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Sao%20l%C6%B0u%20office%20v%C3%A0%20windows.txt)
 
 # SỮA LỖI OFFICE 2016, 2019, 2021 VÀ 365 KHỞI ĐỘNG CHẬM #
 1. Vào đường dẫn: C:\Users\"name"\AppData\Roaming\Microsoft\Templates xóa file Normal.dotm
