@@ -353,7 +353,7 @@ cscript ospp.vbs /act
 - ![image](https://user-images.githubusercontent.com/82578024/186871121-1caf9a45-d8ee-40f5-9358-d9092d1eda13.png)
 - https://user-images.githubusercontent.com/82578024/204987006-888c4897-ccea-4894-8f80-6b71dbbdad4b.mp4
   
-## [CÔNG CỤ GỞ OFFICE TRIỆT ĐỂ CỦA MICROSOFT](https://1drv.ms/u/s!AmvuvqBBIcK6h09dzWtFvLhdCmQI?e=Vd4IZ8)
+## [CÔNG CỤ GỞ OFFICE TRIỆT ĐỂ CỦA MICROSOFT](https://1drv.ms/u/s!AmvuvqBBIcK6h09dzWtFvLhdCmQI?e=Vd4IZ8) hoặc bấm [vào đây để down load](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/SetupProd_OffScrub-G%E1%BB%9F%20office%20tri%E1%BB%87t%20%C4%91%E1%BB%83%20c%E1%BB%A7a%20Microsoft.exe)
 ### Chúc thành công! ###
 
 **[Chia sẽ địa điểm trên Google map](https://goo.gl/maps/ZAzVMCgx4S4X4A55A)**
