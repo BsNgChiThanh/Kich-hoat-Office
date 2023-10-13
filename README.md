@@ -54,6 +54,7 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 ## Kích hoạt Office 365 Mondo ##
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
 - Hoặc dùng Activate AIO Tools convert office sang office 365 Mondo rồi kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+- Dùng [đoạn code kích hoạt bằng cmd](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Active%20Office%20365%20Mondo.txt)
 
 # Office 2021 LTSC #
 ## Kích hoạt Office 2021 LTSC ##
