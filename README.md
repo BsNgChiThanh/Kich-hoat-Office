@@ -180,7 +180,7 @@ cscript ospp.vbs /act
   - Office 2021
   - Office 365
 - Chuyển đổi mà không cần cài đặt lại, giả sử bạn muốn sử dụng Office 2021 mà có một bộ cài đặt Office 2016 hoặc Office 2019 thì phải làm sao? Câu trả lời cứ cài theo bộ cài có sẵn sau đó dùng thủ thuật chuyển đổi trong vài nốt nhạc!
-  - **[Bộ office 2016 tuỳ chỉnh được cài đặt](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWngGMh-zXVEnUgIbGMkGzsBIPUe_tBbXxj8-jz-Nk5B0A?e=JOFyCc)**
+  - **[Bộ office 2016 tuỳ chỉnh được cài đặt](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EWngGMh-zXVEnUgIbGMkGzsBIPUe_tBbXxj8-jz-Nk5B0A?e=JOFyCc)** **Link [dự phòng](https://drive.google.com/file/d/114KD84z-tRkp61mycKbH4U8OO98wb5tM/view?usp=sharing)**
 #### DEMO cho các bạn xem thử: ####
 ##### Chuyển Office 365 Enterprise sang Office 2021 Pro LTSC #####
 - Tôi đang sử dụng Office 365 Enterprise:
