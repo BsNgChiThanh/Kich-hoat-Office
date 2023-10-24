@@ -46,7 +46,7 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 # Office 365 Prolus #
 - Download source Office 365 Prolus [tại đây](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365ProPlusRetail.img) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EcnOZ8MKBoxJoYOwLLQ7pVkB7oqv3F5ongrMAhzDerV5Hg?e=87rnQl).
 - Download về cài đặt, rồi dùng Mass Tools để kích hoạt là OK!
-- Link Mass Tools: https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
+- Link Mass Tools: https://github.com/BsNgChiThanh/MAS-TOOL
 
 # Office 365 Mondo 2016 #
 ## Cài Office 365 Mondo: ##
@@ -64,6 +64,7 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 
 # Office 2021 LTSC #
 ## Kích hoạt Office 2021 LTSC ##
+- https://github.com/BsNgChiThanh/Cai-Office2021-va-kich-hoat
 - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
 - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
 - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
