@@ -1,14 +1,15 @@
 # KÍCH HOẠT OFFICE MỌI PHIÊN BẢN BẰNG TOOL VÀ CMD #
-Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 Enterprise
+Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 Enterprise, Office 365 Prolus.
 
 ![IMG_1674314482411_1674314628494](https://user-images.githubusercontent.com/82578024/231743414-b21c5a56-bd56-4cae-912e-244a9afd470f.jpg)
+
 ## Trang chủ của kích hoạt cmd [bấm vào đây](https://msguides.com/install-office-multilanguage) ##
-- [Kích hoạt Office 365 Mondo](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Active%20Office%20365%20Mondo.txt)
-- [Kích hoạt Office 2021](https://msguides.com/office-2021) dự phòng [source](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Active%20Office%202021.txt)
-- [Kích hoạt Project / Visio (2016/2019/2021)](https://msguides.com/project-visio)
-- [Kích hoạt Office 2019](https://msguides.com/office-2019) dự phòng [source](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office%202019.txt)
-- [Source code Office 2016](https://1drv.ms/t/s!AmvuvqBBIcK6hyj7t3BaxKynZcX3?e=K16xtK)
-- [Kích hoạt Office 2010, 2013](https://msguides.com/office-2010-2013)
+  - [Kích hoạt Office 365 Mondo](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Active%20Office%20365%20Mondo.txt)
+  - [Kích hoạt Office 2021](https://msguides.com/office-2021) dự phòng [source](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Active%20Office%202021.txt)
+  - [Kích hoạt Project / Visio (2016/2019/2021)](https://msguides.com/project-visio)
+  - [Kích hoạt Office 2019](https://msguides.com/office-2019) dự phòng [source](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Office%202019.txt)
+  - [Source code Office 2016](https://1drv.ms/t/s!AmvuvqBBIcK6hyj7t3BaxKynZcX3?e=K16xtK)
+  - [Kích hoạt Office 2010, 2013](https://msguides.com/office-2010-2013)
   
 ## Một số nguồn quan trọng ##
 - [Source nguồn Office](https://docs.google.com/spreadsheets/d/e/2PACX-1vRlK-vRwPJHDaANT81EjyG4m5ZnLXdKRYfS0eKXyCzGymEfUDmKHRhxvUbtWYTfVn7MJ3E2jk7v3cGi/pubhtml?gid=605361024&single=true). Password giải nén nếu có của nguồn này [bấm vào đây](https://docs.google.com/document/d/1nskNEcAVu1SbhSzdRfGQWwT3aYtKUzLN/edit?usp=drivesdk&ouid=108710666609351868901&rtpof=true&sd=true) hoặc [bấm vào đây](https://tb.rg-adguard.net/public.php) 
@@ -41,6 +42,11 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 - Done!
 - Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũng kích hoạt được nhưng office đề nghị bấm vào cập nhật để được bản office đúng!!!
 - **Tham khảo thêm về office 365 E5 _ Office 365 Enterprise [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
+
+# Office 365 Prolus #
+- Download source Office 365 Prolus [tại đây](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365ProPlusRetail.img) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EcnOZ8MKBoxJoYOwLLQ7pVkB7oqv3F5ongrMAhzDerV5Hg?e=87rnQl).
+- Download về cài đặt, rồi dùng Mass Tools để kích hoạt là OK!
+- Link Mass Tools: https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 
 # Office 365 Mondo 2016 #
 ## Cài Office 365 Mondo: ##
