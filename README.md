@@ -134,7 +134,19 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
   - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
   - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
   - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
-
+## Kích hoạt Project 2013 ##
+  - ...
+  - Download [Project 2013](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/ProjectProRetail.img)
+  - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+  - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+  - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
+## Kích hoạt Visio 2013 ##
+  - ...
+  - Download [Visio 2013](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/VisioProRetail.img)
+  - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+  - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+  - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
+  - 
 ## Office 2010 ##
 ## Kích hoạt Project 2010 ##
   - https://github.com/BsNgChiThanh/Cai-Project2010-va-kich-hoat
