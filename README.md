@@ -91,26 +91,51 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
   - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
   - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 ## Project 2019 ##
-- Source code: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Project2019.txt
-- 
+  - 
+  - Source code: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Project2019.txt
+  - Download source [Project 2019](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProjectPro2019Retail.img)
+  - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+  - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+  - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 ## Visio 2019 ##
-- Source code: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Visio2019.txt
+  - 
+  - Source code: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Visio2019.txt
+  - Download source [Visio 2019](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/VisioPro2019Retail.img)
+  - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+  - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+  - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 
 # Office 2016 #
 ## Kích hoạt Office 2016 ##
-- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
-- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
+  - https://github.com/BsNgChiThanh/Cai-Office2016-va-kich-hoat
+  - Download source [Office 2016](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlusRetail.img)
+  - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+  - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+  - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 ## Project 2016 ##
-- Source code: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Project2016.txt
+  - https://github.com/BsNgChiThanh/Cai-Project2016-va-kich-hoat
+  - Download [Project 2016](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProjectProRetail.img)
+  - Source code: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Project2016.txt
+  - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+  - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+  - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 ## Visio 2016 ##
-- Source code: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Visio2016.txt
+  - https://github.com/BsNgChiThanh/Cai-Visio2016-va-kich-hoat
+  - Download [Visio 2016](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/VisioProRetail.img)
+  - Source code: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Visio2016.txt
+  - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+  - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+  - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 
-# Office 2013, Office 2010 #
-## Kích hoạt Office 2013, Office 2010 ##
-- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
-- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
+# Office 2013 #
+## Kích hoạt Office 2013 ##
+  - https://github.com/BsNgChiThanh/Cai-Office2013-va-kich-hoat
+  - Download [office 2013](https://officecdn.microsoft.com/db/39168d7e-077b-48e7-872c-b232c3e72675/media/en-us/ProfessionalRetail.img)
+  - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+  - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+  - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
+
+## Office 2010 ##
 
 ## RENEW OFFICE: ##
 - [Trang chủ nói về Renew](https://msguides.com/renew-kms-license-manually)
