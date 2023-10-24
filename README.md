@@ -77,6 +77,7 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
   - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 ## Visio 2021 ##
   - https://github.com/BsNgChiThanh/Cai-visio-pro2021-va-kich-hoat
+  - Download source [Visio 2021](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/VisioPro2021Retail.img)
   - Source code: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Visio2021.txt
   - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
   - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
@@ -84,11 +85,14 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 
 # Office 2019 #
 ## Kích hoạt Office 2019 ##
-- Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
-- Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
-- Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
+  - https://github.com/BsNgChiThanh/Cai-Office2019-va-kich-hoat
+  - Download source [office 2019 Prolus](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/ProPlus2019Retail.img)
+  - Dùng KMS VL ALL AIO để kích hoạt: https://github.com/BsNgChiThanh/KMS_VL_ALL_AIO/blob/IMP/README.md
+  - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools/blob/IMP/README.md
+  - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL/blob/IMP/README.md
 ## Project 2019 ##
 - Source code: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Project2019.txt
+- 
 ## Visio 2019 ##
 - Source code: https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/Visio2019.txt
 
