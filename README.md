@@ -148,7 +148,7 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
   - Dùng MAS TOOL để kích hoạt https://github.com/BsNgChiThanh/MAS-TOOL
   - 
 ## Office 2010 ##
-  - https://github.com/BsNgChiThanh/Cai-office201-va-kich-hoat
+  - https://github.com/BsNgChiThanh/Cai-Office2010-va-kich-hoat
   - Download [Office 2010](https://drive.google.com/file/d/1K25Hz4_mBgK1eheWuWVa1mWGs48Lhyx2/view) Pass giải nén nếu có PITVNcommunity, hoặc PITVN
   - Dùng Activate AIO Tools kích hoạt: https://github.com/BsNgChiThanh/ActivateAIOTools
 ## Kích hoạt Project 2010 ##
