@@ -23,30 +23,12 @@ Kích hoạt Office 2010, 2013, 2016, 2019, 2021, Office 365 Mondo, Office 365 E
 ## KÍCH HOẠT OFFICE ##
 # Office 365 Enterprise #
 ## MỘT SỐ OFFICE 365 A1+ KÍCH HOẠT OFFICE 365 FOR DESKTOP ##
-
-|Tài khoản|Password|
-|--|--|
-|vbennett@twu.edu |Senior2014!|
-|vh5595@stu.armstrong.edu |Vanessa123| 
-|vw6244@stu.armstrong.edu |0kkky3aa| 
-|we2838@stu.armstrong.edu |whitney1|
-|wesleymirandadasilva@ied.edu |00BR0000022679|  
-
-- Vô File --> Account --> Sign in.
-  - ![image](https://user-images.githubusercontent.com/82578024/231721933-57314e45-7b92-49d3-bd95-abfa6ea91315.png)
-  - ![image](https://user-images.githubusercontent.com/82578024/231722306-32b6797f-5e60-4a0e-9f07-201a64727c64.png)
-  - ![image](https://user-images.githubusercontent.com/82578024/231722388-2c76bb01-6b0b-4d34-85cf-cc13667c984f.png)
-  - ![image](https://user-images.githubusercontent.com/82578024/231722503-1c3c729f-3891-478f-8c2c-814f5fd880f7.png)
-  - ![image](https://user-images.githubusercontent.com/82578024/231722653-20618a63-9429-46c1-93ce-b3670f65c657.png)
-  - ![image](https://user-images.githubusercontent.com/82578024/231723244-a7586075-1eb8-4992-abc2-4b78deec20ff.png)
-- Done!
-- Nếu bạn cài các bản Office 365 khác khi add tài khoản này vào cũng kích hoạt được nhưng office đề nghị bấm vào cập nhật để được bản office đúng!!!
-- **Tham khảo thêm về office 365 E5 _ Office 365 Enterprise [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
+  - https://github.com/BsNgChiThanh/Office365Enterprise
+  - **Tham khảo thêm về office 365 E5 _ Office 365 Enterprise [bấm vào đây](https://github.com/BsNgChiThanh/Tao-office-365-E5-kich-hoat-Office-365-for-desktop)**
 
 # Office 365 Prolus #
-- Download source Office 365 Prolus [tại đây](https://officecdn.microsoft.com/db/492350f6-3a01-4f97-b9c0-c7c6ddf67d60/media/en-us/O365ProPlusRetail.img) hoặc [tại đây](https://bsthanh-my.sharepoint.com/:u:/g/personal/0914678254_bsthanh_onmicrosoft_com/EcnOZ8MKBoxJoYOwLLQ7pVkB7oqv3F5ongrMAhzDerV5Hg?e=87rnQl).
-- Download về cài đặt, rồi dùng Mass Tools để kích hoạt là OK!
-- Link Mass Tools: https://github.com/BsNgChiThanh/MAS-TOOL
+  - https://github.com/BsNgChiThanh/office-365-prolus
+  - Chúc thành công!
 
 # Office 365 Mondo 2016 #
 ## Cài Office 365 Mondo: ##
