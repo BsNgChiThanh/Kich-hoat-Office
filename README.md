@@ -226,12 +226,13 @@ cscript ospp.vbs /act
 2. Computer\HKEY_CURRENT_USER\SOFTWARE\Microsoft\Office\16.0\Common
 - Bấm chuột phải --> Chọn New --> chọn DWORD 32 Value --> đặt tên là: DisableHardwareAcceleration sau đó gán giá trị 1
 - ![image](https://user-images.githubusercontent.com/82578024/186871121-1caf9a45-d8ee-40f5-9358-d9092d1eda13.png)
-- https://user-images.githubusercontent.com/82578024/204987006-888c4897-ccea-4894-8f80-6b71dbbdad4b.mp4
+- Xem Video: https://1drv.ms/v/s!AuSa--rFNj520kT-zped0utJYoxj?e=cDo2ui
 
 ## Sửa lỗi Office mổi lần khởi động file mới đều hiện dòng chữ cảnh báo
   = ![1](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/601c4e00-a3d3-4eba-a493-343f173db7d2)
   - ![2](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/61478cba-ac45-4bb2-aab5-8b975c5543ca)
   - ![3](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/98a8cc91-7a4f-4558-9a50-ca341e30a666)
+  - Tắt Office mở lại là ok
   - ![4](https://github.com/BsNgChiThanh/Kich-hoat-Office/assets/82578024/88488bfc-8587-4ff2-a92f-3bb717de1ec2)
 
 ## [CÔNG CỤ GỞ OFFICE TRIỆT ĐỂ CỦA MICROSOFT](https://1drv.ms/u/s!AmvuvqBBIcK6h09dzWtFvLhdCmQI?e=Vd4IZ8) hoặc bấm [vào đây để download](https://github.com/BsNgChiThanh/Kich-hoat-Office/blob/KichHoatOffice/SetupProd_OffScrub-G%E1%BB%9F%20office%20tri%E1%BB%87t%20%C4%91%E1%BB%83%20c%E1%BB%A7a%20Microsoft.exe)
