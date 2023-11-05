@@ -215,7 +215,7 @@ cscript ospp.vbs /act
 ## CÓ NHỮNG TRƯỜNG HỢP BỊ LỖI RẤT KHÓ CHỊU ##
 - ![image](https://user-images.githubusercontent.com/82578024/185740068-23c1a28b-ee50-4cd8-9c4d-03dde7e2affd.png)
 - Office không nhận bất kì một tài khoản Microsoft nào và báo lỗi kích hoạt lại, tôi đã thử nhiều cách nhưng không được, chỉ có một cách là xóa tất cả các giấy phép, dau đó intall giấy phép Office 2016, 2019 hoặc 2021 LTSC rồi gắn key kích hoạt; nếu không có key thì kích hoạt bằng cmd thì sử dụng được!
-- **Hoặc xóa bỏ bộ office bằng Tool của Microsoft https://www.microsoft.com/en-us/download/100607 sau đó cài mới lại xem sao**
+- Hoặc xóa bỏ bộ office bằng Tool của Microsoft https://download.microsoft.com/download/9/0/4/90412ee2-beeb-4696-9980-862d3b57a37e/SaRA_17_01_0268_015.zip hoặc https://www.microsoft.com/en-us/download/100607 sau đó cài mới lại xem sao**
 
 ## Sao lưu Office và Windows ##
 - Mở **NotePad** copy đoạn mã sau vào và bấm **Save As** với tên **SaoluuOfficeVaWindows.cmd** rồi Run file này dưới quyền **Run Administrator**, làm theo hướng dẫn.
